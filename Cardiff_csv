@@ -1,0 +1,917 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+329950,3,2,51.508849,-3.26903,"Coedlan Y Trenshys, St. Fagans",0,1,0
+1500000,5,4,51.536037,-3.107059,"Druidstone Road, Old St. Mellons, Cardiff",1,0,0
+1475000,4,3,51.52206,-3.164371,"Cyncoed Road, Cardiff, CF23",1,0,0
+1400000,6,3,51.51449,-3.25155,"Heol Isaf, Radyr, Cardiff",0,1,0
+1395000,5,4,51.542707,-3.177656,"Mill Road, Lisvane, Cardiff, CF14",1,0,0
+1395000,6,3,51.516643,-3.257185,"Drysgol Road, Radyr",1,0,0
+1375000,6,5,51.520351,-3.15753,"Hollybush Road, Cyncoed, Cardiff, CF23",1,0,0
+1375000,7,5,51.520927,-3.157236,"Hollybush Road, Cyncoed, Cardiff",1,0,0
+1350000,6,3,51.536037,-3.107059,"Druidstone Road, Old St. Mellons, Cardiff",1,0,0
+1300000,4,2,51.519703,-3.165787,"Llandennis Avenue, Cyncoed, Cardiff, CF23",1,0,0
+1295000,5,5,51.521457,-3.156472,"Hollybush Road, Cyncoed, Cardiff, CF23",1,0,0
+1200000,6,4,51.534328,-3.216581,"Coed Y Wenallt, Rhiwbina, Cardiff",1,0,0
+1200000,4,2,51.49329,-3.2246,"Hardwicke Court, Cardiff",1,0,0
+1200000,6,4,51.47717,-3.267866, St. Fagans,1,0,0
+1200000,4,3,51.488101,-3.20792,"Pencisely Road, Llandaff, Cardiff",1,0,0
+1150000,5,3,51.54253,-3.16637,"Dderwen Deg, Lisvane, Cardiff",1,0,0
+1150000,5,3,51.517298,-3.256665,"Windsor Avenue, Radyr",1,0,0
+1100000,5,2,51.508682,-3.165607,"Cyncoed Road, Cyncoed, Cardiff",1,0,0
+1100000,4,4,51.538045,-3.169927,"7, The Sandringham, Beaufort Park, Lisvane Road, Lisvane, CF14",1,0,0
+1100000,5,2,51.508675,-3.165456,"Cyncoed Road, Cyncoed, Cardiff, CF23",1,0,0
+1100000,4,2,51.50922,-3.23195,"The Parade, Whitchurch, Cardiff",0,1,0
+1100000,4,2,51.493774,-3.222167,"Ynys Y Coed, Llandaff, Cardiff",1,0,0
+1000000,4,2,51.518639,-3.164606,"Cyncoed Road, Cyncoed, Cardiff",1,0,0
+1000000,5,3,51.490196,-3.218677,"St. Michaels Road, Llandaff, Cardiff",0,1,0
+295000,3,1,51.540512,-3.188611,"Oakridge, Thornhill, Cardiff",0,0,1
+545995,4,1,51.53359,-3.1611,"Tir Y Bar, 
+Lisvane, 
+Cardiff, 
+CF14 0AN",1,0,0
+995000,5,1,51.504382,-3.163645,"Ty Gwyn Crescent, Penylan, Cardiff, CF23",1,0,0
+995000,5,4,51.538045,-3.169927,"6 The Hatfield Beaufort Park, Lisvane Road, Lisvane, CF14",1,0,0
+995000,5,4,51.538045,-3.169927,"Plot 8 The Hatfield, Beaufort Park, Lisvane Road, Lisvane, CF14",1,0,0
+975000,0,0,51.48831,-3.15721,"Stacey Road, Cardiff(City), CF24",1,0,0
+970000,4,3,51.478478,-3.270689,"Court Cottages, Michaelston Road, St. Fagans, Cardiff, CF5 6EN",1,0,0
+965000,4,3,51.544873,-3.17697,"Graig Road, Lisvane",1,0,0
+950000,5,2,51.495502,-3.223161,"The Avenue, Llandaff, Cardiff",0,1,0
+925000,6,4,51.521544,-3.157877,"Hollybush Road, Cyncoed, Cardiff, CF23",1,0,0
+895000,3,2,51.49375,-3.23211,"Pwllmelin Lane, Llandaff, Cardiff",1,0,0
+895000,4,2,51.50629,-3.16616,"Ty Gwyn Gardens, Penylan, Cardiff",1,0,0
+875000,4,2,51.520499,-3.157798,"Hollybush Road, Cyncoed, Cardiff, CF23",1,0,0
+875000,4,1,51.523956,-3.166659,"Bryngwyn Road, Cyncoed, Cardiff",1,0,0
+875000,6,6,51.487442,-3.197704,"Cathedral Road, Pontcanna, Cardiff",0,0,1
+875000,5,2,51.53635,-3.17649,"Cwrt Cefn, Lisvane, Cardiff",1,0,0
+850000,5,3,51.50752,-3.167522,"Ffordd Bodlyn, Cyncoed, Cardiff., CF23",1,0,0
+850000,5,3,51.498313,-3.158983,"Melrose Avenue, Penylan, Cardiff",1,0,0
+825000,5,4,51.523286,-3.180078,"Fidlas Road, Llanishen, Cardiff, CF14",1,0,0
+820000,4,2,51.523951,-3.166673,"Bryngwyn Road, Cyncoed, Cardiff",1,0,0
+500000,4,2,51.52655,-3.300713,"Heol Y Parc, Pentyrch, Cardiff",1,0,0
+799995,4,2,51.534713,-3.183745,"Everest Walk, Cardiff",1,0,0
+795000,4,2,51.493,-3.23482,"Marionville Gardens, Llandaff, Cardiff",1,0,0
+795000,5,3,51.53003,-3.2945,"Heol Y Pentre, Pentyrch",1,0,0
+795000,4,2,51.507484,-3.177037,"Lake Road West, Roath Park, Cardiff, CF23",0,1,0
+780000,4,3,51.484214,-3.194745,"Ryder Street, Cardiff",0,0,1
+779950,5,3,51.511317,-3.299473,"Llantrisant Road, Capel Llanilltern",1,0,0
+775000,5,3,51.510399,-3.252668,"Heol Rufus, Radyr",1,0,0
+775000,4,1,51.500487,-3.158994,"Dorchester Avenue, Penylan, Cardiff, CF23",0,1,0
+775000,5,4,51.534579,-3.213652,"Heol Ifor Bach, Rhiwbina, Cardiff.",1,0,0
+760000,4,2,51.519276,-3.177927,"Llandennis Road, Cyncoed",0,1,0
+750000,4,3,51.512783,-3.259199,"Pilgrim Close, Radyr, Cardiff",1,0,0
+750000,3,2,51.542063,-3.166569,"Cefn Mably Road, Lisvane, Cardiff, South Glamorgan, CF14",1,0,0
+750000,5,2,51.495375,-3.228905,"Rookwood Avenue, Llandaff",0,1,0
+750000,6,3,51.50143,-3.17555,"Ninian Road, Roath Park, Cardiff",1,0,0
+750000,5,2,51.531673,-3.291278,"Clos Cefn Bychan, Pentyrch",1,0,0
+750000,4,1,51.52422,-3.206695,"Beulah Road, Rhiwbina, Cardiff. CF14 ",0,1,0
+750000,4,2,51.485317,-3.198336,"Kings Road, Pontcanna, Cardiff",0,0,1
+750000,4,1,51.537394,-3.182619,"Millrace Close, Cardiff",1,0,0
+735000,4,3,51.511917,-3.257125,"Llantarnam Drive, Radyr",1,0,0
+733995,4,1,51.54364,-3.17245,"Llwyn Y Pia Road,
+Lisvane,
+Cardiff,
+CF14 0SX",1,0,0
+730000,5,3,51.509036,-3.252831,"Heol Roald Dahl, Radyr",1,0,0
+725000,5,2,51.52647,-3.231108,"Maes-Yr-Haf, Rhiwbina",0,1,0
+725000,5,2,51.488845,-3.213995,"Pencisely Road, Llandaff, Cardiff",0,0,1
+724995,5,1,51.54364,-3.17245,"Llwyn Y Pia Road,
+Lisvane,
+Cardiff,
+CF14 0SX",1,0,0
+700000,4,3,51.54433,-3.178157,"Cherry Orchard, Lisvane, Cardiff, CF14",1,0,0
+700000,4,3,51.51044,-3.27224,"Trem Y Rhyd, St. Fagans, Cardiff(City), CF5",1,0,0
+700000,4,2,51.51114,-3.1673,"Cefn Coed Avenue, Cardiff",1,0,0
+700000,4,3,51.510766,-3.223182,"Bishops Road, Whitchurch, Cardiff, CF14",0,1,0
+699995,4,1,51.51017,-3.25229,"Heol Rufus,
+Radyr,
+Cardiff,
+CF15 8GU",1,0,0
+699950,5,2,51.51069,-3.22853,"Beech View, The Orchards, Heol Don, Whitchurch, Cardiff",0,1,0
+699950,5,2,51.50912,-3.228279,"Heol Don, Whitchurch, Cardiff",0,1,0
+699000,3,2,51.487369,-3.200255,"Pontcanna Street, Cardiff",0,0,1
+695000,5,1,51.51622,-3.22479,"Park Road, Whitchurch, Cardiff",0,1,0
+675000,4,2,51.542631,-3.172712,"Llwyn Y Pia Road, Lisvane",1,0,0
+675000,4,2,51.541673,-3.182279,"Ivydale, Lisvane, Cardiff",1,0,0
+665000,5,3,51.5421,-3.18237,"Ivydale, Lisvane, Cardiff",1,0,0
+650000,3,2,51.52568,-3.22273,"Heol Y Coed, Rhiwbina, Cardiff, CF14",1,0,0
+650000,4,3,51.477262,-3.268238,"Cwrt Y Cadno, St Fagans, Cardiff, CF5",1,0,0
+650000,4,2,51.480594,-3.270653,"Michaelston Road, St Fagans, Cardiff",1,0,0
+650000,4,2,51.47727,-3.26824,"Cwrt Y Cadno, St Fagans, Cardiff",1,0,0
+650000,5,2,51.49686,-3.161192,"Kimberley Road, Cardiff, CF23",0,0,1
+350000,3,2,51.51949,-3.08821,"Water Avens Close, Cardiff",1,0,0
+650000,5,2,51.52361,-3.230638,"Pantmawr Road, Cardiff, CF14",1,0,0
+650000,4,1,51.500295,-3.231456,"Highfields, Llandaff",1,0,0
+650000,4,1,51.524679,-3.16489,"Cyncoed Road, Cyncoed, Cardiff",0,1,0
+650000,4,1,51.511816,-3.167582,"Cefn Coed Avenue, Cyncoed, Cardiff, CF23",1,0,0
+650000,4,1,51.534931,-3.189258,"Everest Avenue, Cardiff",1,0,0
+645000,3,2,51.533366,-3.177738,"Lisvane Road, Llanishen, Cardiff, CF14",1,0,0
+645000,5,1,51.525688,-3.216089,"Heol Y Deri, Rhiwbina, Cardiff. CF14 ",0,1,0
+641995,4,1,51.51017,-3.25229,"Heol Rufus,
+Radyr,
+Cardiff,
+CF15 8GU",1,0,0
+635000,4,2,51.484222,-3.197454,"Kings Road, Pontcanna, Cardiff",0,0,1
+630000,4,2,51.545248,-3.177588,"Cardinal Drive, Lisvane, Cardiff, CF14",1,0,0
+625000,5,2,51.527908,-3.202405,"Thornhill Road, Llanishen",0,1,0
+625000,5,2,51.535667,-3.176621,"Chartwell Drive, Lisvane, Cardiff, CF14",1,0,0
+625000,4,2,51.541832,-3.184155,"Ridgeway, Cardiff, CF14",1,0,0
+620000,4,2,51.510684,-3.198251,"St. Albans Avenue, Cardiff",0,1,0
+615000,4,1,51.52607,-3.219948,"Heol Y Bryn, Rhiwbina, Cardiff. CF14 ",0,1,0
+611995,4,1,51.53359,-3.1611,"Ty-Draw Road
+Lisvane
+Cardiff
+CF23 6XL",1,0,0
+600000,5,2,51.53763,-3.19753,"Orchard Castle, Thornhill, Cardiff",1,0,0
+600000,4,3,51.50672,-3.16877,"Ffordd Cwellyn, Penylan, Cardiff.",1,0,0
+600000,4,3,51.499336,-3.173486,"Morlais Street, Roath Park, Cardiff",0,0,1
+600000,4,3,51.50932,-3.202462,"Nant Y Fedw, Cardiff, CF14",1,0,0
+600000,5,2,51.531,-3.11245,"Ty'r Winch Road, Old St. Mellons, Cardiff",1,0,0
+599950,4,2,51.493381,-3.157325,"Marlbrough Road, Penylan, Cardiff",0,0,1
+599950,5,2,51.534267,-3.177899,"Woodside Court, Llanishen, Cardiff, CF14",1,0,0
+599950,5,2,51.534399,-3.17788,"Woodside Court, Lisvane, Cardiff",1,0,0
+595000,5,1,51.48106,-3.191313,"Cowbridge Road East, Canton, Cardiff",0,0,1
+595000,4,2,51.539978,-3.19271,"Ragnall Close, Thornhill, Cardiff",1,0,0
+588995,4,1,51.4963,-3.22901,"Llantrisant Road,
+Llandaff,
+Cardiff,
+CF5 2YQ",1,0,0
+585000,4,3,51.51426,-3.28152,"Llewelyn Goch, St. Fagans, Cardiff",1,0,0
+585000,4,2,51.508155,-3.197697,"St. Agnes Road, Cardiff",0,1,0
+585000,4,4,51.484595,-3.20073,"Romilly Crescent, Pontcanna",0,0,1
+580000,4,2,51.527957,-3.165745,"Brynawelon Road, Cyncoed",0,1,0
+576995,3,1,51.54364,-3.17245,"Llwyn Y Pia Road,
+Lisvane,
+Cardiff,
+CF14 0SX",1,0,0
+575000,3,1,51.517622,-3.167507,"Pennant Crescent, Lakeside, Cardiff",1,0,0
+575000,4,2,51.499267,-3.233675,"Llantrisant Road, Llandaff, Cardiff",0,1,0
+575000,4,1,51.530486,-3.229364,"Caer Wenallt, Pantmawr, Cardiff. CF14 ",0,1,0
+575000,5,1,51.49289,-3.15704,"Albany Road, Cardiff",0,0,1
+575000,4,2,51.486881,-3.200175,"Pontcanna Street, Cardiff",0,0,1
+575000,3,1,51.490638,-3.21758,"Deans Close, Llandaff, Cardiff",0,1,0
+575000,4,3,51.484245,-3.201688,"Turberville Place, Pontcanna, Cardiff",0,0,1
+575000,4,1,51.500458,-3.232617,"Highfields, Llandaff",1,0,0
+575000,4,1,51.527228,-3.107951,"Ty'n-Y-Gollen Court, Cardiff",1,0,0
+575000,4,1,51.487223,-3.211148,"Syr Davids Avenue, Llandaff, Cardiff",0,0,1
+565000,4,2,51.52695,-3.11292,"Ty'r Winch Road, Old St. Mellons, Cardiff",0,1,0
+565000,4,2,51.51448,-3.18381,"King George V Drive, Heath, Cardiff.",0,1,0
+565000,3,2,51.48454,-3.19225,"Cathedral Road, Cardiff",0,0,1
+565000,4,2,51.5134,-3.226637,"Cambourne Avenue, Cardiff",0,1,0
+565000,5,2,51.49936,-3.15806,"Waterloo Road, Penylan, Cardiff",0,1,0
+565000,4,1,51.503153,-3.16043,"Cyncoed Road, Cyncoed, Cardiff",0,1,0
+556995,4,1,51.53359,-3.1611,"Tir Y Bar, 
+Lisvane, 
+Cardiff, 
+CF14 0AN",1,0,0
+555995,4,1,51.54364,-3.17245,"Llwyn Y Pia Road,
+Lisvane,
+Cardiff,
+CF14 0SX",1,0,0
+550995,3,1,51.51017,-3.25229,"Heol Rufus,
+Radyr,
+Cardiff,
+CF15 8GU",1,0,0
+550000,4,2,51.532304,-3.295992,"Clos Goch, Pentyrch",1,0,0
+550000,3,2,51.501218,-3.159551,"Pen-y-Lan Road, Penylan, Cardiff",0,1,0
+550000,5,3,51.523441,-3.200452,"Watkins Square, Llanishen, Cardiff",1,0,0
+550000,4,3,51.530221,-3.111844,"Wern Fawr Lane, Old St. Mellons, CF3",1,0,0
+550000,5,2,51.53551,-3.17571,"Chartwell Drive, Lisvane, Cardiff",1,0,0
+550000,3,2,51.50777,-3.2064,"Heol Y Gors, Whitchurch, Cardiff",0,1,0
+550000,4,2,51.52877,-3.11124,"Hastings Crescent, Old St. Mellons, Cardiff",1,0,0
+550000,4,2,51.519634,-3.190879,"Maes-Y-Coed Road, Heath, Cardiff",0,1,0
+550000,4,2,51.541218,-3.184658,"Clos Llysfaen, Lisvane, Cardiff, CF14",1,0,0
+550000,4,3,51.462405,-3.27515,"Wenvoe, Cardiff",1,0,0
+550000,4,2,51.529438,-3.165252,"Gwernrhuddi Road, Cyncoed, Cardiff",1,0,0
+550000,4,2,51.545231,-3.190445,"Cefn Onn Meadows, Cardiff, CF14",1,0,0
+550000,4,2,51.52922,-3.21937,"Fairbrook Close, Rhiwbina, Cardiff, CF14",1,0,0
+550000,4,1,51.490288,-3.20274,"31 Fields Park Road, Pontcanna Cardiff",0,0,1
+550000,3,2,51.484916,-3.208527,"Romilly Place, Cardiff",1,0,0
+247500,2,1,51.50759,-3.12528,"Maes Yr Ysgol, Rumney, Cardiff",0,0,1
+550000,6,4,51.4886,-3.16355,"St. Michael's Court, Elm Street Lane, Cardiff",1,0,0
+549950,3,1,51.52147,-3.21239,"Pen-y-dre, Rhiwbina, CF14",1,0,0
+549000,5,3,51.53793,-3.12112,"Clos Thomas, St Edeyrns",1,0,0
+539995,3,1,51.54364,-3.17245,"Llwyn Y Pia Road,
+Lisvane,
+Cardiff,
+CF14 0SX",1,0,0
+539995,4,1,51.53359,-3.1611,"Ty-Draw Road
+Lisvane
+Cardiff
+CF23 6XL",1,0,0
+535000,6,2,51.53828,-3.1863,"Cheriton Drive, Thornhill, Cardiff",1,0,0
+535000,4,1,51.51395,-3.22631,"Cambourne Avenue, Whitchurch, CARDIFF",1,0,0
+525000,4,2,51.51667,-3.18891,"St. Denis Road, Heath, Cardiff",0,1,0
+525000,3,2,51.490081,-3.200971,"Fairleigh Road, Cardiff",0,0,1
+525000,4,2,51.499152,-3.154012,"Barons Court Road, Penylan, Cardiff",0,1,0
+525000,4,2,51.532197,-3.296849,"Clos Goch, Pentyrch, Cardiff. CF15 ",1,0,0
+525000,4,1,51.53828,-3.1863,"Cheriton Drive, Thornhill, Cardiff",1,0,0
+525000,4,2,51.51584,-3.223316,"Tyn-Y-Pwll Road, Cardiff, CF14",0,1,0
+525000,4,2,51.532334,-3.295547,"Clos Goch, Pentyrch",1,0,0
+525000,5,2,51.51625,-3.1682,"Ogwen Drive, Cardiff",0,1,0
+525000,5,1,51.522092,-3.202934,"Waun-y-groes Avenue, Rhiwbina, Cardiff. CF14",0,1,0
+525000,5,2,51.517253,-3.20613,"Homelands Road, Cardiff",0,1,0
+525000,4,1,51.53857,-3.185869,"Cheriton Drive, Thornhill, Cardiff",1,0,0
+525000,3,2,51.51813,-3.22196,"St. Margarets Place, Whitchurch, Cardiff",0,1,0
+520000,4,3,51.46227,-3.27473,"Picca Close, Cardiff",1,0,0
+340000,3,1,51.53666,-3.24754,"Maes Y Draenog, Tongwynlais, Cardiff",1,0,0
+520000,4,3,51.506057,-3.243349,"Timothy Rees Close, Danescourt",1,0,0
+520000,5,0,51.54075,-3.20829,"Bassetts Field, Thornhill, Cardiff",1,0,0
+515000,3,1,51.49606,-3.15539,"Westville Road, Penylan, Cardiff",0,0,1
+509995,4,1,51.4963,-3.22901,"Llantrisant Road,
+Llandaff,
+Cardiff,
+CF5 2YQ",1,0,0
+503995,4,1,51.51017,-3.25229,"Heol Rufus,
+Radyr,
+Cardiff,
+CF15 8GU",1,0,0
+500000,3,1,51.51501,-3.22821,"Velindre Place, Cardiff",0,1,0
+500000,5,1,51.48041,-3.19114,"Neville Street, Cardiff",0,0,1
+500000,5,2,51.523956,-3.259324,"Ael-y-bryn, Cardiff, CF15",1,0,0
+500000,4,1,51.489627,-3.200319,"Gileston Road, Pontcanna, Cardiff",0,0,1
+500000,5,5,51.485714,-3.21229,"Romilly Road, Canton",0,1,0
+500000,4,2,51.52456,-3.30112,"Heol Y Parc, Pentyrch, Cardiff",1,0,0
+500000,2,1,51.48558,-3.200481,"Severn Grove, Pontcanna, Cardiff",0,1,0
+500000,8,2,51.477694,-3.188474,"Clare Street, Canton, Cardiff",0,0,1
+500000,4,3,51.50571,-3.244365,"Herbert March Close, Danescourt, Cardiff",1,0,0
+499995,4,2,51.491602,-3.155171,"Albany Road, Cardiff",0,1,0
+499995,4,1,51.53359,-3.1611,"Ty-Draw Road
+Lisvane
+Cardiff
+CF23 6XL",1,0,0
+499950,4,1,51.51328,-3.288617,"Nant Y Ffynnon, Capel Llanilltern",1,0,0
+499950,3,2,51.521795,-3.174947,"Dan-yr-Heol, Cyncoed",0,1,0
+499950,5,2,51.525172,-3.262702,"Maes Y Fioled, Morganstown",1,0,0
+495000,4,2,51.48601,-3.22427,"Aubrey Avenue, Victoria Park, Cardiff",0,1,0
+495000,3,1,51.517942,-3.167264,"Pennant Crescent, Cardiff, CF23",1,0,0
+430000,3,1,51.506778,-3.211685,"Glas Canol, CARDIFF",1,0,0
+495000,4,1,51.541258,-3.204385,"Tansy Close, Cardiff",1,0,0
+495000,8,2,51.47765,-3.18847,"Clare Street, Cardiff",0,0,1
+489950,5,3,51.477591,-3.276094,"Clos Y Cwarra, St Fagans",1,0,0
+485000,3,1,51.497009,-3.15871,"15 Amesbury Road, Pen-Y-Lan, Cardiff, CF23 5DW",0,0,1
+485000,3,2,51.473684,-3.277563,"Drope Road, St. George's-super-ely",0,1,0
+485000,3,1,51.523276,-3.160963,"Briarwood Drive, Cyncoed, Cardiff",1,0,0
+485000,4,2,51.52829,-3.11353,"Mill Lane, Old St. Mellons, Cardiff",1,0,0
+485000,5,2,51.53641,-3.12065,"Rhodfa Lewis, St Edeyrns",1,0,0
+485000,4,2,51.53475,-3.18852,"Everest Avenue, Llanishen",0,1,0
+485000,4,2,51.532282,-3.142061,"The Farthings, Pontprennau, Cardiff",1,0,0
+477995,3,1,51.53359,-3.1611,"Tir Y Bar, 
+Lisvane, 
+Cardiff, 
+CF14 0AN",1,0,0
+475000,4,2,51.50827,-3.192716,"King George V Drive West, Heath, Cardiff",0,1,0
+475000,4,2,51.535779,-3.145581,"Maes Y Wennol, Pontprennau, Cardiff, CF23",1,0,0
+475000,4,1,51.50324,-3.15658,"Llwyn-Y-Grant Place, Penylan, Cardiff",0,0,1
+475000,4,1,51.51579,-3.09521,"Matthysens Way, St. Mellons, Cardiff",1,0,0
+475000,3,2,51.508714,-3.208066,"Maelog Road, Whitchurch, Cardiff, CF14",0,1,0
+475000,3,1,51.523059,-3.212968,"Heol Y Deri, Cardiff",0,1,0
+475000,4,1,51.516501,-3.183184,"Crystal Avenue, Heath, Cardiff",0,1,0
+475000,4,2,51.479515,-3.26976,"Trem Y Coed, St. Fagans, Cardiff",1,0,0
+475000,4,1,51.528557,-3.297428,"Bron Haul, Cardiff",1,0,0
+475000,4,2,51.535062,-3.189871,"Heol Hir, Llanishen, Cardiff, CF14",0,1,0
+475000,3,2,51.51522,-3.20526,"14 Llwynfedw Road, Cardiff CF14 1UL",0,1,0
+470000,4,1,51.497192,-3.160209,"Ladysmith Road, Cardiff",0,0,1
+470000,7,2,51.494934,-3.185192,"25 Pentyrch Street, Cardiff",0,0,1
+469000,4,3,51.524504,-3.266057,"Maes Yr Orchis, Morganstown, CF15",1,0,0
+465000,2,1,51.486309,-3.204502,"Llanfair Road, Pontcanna, Cardiff",0,0,1
+465000,4,2,51.521511,-3.267807,"Pine Tree Close, Radyr, Cardiff",1,0,0
+465000,4,2,51.47624,-3.27224,"Falconwood Drive, CARDIFF",1,0,0
+465000,4,2,51.53151,-3.154391,"Borage Close, Pontprennau, CF23",1,0,0
+460000,5,5,51.480548,-3.192085,"Neville Street, CARDIFF",1,0,0
+460000,4,3,51.535247,-3.143561,"Clos Gwy, Pontprennau, Cardiff",1,0,0
+460000,6,6,51.48032,-3.19171,"Neville Street, Cardiff(City), CF11",1,0,0
+460000,3,2,51.504459,-3.170135,"Dovedale Close, Cyncoed",0,1,0
+450000,5,1,51.51651,-3.11833,"Tai Cae'r Castell, Rumney, Cardiff",1,0,0
+450000,3,1,51.518825,-3.205802,"Ty Wern Road, Rhiwbina, Cardiff . CF14 ",0,1,0
+450000,6,6,51.486541,-3.156136,"Emerald Street, Adamsdown",0,0,1
+450000,3,3,51.506497,-3.158547,"Lothian Crescent, Penylan, Cardiff",1,0,0
+450000,3,2,51.512931,-3.195542,"Heathwood Road, Cardiff",0,1,0
+450000,4,2,51.53358,-3.18902,"Heol Hir, Llanishen, Cardiff",0,1,0
+450000,3,1,51.53124,-3.29461,"Berthllwyd, Pentyrch, Cardiff(City), CF15",0,1,0
+450000,4,2,51.534614,-3.094159,"Cypress Crescent, Cardiff",1,0,0
+450000,4,2,51.50089,-3.24541,"Camelia Court, Cardiff",1,0,0
+450000,7,2,51.49091,-3.17614,"Fitzroy Street, Cardiff",0,0,1
+450000,3,2,51.512638,-3.193717,"St Anthony Road, Heath, Cardiff, CF14",0,1,0
+390000,3,1,51.53425,-3.21114,"Heol Briwnant, Rhiwbina, Cardiff",0,1,0
+450000,5,4,51.47757,-3.19639,"Ninian Park Road, Cardiff(City), CF11",0,0,1
+450000,4,3,51.53994,-3.11902,"Rhodfa Leonard, Old St. Mellons, Cardiff, CF3",1,0,0
+450000,4,2,51.541652,-3.194203,"Mayfair Drive, Cardiff",1,0,0
+450000,4,1,51.532073,-3.15556,"Nasturtium Way, Pontprennau, Cardiff",1,0,0
+450000,3,1,51.511668,-3.193451,"St. Anthony Road, Heath, Cardiff. CF14",0,1,0
+450000,4,1,51.517469,-3.170944,"Duffryn Avenue, Lakeside, Cardiff",0,1,0
+450000,4,2,51.530486,-3.229364,"Caer Wenallt, Pantmawr, Cardiff. CF14 ",1,0,0
+450000,4,2,51.503116,-3.228958,"Andrews Road, Llandaff North, Cardiff",1,0,0
+450000,4,2,51.485198,-3.160739,"Piercefield Place, Adamstown, Cardiff, CF24 (Ref: 10159)",0,0,1
+450000,2,1,51.487014,-3.204971,"Meadow Street, Pontcanna, Cardiff",0,0,1
+450000,3,1,51.50901,-3.193268,"St. Anthony Road, Cardiff",0,1,0
+450000,3,1,51.52613,-3.22289,"Heol Y Coed, Rhiwbina, Cardiff, CF14",0,1,0
+450000,3,2,51.502204,-3.168951,"Brandreth Road, Penylan",0,1,0
+450000,3,2,51.487827,-3.213008,"Vishwell Road, Cardiff",0,0,1
+450000,4,2,51.54045,-3.20294,"Angelica Way, Thornhill, Cardiff",1,0,0
+450000,4,2,51.50026,-3.17581,"Shirley Road, Cardiff",0,0,1
+450000,4,2,51.532778,-3.184435,"Everest Avenue, Llanishen",0,1,0
+450000,3,1,51.487877,-3.201621,"Severn Grove, Pontcanna",0,0,1
+449995,4,1,51.51244,-3.30827,"Llantrisant Road,
+Tresimwn,
+Cardiff,
+CF5 6JR",1,0,0
+445000,4,2,51.532452,-3.15619,"Nasturtium Way, Pontprennau, Cardiff, CF23",1,0,0
+440000,4,3,51.53105,-3.1544,"Borage Close, Pontprennau, Cardiff, CF23",1,0,0
+440000,4,2,51.532164,-3.153614,"Dartington Drive, Cardiff, CF23",1,0,0
+440000,4,2,51.533172,-3.134095,"Cowslip Close, Pontprennau, Cardiff",1,0,0
+440000,4,1,51.530898,-3.154735,"BORAGE Close, Pontprennau",1,0,0
+440000,4,2,51.531131,-3.154256,"Borage Close, Pontprennau, Cardiff",1,0,0
+439000,3,1,51.511782,-3.180475,"Heath Park Drive, Heath, Cardiff.",1,0,0
+435000,4,3,51.48862,-3.161076,"Partridge Road, Roath, Cardiff",0,0,1
+435000,4,2,51.462032,-3.272156,"Gwern Close, St Lythans Park, Culverhouse Cross, Cardiff",1,0,0
+435000,2,1,51.48535,-3.20048,"Severn Grove, Pontcanna, Cardiff",0,0,1
+435000,4,2,51.52768,-3.26258,"Ravensbrook, Morganstown, Cardiff",1,0,0
+435000,1,2,51.488427,-3.202622,"Cathedral Road, Pontcanna, Cardiff CF11 9PP",0,0,1
+435000,4,2,51.461981,-3.271868,"Gwern Close, Cardiff, CF5",1,0,0
+435000,5,2,51.49541,-3.16675,"Bangor Street, Cardiff",0,0,1
+430000,4,2,51.50479,-3.3007,"St. Y Nyll Lane, Capel Llanilltern, Cardiff",1,0,0
+430000,4,1,51.536221,-3.201009,"Camelot Way, Cardiff, CF14",1,0,0
+430000,4,2,51.535877,-3.134215,"Cork Drive, Pontprennau, Cardiff",1,0,0
+429950,3,2,51.503881,-3.250354,"Heol Cynwrig, Cardiff",1,0,0
+425000,2,1,51.49011,-3.20104,"Fairleigh Road, Cardiff",0,0,1
+425000,4,2,51.524421,-3.267618,"Maes Y Crofft, Morganstown",1,0,0
+425000,4,2,51.519519,-3.194357,"Maes-Y-Coed Road, Heath, Cardiff, CF14",0,1,0
+425000,3,1,51.49284,-3.153,"Axminster Road, Roath, Cardiff",0,0,1
+425000,4,2,51.519518,-3.194348,"Maes-Y-Coed Road, Heath, Cardiff. CF14",0,1,0
+425000,4,2,51.494915,-3.134221,"Page Drive, Pengam Green, Cardiff",1,0,0
+425000,4,2,51.535885,-3.146228,"Maes Y Wennol, Pontprennau, Cardiff, CF23",1,0,0
+425000,6,2,51.49614,-3.1829,"Pentyrch Street, Cardiff",0,1,0
+239950,2,1,51.49926,-3.152846,"Foster Drive, Penylan, Cardiff",0,0,1
+425000,3,1,51.511443,-3.194505,"St. Benedict Crescent, Cardiff, CF14",0,1,0
+425000,3,2,51.522851,-3.263047,"Penrhos, Radyr",1,0,0
+425000,4,2,51.464935,-3.265857,"Heol Collen, Cardiff",1,0,0
+425000,4,0,51.495868,-3.136345,"Page Drive, Cardiff",1,0,0
+425000,3,1,51.485866,-3.211098,"Preswylfa Street, Cardiff",0,0,1
+425000,4,1,51.535247,-3.203758,"Tristram Close, Thornhill, Cardiff",1,0,0
+425000,4,2,51.534537,-3.146554,"Clos Cwm Du, Pontprennau, Cardiff, CF23",1,0,0
+425000,4,1,51.53327,-3.21025,"Heol Lewis, Rhiwbina, CF14",0,1,0
+425000,3,2,51.52707,-3.20158,"Coed Glas Road, Llanishen, Cardiff, CF14",0,1,0
+425000,3,1,51.486381,-3.213498,"Staines Street, Canton",1,0,0
+425000,3,1,51.507507,-3.201521,"Llwyn Derw Road, Whitchurch, Cardiff",0,1,0
+425000,3,1,51.502181,-3.167455,"Brandreth Road, Penylan, Cardiff, CF23",0,1,0
+420000,6,2,51.4907,-3.17887,"Wyeverne Road, Cardiff",0,0,1
+420000,4,2,51.53537,-3.123381,"Heol Williams, St Edeyrns",1,0,0
+420000,3,1,51.51074,-3.197188,"St. Aidan Crescent, Heath, Cardiff. CF14 ",0,1,0
+420000,4,2,51.53179,-3.15143,"Felbrigg Crescent, CARDIFF",1,0,0
+419995,3,1,51.50465,-3.24681,"Llantrisant Road,
+Cardiff,
+CF5 2PY",1,0,0
+419995,4,1,51.51244,-3.30827,"Llantrisant Road,
+Tresimwn,
+Cardiff,
+CF5 6JR",1,0,0
+419995,4,2,51.53923,-3.13543,"Hendredenny Drive, Hendredenny, Caerphilly",1,0,0
+419950,4,3,51.496415,-3.135461,"Page Drive, Cardiff",1,0,0
+415000,4,1,51.525013,-3.089042,"Clos Tyla Bach, Cardiff",1,0,0
+415000,4,1,51.505168,-3.136105,"Newport Road, Cardiff",0,1,0
+415000,4,2,51.536872,-3.136538,"Kinsale Close, Pontprennau, Cardiff",1,0,0
+415000,2,0,51.487552,-3.205716,"Bloom Street, Cardiff",0,0,1
+414995,4,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",1,0,0
+410000,4,2,51.46645,-3.26232,"Meirwen Drive, Cardiff",1,0,0
+400000,4,1,51.516322,-3.094503,"William Belcher Drive, Cardiff",1,0,0
+400000,4,3,51.532912,-3.138921,"Enbourne Crescent, Pontprennau",1,0,0
+400000,3,1,51.51828,-3.194788,"St. Brigid Road, Cardiff, South Glamorgan",0,1,0
+400000,2,1,51.48447,-3.19916,"Wyndham Road, Cardiff",0,0,1
+400000,2,1,51.485351,-3.20042,"Severn Grove, Pontcanna, Cardiff",0,0,1
+400000,3,2,51.48467,-3.22365,"Mayfield Avenue, Cardiff",0,0,1
+400000,4,1,51.5199,-3.08787,"Valarian Close, St Mellons - REF# 00021216",1,0,0
+400000,8,2,51.49102,-3.15569,"Newport Road, Caerdydd, Newport Road, Cardiff, CF24",0,0,1
+400000,3,2,51.524487,-3.26583,"Maes Yr Orchis, Cardiff",1,0,0
+400000,3,1,51.53047,-3.29652,"Heol Y Pentre, Pentyrch, Cardiff(City), CF15",0,1,0
+400000,4,2,51.49409,-3.258774,"Summerwood Close, Fairwater, CF5",1,0,0
+400000,4,2,51.51248,-3.13116,"Llanrumney Avenue, Llanrumney, Cardiff",1,0,0
+400000,4,2,51.53299,-3.13902,"Enbourne Drive, Pontprennau",1,0,0
+400000,4,3,51.495069,-3.139762,"Page Drive, Pengam Green, Cardiff",1,0,0
+400000,4,1,51.523688,-3.088687,"Minsmere Close, Cardiff",1,0,0
+400000,3,2,51.5275,-3.109888,"Hastings Crescent, Old St. Mellons, Cardiff",1,0,0
+310000,3,1,51.479629,-3.203856,"Alexandra Road, Canton, Cardiff",0,0,1
+400000,3,1,51.50311,-3.22256,"Gabalfa Avenue, Cardiff",1,0,0
+400000,3,1,51.504298,-3.123025,"Wentloog Road, Cardiff",0,1,0
+399995,3,1,51.51504,-3.198562,"Pum Erw Road, Cardiff",0,1,0
+399995,3,1,51.53359,-3.1611,"Tir Y Bar, 
+Lisvane, 
+Cardiff, 
+CF14 0AN",0,0,1
+399995,3,1,51.508305,-3.217249,"Maes Glas, Whitchurch, Cardiff, CF14",0,0,1
+399950,4,2,51.530536,-3.299823,"Bronllwyn, Pentyrch",0,1,0
+395000,4,1,51.51501,-3.22821,"Velindre Place, Whitchurch, Cardiff",0,1,0
+395000,3,2,51.51799,-3.21864,"Ashgrove, Whitchurch, Cardiff",1,0,0
+395000,4,2,51.530739,-3.161435,"Gwern Rhuddi Road, Cyncoed, Cardiff",0,1,0
+395000,4,3,51.49178,-3.1694,"Glenroy Street, Cardiff",0,0,1
+395000,4,2,51.532898,-3.133336,"Barnfield Close, Pontprennau, Cardiff, CF23",1,0,0
+394995,4,1,51.53359,-3.1611,"Ty-Draw Road
+Lisvane
+Cardiff
+CF23 6XL",0,0,1
+394950,4,2,51.504157,-3.24757,"Plot 2 - The Berkley At Dol Werdd, Llantrisant Road, Cardiff, CF5",0,1,0
+394950,4,2,51.504332,-3.247332,"The Berkley at Dol Werdd, Plasdwr, Cardiff",0,1,0
+392950,4,2,51.504333,-3.247343,"The Berkley At Dol Werdd, Plasdwr, Cardiff",0,1,0
+392950,4,2,51.504133,-3.247152,"Plot 4 - The Berkley, Dol Werdd, Plasdwr, Llantrisant, Cardiff, CF5",0,1,0
+390000,3,1,51.522,-3.20491,"Waun Y Groes Avenue, Rhiwbina, Cardiff, CF14",0,1,0
+390000,5,2,51.4907,-3.17887,"Wyeverne Road, Cardiff",0,0,1
+390000,3,1,51.49561,-3.1548,"Deri Road, Penylan, Cardiff",0,0,1
+385995,3,1,51.50465,-3.24681,"Llantrisant Road,
+Cardiff,
+CF5 2PY",0,1,0
+385000,4,3,51.526037,-3.089167,"Maes-y-Crochan, St. Mellons, Cardiff",1,0,0
+385000,3,2,51.52123,-3.22636,"Lon-Y-Celyn, Whitchurch, Cardiff",0,1,0
+385000,4,1,51.483422,-3.211286,"Clive Road, Canton, Cardiff",0,1,0
+385000,3,1,51.53328,-3.133471,"Cowslip Drive, Pontprennau, Cardiff.",1,0,0
+385000,5,1,51.48551,-3.21143,"Romilly Road, Canton, Cardiff",0,0,1
+385000,3,1,51.513,-3.20496,"Westfield Avenue, Whitchurch, Cardiff, CF14",0,1,0
+380000,3,1,51.528354,-3.232032,"Bryn Adar, Pantmawr, Cardiff. CF14 ",0,1,0
+380000,3,1,51.523082,-3.262372,"Penrhos, Radyr",1,0,0
+380000,3,2,51.53234,-3.21297,"Heol Uchaf, Rhiwbina, Cardiff, CF14",0,1,0
+375000,5,1,51.519658,-3.089695,"Water Avens Close, Cardiff",1,0,0
+375000,2,1,51.504993,-3.129099,"Wentloog Road, Rumney, Cardiff",0,1,0
+375000,3,2,51.495513,-3.261047,"Pentrebane Drive, Cardiff, CF5",0,1,0
+375000,6,2,51.490879,-3.176474,"Fitzroy Street, Cardiff",0,0,1
+375000,3,1,51.504884,-3.148551,"Pinewood Crescent, Penylan, Cardiff, CF23",0,1,0
+375000,5,1,51.53368,-3.20507,"Mayflower Avenue, Llanishen, Cardiff",0,1,0
+375000,4,2,51.52712,-3.14161,"Wyncliffe Gardens, Pentwyn, Cardiff",1,0,0
+375000,3,2,51.50384,-3.24679,"Clos Y Gadwyn, Cardiff, CF5",1,0,0
+375000,0,1,51.476768,-3.203434,"6-8, Broad Street, Leckwith, Cardiff, Cardiff CF11 8BY",0,0,1
+375000,3,2,51.525339,-3.088719,"Maes-y-Crochan, Cardiff, CF3 0EL",1,0,0
+375000,3,1,51.52529,-3.2344,"Coryton Drive, Cardiff",0,1,0
+375000,4,1,51.5246,-3.15756,"Forsythia Drive, Cyncoed - REF#00017480",1,0,0
+675000,3,1,51.509319,-3.225398,"Bishops Road, Whitchurch",0,1,0
+375000,5,2,51.51945,-3.08824,"Water Avens Close, Cardiff",1,0,0
+375000,3,1,51.53542,-3.20384,"Tristram Close, Cardiff",0,1,0
+375000,2,1,51.49361,-3.218992,"High Street, Cardiff",0,0,1
+375000,3,2,51.509323,-3.20534,"The Philog, Whitchurch, Cardiff",0,0,1
+375000,3,2,51.53242,-3.13367,"Charnwood Drive, Pontprennau",1,0,0
+375000,4,2,51.484578,-3.222241,"Fairfield Avenue, Canton",0,0,1
+375000,2,1,51.508937,-3.132467,"753B Newport Road, Rumney, Cardiff ",0,0,1
+375000,2,1,51.488422,-3.205111,"Cwrt Penhill, Pontcanna",0,0,1
+375000,2,1,51.533786,-3.250119,"Mill Road, Tongwynlais",0,1,0
+374999,4,2,51.527139,-3.141522,"Wyncliffe Gardens, Pentwyn, Cardiff",1,0,0
+374950,3,2,51.476829,-3.214811,"Verallo Drive,  Lansdown Gardens, Cardiff",1,0,0
+370000,3,1,51.515633,-3.254364,"The Green, Radyr",0,1,0
+370000,4,1,51.526645,-3.104272,"Sheerwater Close, Cardiff",1,0,0
+370000,3,2,51.48335,-3.20288,"Llandaff Road, Cardiff",0,0,1
+370000,4,2,51.51672,-3.101,"Ffordd Daniel Lewis, St. Mellons, CARDIFF",1,0,0
+370000,3,1,51.51086,-3.23776,"Clos Ty Clyd, Cardiff",1,0,0
+370000,4,1,51.526468,-3.104558,"Sheerwater Close, Cardiff, CF3",1,0,0
+369950,3,1,51.506843,-3.202239,"Llwyn Derw Road, Whitchurch, Cardiff",0,1,0
+365000,3,1,51.51682,-3.17387,"Celyn Avenue, Lakeside, Cardiff",0,1,0
+365000,3,1,51.51993,-3.23108,"Park Crescent, Whitchurch, Cardiff",0,1,0
+365000,4,1,51.51592,-3.119,"Heol Telerch, Rumney, Cardiff",1,0,0
+365000,3,1,51.51428,-3.21176,"Manor Way, Whitchurch, Cardiff",0,1,0
+349950,4,2,51.523147,-3.238633,"Whitworth Square, Whitchurch, Cardiff",0,0,1
+365000,3,1,51.523067,-3.260302,"Graig Lwyd, Radyr",0,1,0
+365000,3,1,51.50921,-3.20615,"The Philog, Whitchurch, Cardiff",0,0,1
+365000,3,1,51.5038,-3.15182,"Oakwood Avenue, Penylan - REF#00020645",0,1,0
+360000,4,2,51.47692,-3.274218,Denison Way St Fagans CARDIFF CF5 4SF,1,0,0
+360000,4,1,51.47652,-3.274298,"Denison Way, St Fagans",1,0,0
+360000,4,2,51.506427,-3.129857,"Wentloog Road, Rumney, Cardiff",1,0,0
+360000,3,1,51.52787,-3.2016,"Coed Glas Road, Llanishen, Cardiff",0,1,0
+359950,3,2,51.5313,-3.12802,"Heol Bennett, St Edeyrns",1,0,0
+357000,4,2,51.524043,-3.184503,"Heol Merlin, Llanishen, Cardiff",0,1,0
+350000,3,2,51.49871,-3.17764,"Tewkesbury Street, Cathays, Cardiff",0,0,1
+350000,3,1,51.541763,-3.19082,"Hillcrest Close, Thornhill, Cardiff",0,1,0
+350000,3,1,51.50708,-3.22944,"Ty Mawr Road, Llandaff North, Cardiff",0,0,1
+350000,4,2,51.485735,-3.159748,"Piercefield Place , Roath",0,0,1
+350000,3,1,51.4837,-3.22103,"Redcliffe Avenue, Victoria Park, Cardiff",0,0,1
+350000,3,1,51.538441,-3.201865,"Avonridge, Thornhill, Cardiff. CF14 ",1,0,0
+350000,4,2,51.50919,-3.26797,"Lon Y Goetre Fach, St. Fagans, Cardiff",0,1,0
+350000,3,2,51.522804,-3.112261,"Bethania Row, Old St. Mellons, Cardiff",1,0,0
+350000,4,1,51.47803,-3.26452,"Butterbur Place, Cardiff",1,0,0
+350000,4,2,51.52704,-3.1037,"Sanderling Drive, St. Mellons, Cardiff",1,0,0
+350000,3,1,51.523166,-3.158768,"Robin Close, Cyncoed, Cardiff",1,0,0
+350000,3,1,51.507758,-3.215488,"College Road, Cardiff",0,1,0
+350000,3,1,51.520696,-3.207481,"Porthamal Road, Rhiwbina, Cardiff. CF14 ",0,0,1
+350000,3,1,51.521589,-3.151795,"Hollybush Road, Cyncoed, Cardiff",0,1,0
+350000,2,1,51.483505,-3.197563,"Wyndham Road, Cardiff",0,0,1
+350000,3,1,51.487606,-3.24263,"Everswell Road, Fairwater, Cardiff",0,1,0
+350000,0,0,51.524143,-3.156285,"PROPERTY REFERENCE OP1-760 - Hydrangea Close, Cardiff",1,0,0
+350000,3,1,51.50639,-3.18346,"Allensbank Road, Cardiff",0,1,0
+350000,2,1,51.492866,-3.21797,"Cardiff Road, Llandaff, Cardiff",0,0,1
+349995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",1,0,0
+349950,3,2,51.536253,-3.192971,"Astoria Close, Thornhill",0,1,0
+349950,2,1,51.48431,-3.20579,"Parry Street, Cardiff(City), CF5",0,0,1
+150000,0,0,51.506,-3.15469,"Clarendon Road, Cardiff -REF#00017021",0,0,1
+349950,3,2,51.480613,-3.190149,"Rawden Place, Riverside, Cardiff",0,0,1
+349950,3,1,51.47665,-3.20731,"Broadstairs Road, Leckwith, Cardiff",0,1,0
+349500,3,2,51.535842,-3.124104,"Rees Drive, Old St Mellons",1,0,0
+345000,4,3,51.51511,-3.10076,"Spencer David Way, St. Mellons, Cardiff, CF3",1,0,0
+345000,4,2,51.489235,-3.156252,"Stacey Road, Cardiff, CF24 1DS",0,0,1
+342995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",1,0,0
+340000,4,2,51.502084,-3.234775,"Richard Lewis Close, Cardiff",0,1,0
+340000,4,1,51.47835,-3.19123,"Machen Place, Cardiff",0,0,1
+340000,4,3,51.46773,-3.26078,"Thorne Way, Cardiff",1,0,0
+340000,3,1,51.48029,-3.20352,"Eton Place, Cardiff",0,0,1
+340000,3,1,51.501898,-3.135134,"New Road, Rumney, Cardiff. CF3",0,1,0
+340000,4,2,51.528834,-3.137633,"Wyncliffe Gardens, Pentwyn, Cardiff, CF23",0,1,0
+340000,3,1,51.51236,-3.17093,"Torrens Drive, Caerdydd, Torrens Drive, Cardiff, CF23",0,1,0
+340000,4,2,51.51539,-3.09909,"Harrison Drive, St. Mellons, Cardiff",1,0,0
+340000,2,2,51.49578,-3.220724,"Bridge Street, Llandaff, Cardiff",0,0,1
+340000,3,1,51.511309,-3.205719,"Manor Way, Whichurch , Cardiff. CF14 ",0,1,0
+340000,4,2,51.48836,-3.2396,"Llandetty Road, Cardiff",0,0,1
+340000,3,1,51.512381,-3.215936,"Mervyn Road, Whitchurch, Cardiff. CF14",0,1,0
+340000,4,1,51.5019,-3.23535,"Richard Lewis Close, Cardiff",0,1,0
+340000,3,1,51.5335,-3.20535,"Edgehill Avenue, Llanishen, Cardiff.",0,1,0
+339950,3,3,51.48588,-3.224866,Windway Road Victoria Park Cardiff CF5 1AG,0,0,1
+339950,3,2,51.489131,-3.236579,"St. Fagans Road, Cardiff",1,0,0
+337500,3,1,51.51511,-3.1197,"Aspen Grove, Rumney, Cardiff",1,0,0
+334950,3,2,51.520507,-3.206977,"Lansdowne Avenue, Rhiwbina, Cardiff",0,0,1
+330000,3,1,51.506027,-3.153452,"Queensberry Road, Penylan, Cardiff",0,1,0
+330000,3,1,51.52595,-3.18771,"Fishguard Road, Llanishen, Cardiff",0,0,1
+330000,3,1,51.53692,-3.204178,"Gareth Close, Cardiff",1,0,0
+330000,3,1,51.50759,-3.12528,"Maes Yr Ysgol, Rumney, Cardiff",0,1,0
+330000,4,1,51.521978,-3.101685,"James Court, Cardiff",1,0,0
+330000,3,1,51.533905,-3.192844,"Gilwern Crescent, Llanishen, Cardiff",0,1,0
+330000,4,2,51.48838,-3.239466,Llandetty Road Fairwater Cardiff CF5 3BT,0,0,1
+330000,3,1,51.47339,-3.18361,"Hafod Street, Cardiff(City), CF11",0,0,1
+325000,3,1,51.542678,-3.196065,"Clos Y Wiwer, Thornhill",0,1,0
+325000,3,1,51.50607,-3.24022,"Nicholson Webb Close, Cardiff",1,0,0
+325000,3,1,51.52179,-3.11712,"Bridgwater Road, Llanrumney, Cardiff",1,0,0
+325000,3,2,51.50424,-3.22591,"Chamberlain Road, Cardiff",0,1,0
+325000,3,1,51.52859,-3.09148,"Saffron Drive, St. Mellons, Cardiff",1,0,0
+325000,3,1,51.504924,-3.195146,"Longspears Avenue, Cardiff",0,0,1
+325000,3,1,51.49633,-3.17326,"Mackintosh Place, Roath, Cardiff",0,0,1
+325000,2,1,51.50504,-3.12838,"Wentloog Road, Cardiff(City), CF3",0,1,0
+325000,3,2,51.51042,-3.27118,"Trem Y Rhyd, St. Fagans, Cardiff",0,0,1
+325000,3,1,51.480381,-3.20324,"Eton Place, Canton, Cardiff",0,0,1
+325000,3,1,51.512888,-3.229427,"Heol Chappell, Whitchurch, Cardiff",0,1,0
+325000,3,2,51.501779,-3.222209,"Watson Road, Cardiff",0,0,1
+325000,4,2,51.5453,-3.19456,"Clos Yr Alarch, Cardiff",1,0,0
+324995,3,1,51.50465,-3.24681,"Llantrisant Road,
+Cardiff,
+CF5 2PY",0,0,1
+235000,2,2,51.535835,-3.124079,"Rees Drive, Old St. Mellons, Cardiff",0,1,0
+320000,3,2,51.52602,-3.11578,"Elgar Crescent, Llanrumney, Cardiff",1,0,0
+320000,3,1,51.52537,-3.115462,"Elgar Crescent, Cardiff",0,1,0
+320000,3,1,51.47602,-3.20744,"Broadhaven, Cardiff",0,1,0
+319950,4,1,51.50794,-3.15425,"Wellwood, Llanedeyrn, CF23 9JP",0,1,0
+317500,3,2,51.511527,-3.242334,"De Clare Drive, Radyr, Cardiff",0,1,0
+315000,3,1,51.50859,-3.20542,"Wauntreoda Road, Whitchurch, Cardiff",0,0,1
+315000,3,1,51.500014,-3.223646,"Gabalfa Road, Llandaff North, Cardiff",0,1,0
+315000,3,1,51.489134,-3.24884,"St. Fagans Road, Cardiff",0,1,0
+315000,4,2,51.469665,-3.183973,"Coedcae Street, Cardiff",0,0,1
+315000,3,1,51.495705,-3.172352,"Inverness Place, Roath",0,0,1
+315000,3,1,51.488651,-3.23131,"St. Fagans Road, Fairwater, Cardiff",0,1,0
+315000,3,1,51.505115,-3.208548,"Silver Birch Close, Whitchurch, Cardiff",0,1,0
+310000,3,1,51.506374,-3.152261,"Ormonde Close, Cardiff, CF23 9JG",0,1,0
+310000,3,2,51.52414,-3.11516,"Elgar Crescent, Llanrumney, Cardiff",0,1,0
+310000,3,2,51.4685,-3.27231,"Patreane Way, Cardiff",1,0,0
+310000,3,2,51.530878,-3.152702,"Lovage Close, Cardiff, CF23",0,1,0
+310000,3,1,51.501392,-3.184899,"Manor Street, Cardiff",0,0,1
+310000,5,1,51.505821,-3.12871,"Barmouth Road, Rumney, Cardiff, CF3",0,1,0
+310000,3,1,51.480358,-3.207567,"Beda Road, Canton, Cardiff. CF5 ",0,0,1
+310000,5,1,51.490616,-3.255942,Firs Avenue Pentrebane Cardiff CF5 3TG,0,1,0
+279950,3,2,51.486618,-3.242311,"Bwlch Road, Fairwater, Cardiff",0,1,0
+305000,3,0,51.505466,-3.131885,"Church Road, Rumney, Cardiff",0,1,0
+300000,2,1,51.48802,-3.15364,"Basilco,  Broadway, Cardiff",0,0,1
+300000,3,1,51.505985,-3.241775,"Nicholson Webb Close, Danescourt, Cardiff",0,1,0
+300000,4,2,51.5163,-3.13572,"Mendip Road, Llanrumney, Cardiff",0,1,0
+300000,3,1,51.541183,-3.189896,"Pinecrest Drive, Cardiff",0,0,1
+300000,4,2,51.471626,-3.186502,"Clare Road, Cardiff",0,0,1
+300000,3,1,51.504884,-3.148551,"Pinewood Crescent, Penylan, Cardiff",0,1,0
+300000,3,1,51.52805,-3.18416,"Fidlas Road, Llanishen, Cardiff",0,1,0
+300000,4,1,51.529858,-3.098835,"Heritage Park, Cardiff",1,0,0
+300000,3,1,51.524433,-3.156356,"Hydrangea Close, Cardiff",1,0,0
+300000,2,2,51.483238,-3.207281,"Anglesey Street, Cardiff",1,0,0
+300000,3,1,51.49508,-3.17279,"Mackintosh Place, Cardiff",0,0,1
+300000,4,2,51.494929,-3.1852,"Pentyrch Street, Cathays, Cardiff",0,0,1
+300000,3,1,51.48695,-3.237826,"Bwlch Road, Cardiff",0,1,0
+300000,3,2,51.473705,-3.271868,Drope Road the Drope Cardiff CF5 4SZ,0,1,0
+300000,3,1,51.518284,-3.095325,"Pearce Close, Cardiff",1,0,0
+300000,4,2,51.47731,-3.18659,"Beauchamp Street, CARDIFF",0,0,1
+300000,3,1,51.51354,-3.29792,"Tai Penylan, Capel Llanilltern, Cardiff",0,1,0
+225000,2,1,51.545387,-3.194434,"Clos Yr Alarch, Cardiff",0,0,1
+300000,4,3,51.497773,-3.17861,"Tewkesbury Street, Cardiff",0,0,1
+300000,3,1,51.49672,-3.16995,"Diana Street, Cardiff",0,1,0
+300000,3,1,51.467568,-3.185738,"Paget Street, Cardiff",0,0,1
+300000,3,2,51.47774,-3.2658,"Ramsons Way, Cardiff",0,1,0
+300000,3,1,51.50504,-3.12838,"Wentloog Road, Rumney, Cardiff",0,1,0
+299950,3,1,51.49573,-3.152598,"Stallcourt Close, Penylan, Cardiff",0,1,0
+299950,3,1,51.525573,-3.187574,"Fishguard Road, Llanishen, Cardiff",0,1,0
+299950,2,1,51.47964,-3.18766,"Brook Street, Cardiff",0,0,1
+299950,3,2,51.48792,-3.159459,Newport Road Roath Cardiff CF24 1AG,1,0,0
+299950,3,2,51.486164,-3.230446,"Brook Road, Fairwater, Cardiff",0,0,1
+299950,3,1,51.510766,-3.124757,"Ty Fry Gardens, Rumney, CF3",0,1,0
+299000,4,2,51.46879,-3.18436,"Corporation Road, Cardiff(City), CF11",0,0,1
+295000,3,0,51.525112,-3.115743,"Purcell Road, Llanrumney, Cardiff",0,1,0
+295000,4,2,51.465301,-3.187648,"Clive Street, Grangetown, Cardiff",0,0,1
+295000,3,1,51.48774,-3.238296,"Llanbedr Road, Cardiff",0,1,0
+292000,3,1,51.51511,-3.1197,"Maes Yr Ysgol, Rumney, Cardiff",0,1,0
+290000,2,1,51.505498,-3.212686,"Silver Birch Close, Whitchurch, Cardiff.",0,1,0
+290000,3,1,51.52868,-3.148491,"Glyn Eiddew, Cardiff",0,1,0
+290000,2,1,51.482874,-3.200816,"Orchard Place, Pontcanna, Cardiff",0,0,1
+290000,4,1,51.46777,-3.18807,"Clive Street, Cardiff",0,0,1
+290000,3,3,51.51246,-3.31389,"Rhodfa Ieuan, Capel Llanilltern, CARDIFF",0,1,0
+290000,3,1,51.48444,-3.21097,"Pembroke Road, Canton, Cardiff",0,0,1
+290000,3,1,51.531571,-3.20193,"Templeton Avenue, Llanishen, Cardiff. CF14",0,0,1
+290000,3,1,51.533439,-3.203024,"Johnston Road, Llanishen, Cardiff",0,0,1
+290000,4,1,51.497485,-3.181311,"Malefant Street, Cardiff",0,0,1
+290000,3,1,51.52255,-3.18546,"Fishguard Road, Llanishen, Cardiff",0,0,1
+290000,3,1,51.524665,-3.18778,"Fishguard Road, Cardiff",0,0,1
+290000,3,2,51.534598,-3.141954,"Clos Alyn, Pontprennau, Cardiff",0,1,0
+290000,3,1,51.480595,-3.212045,"Lansdowne Road, Cardiff",0,0,1
+290000,3,1,51.539543,-3.19525,"Woodlawn Way, Cardiff",0,1,0
+290000,3,1,51.51464,-3.12156,"South View Drive, Rumney, Cardiff",0,1,0
+290000,3,2,51.464205,-3.181133,"Ludlow Close, Cardiff",0,1,0
+290000,3,1,51.53409,-3.2009,"Johnston Road, Llanishen, Cardiff",0,1,0
+290000,3,1,51.54183,-3.19072,"Hillcrest Close, Thornhill, Cardiff",0,0,1
+290000,3,2,51.493362,-3.183933,"Merthyr Street, Cathays, Cardiff",0,0,1
+290000,3,1,51.523611,-3.187323,"Fishguard Road, Cardiff",0,0,1
+290000,3,1,51.478496,-3.203241,"43 Atlas Road, Canton, Cardiff, City of Cardiff. CF5 1PH",0,0,1
+290000,3,1,51.46569,-3.2492,"Heritage Drive, Cardiff",1,0,0
+290000,3,1,51.529488,-3.122695,"Bronte Crescent, Cardiff, CF3",0,1,0
+290000,3,1,51.50903,-3.13497,"Hatherleigh Road, Rumney, Cardiff",0,1,0
+290000,3,1,51.49536,-3.17136,"Arabella Street, Cardiff",0,0,1
+225000,2,1,51.50055,-3.240686,"Duxford Close, Radyr Way",0,1,0
+290000,3,2,51.46156,-3.27399,"Picca Close, CARDIFF",0,1,0
+290000,3,2,51.484478,-3.210925,"Pembroke Road, Canton, Cardiff",0,0,1
+289995,2,2,51.492704,-3.187404,"Colum Place, Cardiff, CF10",0,0,1
+289950,3,1,51.502496,-3.128132,"Quarry Dale, Rumney, Cardiff. CF3",0,1,0
+289000,3,1,51.532194,-3.252377,"Merthyr Road, Tongwynlais, Cardiff. CF15 7LG",1,0,0
+285000,3,2,51.491575,-3.250838,"Rosedale Close, Cardiff",0,1,0
+285000,6,1,51.4677,-3.18888,"Clive Street, Cardiff - REF# 00021000",0,0,1
+285000,3,2,51.49539,-3.15018,"Ffordd Nowell, Pen-y-lan, Cardiff, CF23",0,1,0
+285000,3,1,51.529438,-3.099205,"Heritage Park, Cardiff",1,0,0
+280995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",0,1,0
+280000,4,2,51.49237,-3.18223,"Minister Street, Cardiff",0,0,1
+280000,3,1,51.532649,-3.202001,"Morris Avenue, Llanishen, Cardiff. CF14",0,1,0
+280000,3,1,51.502723,-3.127794,"Quarry Dale, Rumney",0,0,1
+280000,3,1,51.501136,-3.234831,"Edward Clarke Close, Danescourt, Cardiff",0,1,0
+280000,3,1,51.503618,-3.129045,"Brachdy Road, Cardiff",0,1,0
+280000,3,1,51.50317,-3.1269,"Downton Rise, Rumney, Cardiff",0,1,0
+280000,4,1,51.505768,-3.126145,"Barmouth Road, Cardiff",0,1,0
+280000,3,1,51.52892,-3.11412,"Runcorn Close, St. Mellons, CARDIFF",1,0,0
+280000,3,2,51.49918,-3.246905,"Berry Place, Cardiff, CF5 3LQ",0,0,1
+280000,3,1,51.50244,-3.12745,"Quarry Dale, Rumney, Cardiff",0,0,1
+280000,4,2,51.474312,-3.270719,Barnwood Crescent Michaelston Cardiff CF5 4TA,0,1,0
+280000,6,2,51.479443,-3.202978,Denton Road Canton Cardiff CF5 1PD,0,0,1
+280000,4,2,51.48199,-3.14135,"Willows Avenue, Tremorfa, Cardiff",0,1,0
+280000,5,3,51.4761,-3.241192,"Camrose Road, Caerau, Cardiff CF5 5ER",0,0,1
+280000,3,1,51.5313,-3.14708,"Ambergate Drive, Pontprennau",0,1,0
+280000,3,1,51.534954,-3.121806,"Church Road, Cardiff, CF3",0,1,0
+280000,4,1,51.506336,-3.126763,"Barmouth Road, Rumney, Cardiff",0,1,0
+279995,3,1,51.51244,-3.30827,"Llantrisant Road,
+Tresimwn,
+Cardiff,
+CF5",0,0,1
+279995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",0,1,0
+275000,4,1,51.464715,-3.182682,"Ludlow Street, Cardiff",0,0,1
+275000,4,2,51.477627,-3.197694,"Ninian Park Road, Canton, Cardiff",0,0,1
+275000,3,2,51.4886,-3.16355,"St Michaels Court, Elm Street Lane, Cardiff",1,0,0
+275000,3,1,51.47815,-3.20994,"Broad Street, Canton, Cardiff",0,1,0
+275000,2,1,51.530099,-3.191849,"Newborough Avenue, Cardiff",0,1,0
+275000,4,1,51.491823,-3.169367,"Glenroy Street, Roath, Cardiff",0,0,1
+275000,4,2,51.47757,-3.19639,"Ninian Park Road, Cardiff",0,0,1
+275000,3,2,51.516295,-3.09913,"Jenkins Way, St. Mellons, Cardiff",0,1,0
+275000,4,1,51.497539,-3.177725,"Monthermer Road, Roath, Cardiff",0,0,1
+275000,3,2,51.534203,-3.11599,"Heol Williams, Old St. Mellons, Cardiff",0,1,0
+275000,2,1,51.484638,-3.215255,"Ethel Street, Victoria Park, Cardiff",0,0,1
+275000,3,2,51.51629,-3.09926,"Jenkins Way, St. Mellons, Cardiff",0,1,0
+275000,3,1,51.469939,-3.271039,"Llanover Road, Cardiff, CF5",0,1,0
+275000,4,1,51.466419,-3.178688,"178 Corporation Road, Cardiff, South Glamorgan, CF11 7AY",0,0,1
+275000,3,1,51.5373,-3.12197,"Church Road, St Edeyrns",0,1,0
+270000,3,2,51.466228,-3.25015,"Heritage Drive, Cardiff",0,1,0
+270000,4,1,51.488817,-3.166621,"Talworth Street, Cardiff, ",0,0,1
+270000,3,2,51.535262,-3.122549,"Heol Williams, Cardiff, CF3",0,1,0
+270000,3,1,51.508885,-3.135329,"Hatherleigh Road, Cardiff",0,1,0
+270000,5,1,51.49945,-3.18529,"Whitchurch Road, Cardiff",0,0,1
+270000,3,1,51.521649,-3.18247,"Heathbrook, Llanishen, Cardiff",0,1,0
+270000,3,1,51.52436,-3.11127,"Orchard Park, St. Mellons, Cardiff",1,0,0
+270000,2,1,51.514781,-3.230427,"Heol Chappell, Whitchurch, Cardiff.",0,0,1
+270000,3,1,51.50367,-3.13179,"Ty Mawr Road, Rumney, Cardiff, CF3",0,1,0
+270000,3,1,51.50903,-3.13497,"Hatherleigh Road, Rumney, Cardiff",0,1,0
+270000,2,1,51.50823,-3.23163,"Ty-Mawr Road, Llandaff North, Cardiff",0,0,1
+270000,2,1,51.50823,-3.23163,"Ty Mawr Road, Llandaff North, CARDIFF",0,0,1
+269950,3,1,51.49649,-3.239977,"Whitland Crescent, Fairwater, Cardiff",0,1,0
+269950,2,1,51.485595,-3.227494,"Aldsworth Road, Cardiff",0,0,1
+269500,3,2,51.488517,-3.233592,"St Fagans Road, Fairwater",0,1,0
+265000,3,1,51.495702,-3.189657,"Maindy Road, Cathays, Cardiff",0,0,1
+265000,3,1,51.5109,-3.20174,"Birchgrove Rd, Birchgrove, Cardiff.",0,0,1
+265000,3,1,51.514163,-3.131418,"Ball Road, Llanrumney, Cardiff. CF3",0,1,0
+265000,2,2,51.493381,-3.260989,"Clos Coed Bychan, Cae St Fagans, Cardiff",0,0,1
+265000,2,1,51.50251,-3.22802,"Andrews Road, Cardiff",0,0,1
+265000,4,1,51.493793,-3.170226,"Arabella Street, Roath",0,0,1
+265000,3,1,51.539417,-3.195273,"Woodlawn Way, Thornhill, Cardiff. CF14",0,0,1
+265000,4,1,51.493054,-3.18978,"North Road, Cardiff",0,0,1
+265000,3,1,51.525291,-3.10698,"Hazelwood Drive, St. Mellons, Cardiff, CF3",0,1,0
+265000,2,1,51.484799,-3.214218,"Ethel Street, Canton",0,0,1
+262995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",0,1,0
+260000,2,0,51.508746,-3.269069,"Coedlan Y Trenshys, St. Fagans, Cardiff, CF5",0,0,1
+260000,0,0,51.52573,-3.09963,"Willowbrook Gardens, St. Mellons, Cardiff",0,0,1
+260000,3,1,51.476082,-3.256983,"Grand Avenue, Ely, Cardiff, CF5 4RA",0,1,0
+260000,2,1,51.48172,-3.21277,"Lincoln Street, Cardiff",0,0,1
+260000,7,3,51.4766,-3.18585,"Tudor Street, Cardiff",1,0,0
+260000,3,1,51.49063,-3.244511,Holly Road Fairwater Cardiff CF5 3HJ,0,0,1
+260000,2,1,51.537208,-3.18658,"Cheriton Drive, Cardiff",0,1,0
+260000,3,1,51.497,-3.251426,Pentrebane Road Fairwater Cardiff CF5 3RE,0,0,1
+260000,4,1,51.49427,-3.1722,"Moy Road, Cardiff",0,0,1
+260000,3,1,51.49129,-3.16463,"Arran Street, Cardiff, CF24",0,0,1
+260000,3,1,51.517826,-3.092185,"Lodwick Rise, Cardiff, CF3",0,1,0
+260000,3,1,51.47877,-3.20233,"Atlas Road, Cardiff",0,0,1
+260000,2,1,51.496189,-3.183957,Brithdir Street Cathays Cardiff CF24 4LE,0,0,1
+260000,3,1,51.47781,-3.19078,"Craddock Street, Cardiff",0,0,1
+260000,3,1,51.478995,-3.26265,"Marguerites Way, Cardiff, CF5",0,1,0
+260000,3,1,51.490356,-3.166949,"Treharris Street, Cathays, Cardiff",0,0,1
+260000,3,2,51.53965,-3.12015,"Rhodfa Leonard, Old St. Mellons, Cardiff",0,1,0
+260000,4,1,51.525848,-3.147388,"Bryn Cyn, Cardiff CF23 7BN",0,0,1
+259995,3,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",0,0,1
+259950,4,1,51.463459,-3.183403,"Amherst Street, Grangetown, Cardiff",0,0,1
+259500,2,1,51.489444,-3.174334,"Wyeverne Road, Cardiff",0,0,1
+255000,3,1,51.517123,-3.133367,"Hartland Road, Cardiff",0,1,0
+255000,4,2,51.483833,-3.230226,Riverside Terrace Lower Ely Cardiff CF5 5AS,0,0,1
+255000,3,2,51.50416,-3.22547,"Chamberlain Road, Cardiff",0,1,0
+255000,3,2,51.48379,-3.23025,"Riverside Terrace, Cardiff",0,0,1
+254950,3,1,51.492889,-3.146609,"Newport Road, Penylan, Cardiff",0,0,1
+254950,3,1,51.482689,-3.16333,"Augusta Street, Adamsdown, Cardiff, CF24 0EP",0,0,1
+250000,3,1,51.520308,-3.08951,"Meadowsweet Drive, Cardiff",0,1,0
+250000,3,1,51.528447,-3.149918,"Coeden Dal, Cardiff",0,0,1
+250000,3,1,51.528354,-3.14899,"Coeden Dal, Pentwyn",0,0,1
+250000,5,5,51.477656,-3.187805,"34 Clare Street, Riverside, Cardiff, Cardiff CF11 6BB",0,0,1
+250000,4,1,51.49851,-3.18037,"Malefant Street, Cathays, Cardiff",0,0,1
+250000,2,1,51.47413,-3.19933,"Bartley Wilson Way, Cardiff",0,1,0
+250000,3,1,51.5068,-3.12367,"Goodwick Road, Cardiff(City), CF3",0,0,1
+250000,3,2,51.493353,-3.175149,"Harriet Street, Cathays",0,0,1
+250000,2,1,51.51546,-3.23702,"Penydarren Drive, Whitchurch, Cardiff",0,0,1
+250000,3,2,51.504548,-3.200354,"Pennard Place, Gabalfa",0,1,0
+250000,3,1,51.52265,-3.10172,"Oakmeadow Drive, St. Mellons, Cardiff",0,1,0
+250000,2,1,51.483004,-3.205606,"Glamorgan Street Mews, Canton, Cardiff",0,1,0
+250000,3,1,51.521149,-3.113603,"Duncan Close, S.Mellons, Cardiff. CF3 1NP",0,1,0
+250000,3,1,51.48481,-3.14661,"Moorland Road, Cardiff",0,0,1
+250000,3,2,51.505661,-3.13496,"Newport Road, Rumney, Cardiff, CF3",0,1,0
+250000,2,1,51.48376,-3.212824,"Loftus Street, Canton, Cardiff",0,0,1
+250000,3,1,51.475446,-3.252479,"Wilson Place, Cardiff",0,1,0
+250000,2,1,51.53443,-3.135618,"Hollington Drive, Pontprennau, Cardiff, CF23",0,1,0
+250000,3,1,51.47363,-3.27188,"Drope Road, Cardiff",0,1,0
+250000,3,1,51.496654,-3.251071,"Pentrebane Road, Fairwater, Cardiff",0,1,0
+250000,3,1,51.520708,-3.123357,"Croyde Avenue, Cardiff",0,0,1
+250000,3,1,51.51439,-3.12876,"Kewstoke Avenue, Llanrumney, CARDIFF",0,1,0
+250000,2,1,51.50297,-3.21017,"Aberporth Road, Cardiff",0,1,0
+250000,3,1,51.484459,-3.147561,"Seymour Street, Splott",0,0,1
+250000,3,1,51.496551,-3.238308,"Whitland Crescent, Fairwater, Cardiff",0,0,1
+250000,3,1,51.496408,-3.259145,"Pentrebane Road, CARDIFF",0,0,1
+250000,3,1,51.48552,-3.14778,"Habershon Street, Cardiff, CF24",0,0,1
+250000,2,1,51.514798,-3.218863,"Old Church Road, Cardiff, CF14",0,0,1
+250000,3,1,51.484554,-3.150697,"Carlisle Street, Cardiff, CF24",0,0,1
+250000,3,1,51.52561,-3.184083,"St Dogmaels Avenue, Cardiff",0,1,0
+250000,3,1,51.491076,-3.255484,"Firs Avenue, Cardiff",0,0,1
+250000,3,1,51.48418,-3.24395,"Frank Road, CARDIFF",0,0,1
+250000,2,1,51.533858,-3.129694,"Lascelles Drive, Pontprennau, Cardiff",0,1,0
+250000,3,1,51.529901,-3.153028,"Ty Cerrig, Cardiff",0,1,0
+250000,3,1,51.509967,-3.15383,"Wellwood, Llanedeyrn, Cardiff",0,0,1
+250000,3,1,51.49472,-3.171727,"Inverness Place, Cardiff",0,0,1
+250000,3,1,51.488318,-3.150129,"Pearl Street, Cardiff, CF24",0,0,1
+250000,3,1,51.520488,-3.123301,"Croyde Avenue, Llanrumney, Cardiff",0,0,1
+250000,3,1,51.4991,-3.1787,"Dogfield Street, Roath - REF# 00020632",0,0,1
+249950,2,1,51.480869,-3.192182,"Neville Street, Riverside",1,0,0
+249950,2,1,51.478515,-3.194831,"Rennie Street, Riverside",0,0,1
+249950,2,1,51.45864,-3.18352,"South Clive Street, Grangetown, Cardiff",0,0,1
+245000,3,1,51.514728,-3.108624,"Brynbala Way, Rumney, Cardiff, CF3",0,1,0
+245000,2,0,51.537738,-3.121272,"Clos Thomas, Old St. Mellons, Cardiff",0,0,1
+245000,3,1,51.51433,-3.161454,"Springwood, Llanedeyrn",0,1,0
+245000,4,2,51.469278,-3.257357,"Caerau Lane, Cardiff, CF5",0,1,0
+244995,2,1,51.5373,-3.12197,"ST EDEYRNS VILLAGE,
+ CHURCH ROAD, OLD ST. MELLONS, 
+CARDIFF, 
+CF3 6YN",0,0,1
+240000,3,1,51.48424,-3.1499,"Eyre Street, Cardiff",0,0,1
+240000,3,1,51.502238,-3.125515,"New Road, Cardiff",1,0,0
+240000,3,1,51.48769,-3.14697,"Vale Road, Splott, Cardiff",0,0,1
+240000,3,1,51.52516,-3.14041,"Glyn Collen, Cardiff",0,0,1
+240000,3,1,51.51777,-3.10448,"Rhodfa Crughywel, St. Mellons, Cardiff",0,0,1
+240000,3,1,51.48922,-3.166636,"Talworth Street, Roath, Cardiff, CF24 3EJ",0,0,1
+240000,3,1,51.47882,-3.191371,"Machen Place, Cardiff",0,0,1
+240000,3,1,51.508726,-3.153653,"Wellwood, Llanedeyrn, Cardiff, CF23",0,1,0
+240000,3,2,51.475895,-3.259018,"Grand Avenue, Cardiff",0,1,0
+240000,3,1,51.518698,-3.104745,"Rhodfa Crughywel, Cardiff, CF3",0,0,1
+240000,2,1,51.504693,-3.237404,"Blethin Close, Cardiff",0,1,0
+240000,3,1,51.489064,-3.149255,"Pearl Street, Cardiff, CF24",0,0,1
+240000,3,2,51.46815,-3.18621,"Paget Street, Cardiff(City), CF11",0,0,1
+240000,4,2,51.489044,-3.168066,"Pearson Street, Roath",0,0,1
+240000,3,2,51.48854,-3.14238,"Clydesmuir Road, Cardiff",0,0,1
+240000,2,1,51.539898,-3.189675,"Oakridge, Cardiff",0,0,1
+240000,3,1,51.50543,-3.12551,"Cae Glas Road, Rumney, Cardiff",0,1,0
+240000,3,1,51.52381,-3.14009,"Glyn Collen, Cardiff",0,0,1
+240000,4,1,51.46556,-3.18442,"Bromsgrove Street, Cardiff(City), CF11",0,0,1
+239950,3,1,51.46864,-3.187174,Redlaver Street Grangetown Cardiff CF11 7LY,0,0,1
+239950,3,2,51.525529,-3.145935,"Pentwyn Drive, Cardiff, CF23",0,1,0
+235000,2,1,51.536322,-3.193879,"Garrick Drive, Thornhill, Cardiff",0,1,0
+235000,2,1,51.50551,-3.24265,"Timothy Rees Close, Danescourt, Cardiff",1,0,0
+235000,2,2,51.534649,-3.12299,"Heol Booths, Old St. Mellons, Cardiff",0,0,1
+235000,2,1,51.544258,-3.189587,"Cantref Close, Thornhill, Cardiff",0,0,1
+235000,2,1,51.487234,-3.142098,"Tweedsmuir Road, Cardiff",0,0,1
+235000,2,1,51.536078,-3.123365,"Rees Drive, Cardiff",0,1,0
+235000,3,1,51.524947,-3.148704,"Waun Fach, Pentwyn, Cardiff",0,0,1
+235000,3,1,51.51785,-3.10444,"Rhodfa Crughywel, Cardiff",0,0,1
+235000,2,1,51.47321,-3.19181,"Hereford Street, Cardiff(City), CF11",0,0,1
+234950,2,2,51.530883,-3.108295,"Ffordd Brynhyfrd, Cardiff",0,1,0
+230000,3,1,51.515034,-3.114599,"Greenway Road, Cardiff",0,1,0
+230000,2,1,51.53951,-3.18965,"Oakridge, Thornhill, Cardiff",0,0,1
+230000,2,1,51.530015,-3.096528,"Lytham Grove, Cardiff, CF3",0,1,0
+230000,4,1,51.48276,-3.16384,"Augusta Street, Cardiff",0,0,1
+230000,3,1,51.47415,-3.18809,"Allerton Street, Cardiff",0,1,0
+230000,4,2,51.516591,-3.095746,"Matthysens Way, St Mellons",0,1,0
+230000,3,1,51.52156,-3.15027,"Hollybush Road, Cardiff",0,0,1
+230000,3,1,51.49526,-3.246884,Poplar Road Fairwater Cardiff CF5 3PU,0,0,1
+230000,3,1,51.531338,-3.13315,"Cottingham Drive, Cardiff, CF23",0,1,0
+230000,2,1,51.538059,-3.191199,"Garrick Drive, Thornhill, Cardiff",0,1,0
+230000,3,1,51.522783,-3.11241,"Bethania Row, Cardiff",0,0,1
+230000,3,2,51.46943,-3.26946,"Penmaen Walk, Cardiff",0,0,1
+230000,2,1,51.49619,-3.17801,"Daniel Street, Cardiff",0,0,1
+230000,3,1,51.508838,-3.124551,"Criccieth Road, Cardiff",0,1,0
+230000,3,1,51.514219,-3.13007,"Weston Road, Cardiff",0,1,0
+230000,3,1,51.47576,-3.24991,"Cowbridge Road West, Cardiff",0,1,0
+230000,2,1,51.495286,-3.175782,"Woodville Road, Cathays",0,0,1
+229950,2,1,51.538016,-3.122853,"Church Road, St Edeyrns",0,1,0
+229950,3,2,51.489856,-3.149349,"Beresford Road, Splott",0,0,1
+225000,3,2,51.468327,-3.255493,Heol Yr Odyn Caerau Cardiff CF5 5QW,0,0,1
+225000,3,1,51.48745,-3.14379,"Dalmuir Road, Cardiff",0,0,1
+225000,3,1,51.50465,-3.12261,"Wentloog Road, Rumney, Cardiff",0,1,0
+225000,2,1,51.490657,-3.133448,"Beckgrove Close, Cardiff",0,1,0
+225000,2,1,51.464393,-3.175023,"Avondale Gardens , Grangetown",0,1,0
+225000,2,1,51.535598,-3.122259,"Ffordd Crabtree, Old St. Mellons, Cardiff, CF3",0,0,1
+225000,3,1,51.468049,-3.194844,"Osborne Square, Cardiff",0,0,1
+225000,3,1,51.522797,-3.092566,"Thrush Close, St.Mellons, Cardiff, CF3",0,1,0
+225000,1,1,51.479309,-3.203212,"Denton Road, Canton, Cardiff",1,0,0
+225000,3,1,51.50359,-3.12071,"The Avenue, Rumney, Cardiff",0,0,1
+220000,3,1,51.514345,-3.11658,"Letterston Road, Cardiff",0,1,0
+220000,2,1,51.5356,-3.20195,"Percival Close, Thornhill, Cardiff",0,0,1
+220000,3,1,51.49611,-3.25536,"Elderberry Road, Cardiff",0,0,1
+220000,3,1,51.487624,-3.154001,"Cecil Street, Cardiff, CF24",0,0,1
+220000,3,1,51.522915,-3.151082,"The Hawthorns, Cardiff",0,0,1
+220000,3,1,51.51568,-3.19854,"Heol Dyfed, Heath, Cardiff",0,1,0
+220000,3,2,51.48799,-3.16166,"Elm Street, Cardiff, CF24",0,0,1
+220000,3,2,51.48799,-3.16166,"Elm Street, Cardiff",0,0,1
+220000,2,1,51.48766,-3.22949,"Davies Place, Cardiff",0,0,1
+220000,3,0,51.52028,-3.11435,"Meadvale Road, Rumney, Cardiff, CF3",1,0,0
+220000,3,1,51.522,-3.12304,"Petherton Place, Llanrumney, Cardiff",0,0,1
+220000,2,1,51.53254,-3.155532,"Nasturtium Way,Pontprennau,CF23 8SF",0,0,1
+220000,2,1,51.5036,-3.22719,"Station Road, Llandaff North, Cardiff",0,1,0
+220000,3,1,51.52813,-3.12146,"Othery Place, Llanrumney, Cardiff",0,1,0
+220000,3,1,51.48556,-3.15339,"Pearl Street, Roath, Cardiff",0,0,1
+220000,3,1,51.49314,-3.174501,"Rhymney Street, Cathays",0,0,1
+220000,3,1,51.4954,-3.17669,"Daniel Street, Cardiff",0,0,1
+219950,2,1,51.521575,-3.113542,"Canopus Close, Old St. Mellons, Cardiff",0,1,0
+219950,3,1,51.480575,-3.232422,"Ascot Close, Trelai Park, Cardiff",0,1,0
+215000,2,1,51.538843,-3.196741,"Kennington Close, Thornhill, Cardiff",0,0,1
+215000,2,1,51.502647,-3.232918,"Riversdale, Cardiff, CF5",0,0,1
+215000,2,1,51.487078,-3.150142,"Railway Street, Splott, Cardiff",0,0,1
+215000,3,1,51.518664,-3.1114,"Menai Way, Cardiff",0,1,0
+215000,2,1,51.54346,-3.1987,"Heol Y Cadno, Thornhill",0,0,1
+215000,2,1,51.535771,-3.122632,"Heol Williams, Old St Mellons, Cardiff.",0,0,1
+215000,2,1,51.535738,-3.122595,"Heol Williams, South Glamorgan",0,0,1
+215000,2,1,51.46883,-3.1894,"North Clive Street, Cardiff(City), CF11",0,0,1
+215000,3,1,51.514018,-3.123395,"Witla Court Road, Cardiff",0,1,0
+212000,2,1,51.5211,-3.11365,"Duncan Close, St Mellons",0,1,0
+210000,2,1,51.524288,-3.143644,"Bryn Haidd, Cardiff",0,1,0
+210000,3,1,51.512129,-3.116001,"Harris Avenue, Cardiff",0,1,0
+210000,2,1,51.47352,-3.18793,"Cornwall Street, Cardiff",0,0,1
+210000,3,1,51.48973,-3.16761,"Cyfarthfa Street, Roath, Cardiff",0,0,1
+210000,3,1,51.48213,-3.15446,"Janet Street, Splott, Cardiff",0,0,1
+210000,3,1,51.481084,-3.151575,"Habershon Street, Cardiff, CF24",0,0,1
+210000,3,2,51.524795,-3.131025,"Dryden Close, Llanrumney, Cardiff",0,0,1
+210000,2,1,51.539658,-3.195608,"Woodlawn Way, Thornhill, Cardiff",0,0,1
+210000,3,2,51.51495,-3.10816,"Brynbala Way, Rumney, Cardiff",0,0,1
+210000,2,1,51.473943,-3.274612,"Nant Y Plac, Cardiff",0,0,1
+210000,3,1,51.472919,-3.24765,"Kilgetty Close, Cardiff",0,1,0
+210000,3,1,51.49473,-3.24135,"Heol Gwilym, Cardiff",0,1,0
+210000,2,1,51.48647,-3.15241,"Pearl Street, Cardiff, CF24",0,0,1
+210000,3,1,51.468879,-3.189518,"Machen Street, Cardiff",0,0,1
+210000,2,1,51.46895,-3.19573,"Langham Way, City Gardens, Cardiff",0,0,1
+210000,3,1,51.52722,-3.12201,"Honiton Road, Llanrumney, Cardiff",0,0,1
+210000,2,1,51.49006,-3.15221,"Tyler Street, Cardiff",0,0,1
+210000,3,1,51.48242,-3.24073,"Heol Muston, Cardiff",0,1,0
+205000,1,1,51.509058,-3.180252,"Heath Mead, Cardiff",0,0,1
+204900,3,1,51.48153,-3.1602,"Prince Leopold Street, Cardiff(City), CF24",0,0,1
+200000,3,1,51.49362,-3.18298,"Treherbert Street, Cardiff",0,0,1
+200000,2,1,51.530168,-3.109525,"Ty to Maen Close, Cardiff",0,0,1
+200000,2,1,51.525338,-3.100615,"Willowbrook Gardens, Cardiff",0,1,0
+200000,2,1,51.52284,-3.1294,"Goldsmith Close, Llanrumney, Cardiff",0,1,0
+200000,2,2,51.49066,-3.163037,"Cyfarthfa Street, Roath",0,0,1
+200000,2,1,51.530257,-3.109956,"Ty To Maen Close, Cardiff",0,0,1
+200000,3,1,51.519127,-3.132768,"Ball Road, Cardiff",0,0,1
+200000,4,2,51.52361,-3.14239,"Bryn Celyn, Cardiff",0,0,1
+200000,2,1,51.48927,-3.15046,"Arthur Street, Cardiff",0,0,1
+200000,3,1,51.507484,-3.12202,"Laugharne Avenue, Cardiff",0,1,0

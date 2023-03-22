@@ -1,0 +1,355 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+3200000,24,13,53.956962,-1.081905,"Clifford Street, York, YO1",0,0,1
+1825000,7,4,53.955089,-1.101696,"St. Pauls Square, York, YO24",1,0,0
+1575000,10,11,53.948883,-1.101566,"St. George's Place, York, YO24",0,1,0
+1550000,5,0,53.946468,-1.075107,"Wenlock Terrace, York, YO10",0,0,1
+1275000,5,5,53.952959,-1.095783,"The Mount, York, YO24",0,0,1
+1250000,5,0,53.967683,-1.095923,"The Avenue, York, YO30",0,0,1
+1150000,5,3,53.997013,-1.059185,"The Old Village, Huntington, York",1,0,0
+1150000,5,3,53.99753,-1.05942,"The Old Village, Huntington, York, YO32",1,0,0
+1125000,4,2,53.950721,-1.085337,"Bishopthorpe Road, York",0,0,1
+1125000,4,2,53.950721,-1.085337,"Bishopthorpe Road, York, North Yorkshire",0,0,1
+1100000,8,8,53.963878,-1.084365,"Gillygate, York",0,0,1
+1000000,5,3,53.930435,-1.11187,"The Grove, Dringhouses, York",1,0,0
+1000000,5,3,53.967708,-1.101579,"Government House Road, Clifton, York, YO30 6LU",1,0,0
+1000000,6,4,53.949455,-1.074588,"Fulford Road, York, YO10",0,0,1
+375000,3,2,53.98036,-1.09498,"Pentire Close, York, YO30",1,0,0
+995000,5,2,53.954218,-1.092294,"South Parade, York, YO23",0,0,1
+925000,5,2,53.948223,-1.074387,"Fulford Road, York YO10 4DA",0,0,1
+925000,5,2,53.970249,-1.058057,"Stockton Lane, York",1,0,0
+925000,5,3,53.941703,-1.072835,"Derwent Road, Fulford, York",0,1,0
+850000,4,3,53.953441,-1.092581,"East Mount Road, York",0,0,1
+850000,3,0,53.96342,-1.088323,"Marygate Mews, Marygate, York, YO30",0,0,1
+800000,5,3,53.95227,-1.093529,"Scarcroft Road, York",0,1,0
+800000,5,3,53.934017,-1.067246,"Porter Avenue, Fulford, York",1,0,0
+799995,6,1,53.985182,-1.070015,"Huntington Road, York, North Yorkshire, YO31",1,0,0
+795000,7,3,53.992179,-1.065429,"Huntington Road, Huntington, York",1,0,0
+750000,5,3,53.972145,-1.141594,"Boroughbridge Road, Upper Poppleton, York, YO26 6QB",1,0,0
+740000,4,2,53.937381,-1.07638,"Fulford Park, Fulford",1,0,0
+725000,4,0,53.973402,-1.055396,"Woodlands Grove, York, YO31",1,0,0
+725000,4,2,53.952972,-1.118116,"Moorgate, York",1,0,0
+725000,4,2,53.937518,-1.073031,"Main Street, Fulford, York, YO10",0,0,1
+725000,4,2,53.966293,-1.12608,"Boroughbridge Road, Upper Poppleton, York",1,0,0
+700000,4,2,53.97322,-1.05474,"Woodlands Grove, York, North Yorkshire, YO31",1,0,0
+700000,4,2,53.954692,-1.100773,"St Pauls Square, Holgate, York",0,0,1
+650000,4,1,53.954152,-1.088021,"Nunnery Lane, York, North Yorkshire, YO23",0,0,1
+650000,6,2,53.966815,-1.082279,"Clarence Street, York",0,0,1
+650000,4,2,53.963043,-1.148317,"Main Street, Knapton, York, North Yorkshire, YO26",1,0,0
+650000,3,1,53.928039,-1.061555,"Cross Lane, Fulford, York",1,0,0
+650000,4,2,53.967441,-1.088719,"Bootham Crescent, York",0,1,0
+650000,4,2,53.93903,-1.063,"Stirling Grove, Fulford , York, YO10",0,1,0
+650000,4,2,53.999523,-1.057073,"Chiltern Way, Huntington, York",1,0,0
+640000,3,2,53.944755,-1.047363,"Hall Park, Heslington, York, YO10",1,0,0
+635000,5,2,53.947032,-1.085986,"Bishopthorpe Rd, York",0,1,0
+630000,3,2,53.953193,-1.117961,"Moorgate, Holgate, York",1,0,0
+625000,4,1,53.96984,-1.058465,"Stockton Lane, York, YO31",0,0,1
+600000,4,2,53.99097,-1.058099,"Heathside, Huntington, York",1,0,0
+600000,4,2,53.981,-1.0971,"Miller Road, York, YO30",1,0,0
+600000,4,2,53.94688,-1.084736,"Cameron Grove, York",0,0,1
+590000,4,1,53.969734,-1.058733,"Stockton Lane, York, YO31",0,0,1
+575000,5,0,53.952814,-1.083663,"Bishopgate Street, York, North Yorkshire, YO23",0,0,1
+575000,4,3,53.960781,-1.076961,"Aldwark, York",0,0,1
+575000,5,3,53.967724,-1.067873,"Irwin Avenue, Heworth Green, York, YO31",0,1,0
+575000,3,2,53.949348,-1.089035,"Millfield Road, York",0,0,1
+575000,4,1,53.973937,-1.06737,"Muncastergate, York",0,1,0
+550000,3,1,53.953899,-1.083903,"Baile Hill Terrace, Bishophill, York YO1 6HF",0,0,1
+550000,4,3,53.962999,-1.119866,"Malvern Avenue, Acomb, YO26",0,1,0
+550000,5,3,53.969512,-1.056417,"Oakland Avenue, Stockton Lane, York, YO31 1BY",0,1,0
+550000,4,2,53.934669,-1.103705,"Middlethorpe Grove, Tadcaster Road, York",1,0,0
+550000,4,1,53.948532,-1.137213,"Askham Lane, York",1,0,0
+550000,3,1,53.931869,-1.07083,"Main Street, Fulford, York",0,1,0
+550000,4,2,53.99496,-1.05318,"Keith Avenue, Huntington, York",1,0,0
+550000,4,2,53.96933,-1.05597,"Oakland Avenue, York, YO31",0,1,0
+550000,4,2,53.935325,-1.138483,"Nevis Way, York",1,0,0
+540000,5,3,53.958484,-1.028914,"Beckett Drive, Osbaldwick, York, YO19 5RX",1,0,0
+525000,5,2,53.959041,-1.124534,"Carr Lane, Acomb, York",0,1,0
+200000,2,1,53.953624,-1.141952,"Barkston Avenue, Acomb, York",0,1,0
+525000,3,2,53.947086,-1.104052,"Pulleyn Drive, Tadcaster Road, York",1,0,0
+525000,4,2,53.967414,-1.06003,"Forest Grove, Stockton Lane, York, YO31 1BL",0,1,0
+525000,3,2,53.95173,-1.088998,"Upper Price Street, York, YO23",0,0,1
+525000,4,3,53.959899,-1.136776,"Melander Close, off Beckfield Lane, York",1,0,0
+525000,3,1,53.972072,-1.055951,"Westlands Grove, Stockton Lane, York",0,1,0
+524995,4,1,53.97122,-1.13482,"Boroughbridge Road,
+Upper Poppleton,
+YO26 6BE",1,0,0
+510000,4,1,53.95986,-1.120046,"Manor Drive North, York, North Yorkshire, YO26",0,1,0
+500000,5,0,53.952659,-1.102594,"Barbara Grove, York",0,1,0
+500000,3,2,53.951663,-1.089116,"Upper Price Street, York",0,0,1
+499950,4,1,53.964259,-1.07981,"St. Johns Street, York, YO31",0,0,1
+495000,3,2,53.951507,-1.077257,"1 Fishergate House, Blue Bridge Lane, York",0,0,1
+489995,4,1,53.97122,-1.13482,"Boroughbridge Road,
+Upper Poppleton,
+YO26 6BE",1,0,0
+485000,3,2,53.97189,-1.07977,"Vyner Street, York",0,0,1
+485000,5,3,53.988784,-1.030739,"Hopgrove Lane North, York",0,1,0
+475000,2,1,53.967018,-1.065327,"Heworth Green, York, North Yorkshire",0,0,1
+475000,4,1,53.934555,-1.130188,"Eden Close, Woodthorpe, York",1,0,0
+475000,4,1,53.9592,-1.13549,"Beckfield Lane, York YO26 5RJ",0,1,0
+475000,3,1,53.958347,-1.113239,"Grantham Drive, York, North Yorkshire, YO26",0,1,0
+475000,4,1,53.952846,-1.031688,"Low Mill Close, York, North Yorkshire, YO10",1,0,0
+475000,5,2,53.947532,-1.137668,"Askham Lane, Acomb, York",0,1,0
+475000,4,2,53.968261,-1.078087,"Markham Street, York",0,0,1
+475000,4,3,53.933288,-1.11062,"College Court, Dringhouses, York, YO24 1UH",0,1,0
+475000,4,2,53.982751,-1.096145,"Farro Drive, York, North Yorkshire, YO30",1,0,0
+475000,3,1,53.97934,-1.13984,"Millfield Lane, Nether Poppleton, YORK",0,1,0
+470000,3,1,53.950478,-1.093344,"Scarcroft Hill, York, North Yorkshire, YO24",0,0,1
+465000,4,1,53.933049,-1.131301,"Annan Close, York, North Yorkshire, YO24",1,0,0
+460000,4,2,53.98782,-1.11953,"Kensington Road, York",1,0,0
+460000,3,1,53.957172,-1.125023,"Beech Grove, Acomb, York",0,1,0
+450000,3,1,53.947719,-1.104344,"White House Rise, York",0,1,0
+450000,3,0,53.964996,-1.092633,"North Parade, York, North Yorkshire",0,0,1
+450000,4,1,53.966785,-1.081359,"Brook Street, York",1,0,0
+450000,3,0,53.96654,-1.056852,"Heworth Village, York, YO31",0,0,1
+450000,4,3,53.967044,-1.045851,"Hillbeck Grove, York",0,1,0
+450000,4,2,53.977542,-1.134317,"Calder Avenue, Nether Poppleton, York, YO26 6RG",1,0,0
+450000,4,0,53.956798,-1.028399,"Wydale Road, York, North Yorkshire",1,0,0
+450000,3,1,53.988605,-1.117216,"Holyrood Drive, Rawcliffe, York",1,0,0
+450000,5,2,53.935096,-1.123345,"Moorcroft Road, Woodthorpe, York",0,1,0
+450000,4,2,53.939612,-1.128945,"Ashbourne Way, Woodthorpe, YO24",1,0,0
+450000,3,1,53.944366,-1.094279,"Knavesmire Crescent, York, YO23 1ET",0,0,1
+440000,5,3,53.98715,-1.11299,"Coningham Avenue, York, YO30",1,0,0
+435000,4,2,53.97747,-1.135332,"Calder Avenue, Nether Poppleton, York",1,0,0
+435000,4,2,53.988712,-1.105299,"Landalewood Road, York",1,0,0
+425000,3,1,53.9586,-1.03586,"Osbaldwick Lane, York",0,1,0
+425000,3,1,53.951591,-1.087734,"Nunthorpe Road, York",0,0,1
+425000,3,1,53.997688,-1.072254,"Park Avenue, New Earswick, York, YO32 4DB",0,1,0
+425000,3,1,53.962059,-1.120563,"Malvern Avenue, York",0,1,0
+425000,3,1,53.957637,-1.122195,"Severus Avenue, Acomb, York",0,1,0
+425000,6,2,53.946979,-1.135275,"Cornlands Road, York, YO24",0,1,0
+425000,3,2,53.95831,-1.033,"Church Road, Osbaldwick, York, YO10",0,1,0
+425000,3,1,53.947284,-1.105172,"White House Drive, York",0,1,0
+425000,4,2,53.943551,-1.139326,"Foresters Walk, Acomb, YO24",1,0,0
+425000,2,1,53.949383,-1.087595,"Russell Street, Scarcroft Road, YO23",0,0,1
+425000,4,2,53.985694,-1.11369,"Manor Way, Rawcliffe, York, YO30 5UH",0,1,0
+420000,3,1,53.949172,-1.088365,"Southlands Road, Off Bishopthorpe Road",0,1,0
+415000,3,1,53.956368,-1.087694,"Trinity Court, Trinity Lane, York, YO1",0,0,1
+415000,4,1,53.9859,-1.11933,"Rawcliffe Croft, York YO30 5US",0,1,0
+415000,3,1,53.93892,-1.110892,"Slingsby Grove, York, North Yorkshire, YO24",0,1,0
+300000,2,1,53.9398,-1.068143,"Endfields Road, Fulford, York",0,1,0
+415000,3,1,53.951256,-1.074205,"Melbourne Street, York, North Yorkshire, YO10",0,0,1
+400000,3,2,53.938755,-1.059755,"Tilmire Close, York",0,1,0
+400000,4,2,53.96414,-1.06653,"Harcourt Street, York, North Yorkshire, YO31",0,0,1
+400000,2,0,53.942243,-1.088245,"Bayldon Square, York, North Yorkshire, YO23",0,0,1
+400000,3,0,53.971344,-1.079805,"Fountayne Street, York, North Yorkshire, YO31",0,0,1
+400000,2,1,53.952346,-1.089168,"Nunthorpe Road, Off Scarcroft Road, York",0,0,1
+400000,4,2,53.95124,-1.117021,"Lady Hamilton Gardens, Holgate, York",0,1,0
+400000,4,3,53.978822,-1.108428,"Southolme Drive, York, YO30",0,1,0
+400000,4,2,53.967828,-1.042733,"Claygate, York, YO31",0,1,0
+400000,3,1,53.940769,-1.07832,"Broadway West, Fulford, York, YO10 4JJ",0,1,0
+400000,2,1,53.949824,-1.087305,"Russell Street, Scarcroft Road, YO23",0,0,1
+400000,3,1,53.947109,-1.10419,"Pulleyn Drive, York",0,1,0
+399995,3,2,53.92696,-1.065581,"Cherry Wood Crescent, Fulford, York, North Yorkshire, YO19",0,1,0
+399950,5,2,53.952442,-1.069103,"Heslington Road, York YO10 5AU",0,0,1
+395000,3,1,53.960426,-1.1212,"Malvern Avenue, York",0,1,0
+395000,3,2,53.962352,-1.04467,"St. Aelreds Mews, Derwenthorpe, York",0,1,0
+395000,3,1,53.986289,-1.117117,"Florence Grove, Rawcliffe, York",0,1,0
+390000,3,3,53.958308,-1.137806,"Knapton Lane, Acomb, YO26",0,1,0
+389950,4,3,53.966991,-1.123931,"Duchess Mews, York YO26 5TA",0,1,0
+385000,4,1,53.97697,-1.09887,"Saville Grove, York",0,1,0
+385000,3,2,53.950397,-1.126501,"The Sundew, 32 Lowfield Green, Acomb, York",1,0,0
+385000,4,1,53.976932,-1.098257,"Saville Grove, Rawcliffe, York",0,1,0
+380000,3,1,53.953617,-1.030972,"Hull Road, York",0,1,0
+380000,4,1,53.96745,-1.04176,"Allington Drive, York, North Yorkshire, YO31",0,1,0
+375000,4,2,53.9644,-1.05341,"Giles Avenue, York, YO31",1,0,0
+375000,3,1,53.959506,-1.112523,"Segrave Walk, Holgate, York",0,1,0
+375000,3,1,53.9819,-1.104034,"Swinsty Court, York, North Yorkshire, YO30",1,0,0
+375000,3,2,53.982975,-1.096314,"Farro Drive, York",0,1,0
+375000,3,1,53.959972,-1.04345,"Lotherington Avenue, York",0,1,0
+375000,3,3,53.96207,-1.04325,"St. Aelreds Mews, YORK",1,0,0
+375000,4,2,53.966304,-1.05992,"East Parade, York",0,0,1
+375000,3,1,53.964264,-1.076294,"Monkgate, York, North Yorkshire, England, YO31",0,0,1
+375000,3,2,53.950954,-1.125706,"The Clover, Plot 93 Lowfield Green, Acomb, York",0,1,0
+375000,3,1,53.957355,-1.109915,"St. Swithins Walk,  Holgate, York",0,1,0
+375000,2,1,53.950473,-1.086872,"Scott Street, Off Scarcroft Road",0,0,1
+375000,3,1,53.966014,-1.058174,"Heworth Hall Drive, York",0,1,0
+375000,3,2,53.950782,-1.126024,"The Clover, Plot 87 Lowfield Green, Acomb, York",0,1,0
+375000,3,0,53.968727,-1.134197,"Beckfield Lane, York",0,1,0
+370000,4,2,53.987487,-1.065845,"Gormire Avenue, York, YO31",0,1,0
+370000,2,1,53.94664,-1.09312,"Albemarle Road, York",0,0,1
+370000,3,1,53.959197,-1.122281,"Severus Avenue, Acomb, York",0,1,0
+369950,4,1,53.96626,-1.05032,"Burnholme Avenue, York, North Yorkshire, YO31",0,1,0
+365000,3,2,53.951354,-1.125201,"The Betony, Plot 91, Lowfield Green, Acomb, York",0,1,0
+365000,3,1,53.95396,-1.084642,"Kyme Street, York",0,0,1
+365000,3,2,53.951354,-1.125201,"The Betony, Plot 92 Lowfield Green, Acomb, York",0,1,0
+360000,3,1,53.978378,-1.101704,"Melton Avenue, Rawcliffe, York",0,1,0
+350000,3,1,53.966808,-1.048921,"Thirlmere Drive, Burnholme",0,1,0
+350000,3,1,53.93309,-1.133122,"Dalmally Close, York, North Yorkshire, YO24",1,0,0
+350000,3,2,53.99789,-1.054248,"North Moor, Huntington, York",0,1,0
+350000,4,1,53.952083,-1.103413,"Robin Grove, Holgate, York",0,0,1
+350000,2,2,53.947855,-1.078081,"Apartment 10, 80 Alma Terrace, Fulford Road, York, YO10",1,0,0
+350000,3,1,53.950577,-1.044845,"Windmill Lane, York",0,1,0
+350000,3,2,53.986366,-1.070142,"Royal Avenue, Huntington, York",0,1,0
+350000,2,1,53.950134,-1.085824,"Nunmill Street, Bishopthorpe Road, York",0,0,1
+350000,3,1,53.93435,-1.13238,"Orrin Close, York, North Yorkshire, YO24",1,0,0
+350000,4,2,53.940986,-1.135396,"Redcoat Way, Acomb, YO24",1,0,0
+350000,2,1,53.950164,-1.085757,"Nunmill Street, York",0,0,1
+345000,4,1,53.956207,-1.132536,"Danebury Drive, Acomb, York",0,1,0
+344995,3,1,53.97122,-1.13482,"Boroughbridge Road,
+Upper Poppleton,
+YO26 6BE",0,1,0
+340000,3,2,53.950771,-1.12604,"The Fern, Plot 82 Lowfield Green, Acomb, York",0,1,0
+340000,4,1,53.934345,-1.122647,"Bramble Dene, York",0,1,0
+340000,3,1,53.962928,-1.122142,"Carr Lane, Acomb, York",0,1,0
+340000,3,2,53.938846,-1.122701,"Acorn Way, York, YO24 2RP",0,1,0
+340000,3,1,53.983135,-1.069166,"Meadowfields Drive, York",1,0,0
+340000,3,2,53.951354,-1.125201,"The Thyme, Plot 50 Lowfield Green, Acomb, York",0,1,0
+340000,3,2,53.950946,-1.125868,"The Thyme, Plot 58 Lowfield Green, Acomb, York",0,1,0
+340000,2,1,53.945022,-1.08691,"Balmoral Terrace, Off Bishopthorpe Road",0,0,1
+340000,3,2,53.953102,-1.127139,"The Fern, 89 Lowfield Green, Acomb, York",0,1,0
+340000,3,1,53.98393,-1.06868,"Huntington Road, York, YO31",1,0,0
+335000,4,1,53.965579,-1.046272,"Bad Bargain Lane, York",0,1,0
+335000,3,1,53.963108,-1.121474,"Carr Lane, Acomb, York",0,1,0
+335000,3,1,53.960924,-1.045403,"Seebohm Mews, York, YO31",0,1,0
+330000,3,1,53.965507,-1.136369,"Albion Avenue, York, North Yorkshire, YO26",0,1,0
+330000,3,1,53.956622,-1.029456,"Bedale Avenue, York, YO10",0,1,0
+330000,3,1,53.958763,-1.114368,"Howe Hill Road, York",0,1,0
+325000,3,2,53.980171,-1.065897,"Stephenson Close, Huntington, York",1,0,0
+325000,3,1,53.965927,-1.074534,"Lowther Street, York, North Yorkshire",0,0,1
+325000,3,1,53.958652,-1.130315,"Danebury Drive, York, YO26 5EJ",0,1,0
+325000,3,1,53.964439,-1.136155,"Melwood Grove, York",0,1,0
+325000,3,1,53.958,-1.039558,"Hambleton Avenue, Osbaldwick",0,1,0
+325000,3,2,53.957417,-1.126533,"Chestnut Grove, Acomb, York, North Yorkshire, YO26",0,1,0
+325000,3,1,53.967582,-1.13598,"Albion Avenue, Acomb, York",0,1,0
+325000,3,1,53.96671,-1.13571,"Norman Drive, York, YO26",0,1,0
+325000,3,3,53.984195,-1.064708,"Whitethorn Close, Huntington, York",0,1,0
+325000,3,1,53.93745,-1.06636,"Eastward Avenue, York",0,1,0
+325000,3,2,53.96688,-1.123544,"Duchess Mews, York",0,1,0
+325000,3,2,53.97184,-1.07367,"Huntington Road, York",1,0,0
+325000,2,1,53.956012,-1.085023,"Buckingham Street, York",0,0,1
+325000,2,1,53.951061,-1.108405,"Harlow Road, Holgate, York",0,1,0
+325000,3,2,53.966178,-1.132822,"Church Gate, York, YO26 5BW",1,0,0
+325000,3,2,53.95219,-1.055475,"Thief Lane, Hull Road, York",0,1,0
+325000,3,2,53.954349,-1.108682,"Lindley Street, Holgate, York",0,0,1
+325000,3,1,53.955615,-1.034792,"Givendale Grove, Osbaldwick, York",0,1,0
+325000,3,1,53.968124,-1.041087,"Bramley Garth, York, YO31 0PG",0,1,0
+325000,3,1,53.965427,-1.119908,"Caxton Avenue, Boroughbridge Road, York",0,1,0
+320000,3,1,53.968227,-1.135296,"Albion Avenue, York",0,1,0
+315000,3,1,53.971668,-1.07649,"White Cross Road, York, North Yorkshire",0,0,1
+315000,2,2,53.961395,-1.048611,"Penyghent Avenue, York",1,0,0
+310000,3,0,53.966918,-1.125422,"Plantation Drive, York",0,1,0
+310000,3,1,53.934505,-1.13673,"Carron Crescent, York, North Yorkshire, YO24",1,0,0
+310000,3,0,53.93991,-1.07042,"Cornwall Drive, York, YO10",0,1,0
+310000,3,1,53.978851,-1.093563,"Minchin Close, York, YO30",0,1,0
+310000,3,1,53.951751,-1.103527,"Robin Grove, Holgate, York YO24 4DR",0,0,1
+300000,3,1,53.9695,-1.07039,"Dodsworth Avenue, York, YO31",0,1,0
+300000,3,1,53.98575,-1.11927,"Rawcliffe Croft, York",0,1,0
+300000,2,1,53.955753,-1.084336,"Albion Street, Bishophill, York, YO1 6HJ",0,0,1
+300000,3,1,53.978008,-1.099295,"Oriel Grove, York, YO30",0,1,0
+300000,3,2,53.965831,-1.122941,"Princess Drive, Boroughbridge Road, York",0,1,0
+300000,3,1,53.981121,-1.062531,"Whenby Grove, York, North Yorkshire, YO31",1,0,0
+300000,4,1,53.94901,-1.13406,"Tennent Road, York",0,1,0
+300000,3,1,53.986076,-1.119567,"Rawcliffe Croft, York, YO30 5US",0,1,0
+300000,2,1,53.968749,-1.078856,"Markham Street, York, YO31",0,0,1
+300000,3,1,53.983162,-1.0696,"Meadowfields Drive, Huntington, YO31",0,1,0
+300000,3,1,53.980739,-1.101904,"Belmont Close, Rawcliffe, York",0,1,0
+300000,3,1,53.950653,-1.120374,"Green Lane, Acomb, York",0,1,0
+300000,4,1,53.961299,-1.061773,"Carter Avenue, York",0,1,0
+300000,3,1,53.954875,-1.086153,"Hampden Street, York",0,0,1
+300000,3,1,53.984945,-1.062217,"Brockfield Park Drive, Huntington, York, North Yorkshire, YO31",0,1,0
+300000,3,1,53.976802,-1.09838,"Saville Grove,  Rawcliffe, York",0,1,0
+295000,2,1,53.961562,-1.114994,"Poppleton Road, Holgate, YO26",0,0,1
+290000,2,1,53.93297,-1.06829,"Fordlands Road,
+Fulford,
+York,
+YO19 4AE",0,1,0
+290000,3,1,53.93441,-1.123107,"Bramble Dene, Woodthorpe, York",0,1,0
+290000,3,1,53.945182,-1.138439,"Askham Croft, Acomb, York",0,1,0
+290000,3,1,53.941516,-1.135207,"The Gallops, Acomb,  York",1,0,0
+290000,2,1,53.94009,-1.120059,"Chaloners Road, York",0,1,0
+285000,2,1,53.968841,-1.126489,"Langholme Drive, York",0,1,0
+285000,2,1,53.945259,-1.08814,"Balmoral Terrace, York",0,0,1
+285000,3,1,53.964581,-1.05246,"Gerard Avenue, York, North Yorkshire, YO31",0,1,0
+280000,2,2,53.940372,-1.127247,"Wenham Road, Foxwood, York",0,1,0
+280000,3,1,53.968952,-1.07676,"Eldon Terrace, The Groves, York YO31 8NQ",0,0,1
+280000,3,1,53.978206,-1.100508,"The Garlands, York",0,1,0
+280000,2,1,53.993881,-1.054165,"Greenacres, Huntington, York",0,1,0
+280000,2,1,53.93982,-1.11902,"Lerecroft Road, York",0,1,0
+280000,3,1,53.984972,-1.062042,"Brockfield Park Drive, York, North Yorkshire, YO31",0,1,0
+280000,4,2,53.95834,-1.05342,"Etty Avenue, York, YO10",0,1,0
+279995,2,1,53.978038,-1.101639,"Melton Avenue, Rawcliffe, York, YO30",0,1,0
+279950,2,1,53.95011,-1.086511,"Scott Street, York YO23 1NS",0,0,1
+275000,2,1,53.960136,-1.027976,"Levers Cottage, Murton",0,1,0
+275000,3,1,53.977073,-1.058719,"Sefton Avenue, York",0,1,0
+275000,3,1,53.956434,-1.040119,"Elwick Grove, Osbaldwick, York, YO10",0,1,0
+275000,3,1,53.94589,-1.08857,"Trafalgar Street, South Bank, York, YO23",0,0,1
+275000,2,1,53.980072,-1.060804,"Geldof Road, Huntington, York",0,1,0
+275000,3,1,53.96145,-1.113302,"Yarburgh Grove, Poppleton Road, York, YO26",0,1,0
+275000,3,1,53.93556,-1.12209,"Bramble Dene, York, YO24",0,1,0
+275000,3,1,53.977062,-1.058706,"Sefton Avenue, York",0,1,0
+270000,2,1,53.93297,-1.06829,"Fordlands Road,
+Fulford,
+York,
+YO19 4AE",0,1,0
+270000,3,1,53.94677,-1.12222,"Kingsway West, York",0,0,1
+270000,3,1,53.982499,-1.100537,"Bransholme Drive, York, North Yorkshire, YO30",0,1,0
+270000,2,1,53.936149,-1.118693,"Chaloners Road, York",0,1,0
+270000,2,1,53.966987,-1.077079,"Lowther Street, The Groves, York, YO31 7LR",0,0,1
+269950,2,1,53.96218,-1.11526,"Poppleton Road, York YO26 4UW",0,0,1
+268000,2,1,53.973013,-1.086945,"Burton Stone Lane, Clifton, YO30",0,0,1
+265000,2,1,53.99163,-1.070488,"Chestnut Grove, New Earswick, York",0,0,1
+265000,2,1,53.947772,-1.125893,"Gale Lane, York",0,1,0
+265000,3,1,53.950024,-1.123045,"Stuart Road, Acomb, YO24",0,1,0
+265000,2,1,53.956234,-1.100592,"St. Pauls Terrace, Holgate, York, YO24",0,0,1
+260000,2,1,53.963619,-1.051927,"Whernside Avenue, York, North Yorkshire, YO31",0,1,0
+260000,2,1,53.956434,-1.11545,"Braeside Gardens, York, YO24",0,0,1
+260000,3,1,53.965824,-1.047303,"Langdale Avenue, York",0,1,0
+260000,2,2,53.982065,-1.097812,"Farro Drive, York, North Yorkshire, YO30",0,0,1
+259950,2,1,53.941455,-1.123151,"Wains Road, York, North Yorkshire, YO24",0,1,0
+255000,2,1,53.938959,-1.134989,"Pheasant Drive, York, YO24 2YD",0,1,0
+254000,3,1,53.946967,-1.135886,"Cornlands Road, York, North Yorkshire, YO24",0,0,1
+250000,3,1,53.942493,-1.134394,"Bellhouse Way, York",0,0,1
+250000,3,1,53.97558,-1.095033,"Burdyke Avenue, York, North Yorkshire, YO30",0,0,1
+250000,2,1,53.982433,-1.062889,"Redthorn Drive, York",0,1,0
+250000,2,1,53.976432,-1.129702,"Severn Green, Nether Poppleton, York",0,0,1
+190000,2,1,53.9734,-1.088302,"Horner Street, York",0,0,1
+250000,3,1,53.952434,-1.141799,"Barkston Grove, Acomb, York",0,0,1
+250000,3,1,53.947871,-1.122714,"Stuart Road, York, North Yorkshire, YO24",0,0,1
+250000,2,1,53.98377,-1.09399,"Hazelnut Grove, YORK",0,0,1
+250000,3,1,53.997805,-1.058102,"Derwent Walk, Huntington, York, North Yorkshire, YO32",0,0,1
+250000,2,1,53.971939,-1.086501,"Falsgrave Crescent, Burton Stone Lane, York",0,0,1
+250000,2,2,53.97278,-1.07944,"Rose Street, York, North Yorkshire, YO31",0,0,1
+250000,3,1,53.961334,-1.114222,"Poppleton Road, York",0,0,1
+249950,3,1,53.966034,-1.11947,"Priors Walk, York YO26 5SW",0,1,0
+249950,2,1,53.97307,-1.075123,"Kitchener Street, York YO31 8RZ",1,0,0
+245000,2,1,53.950878,-1.082167,"Lovell Street,  South Bank, York",0,0,1
+245000,2,1,53.95673,-1.10116,"Upper St Pauls Terrace, York, YO24",0,0,1
+245000,2,1,53.964676,-1.076375,"Lockwood Street, York, YO31",0,0,1
+240000,3,1,53.974007,-1.089541,"Evelyn Crescent, York",0,0,1
+240000,2,1,53.94445,-1.08814,"Kensington Street, South Bank, York",0,0,1
+240000,2,1,53.954566,-1.12206,"Milner Street, York",0,0,1
+240000,2,1,53.979269,-1.103861,"Cayley Close, Rawcliffe, YO30",0,0,1
+240000,3,1,53.950877,-1.142767,"The Wandle, York",0,0,1
+240000,3,1,53.95098,-1.143033,"The Wandle, York, YO26",0,0,1
+235000,2,0,53.952079,-1.127325,"Dijon Avenue, York",0,1,0
+235000,2,1,53.979749,-1.103946,"Cayley Close, Rawcliffe, YO30",0,0,1
+235000,2,1,53.972702,-1.074749,"Ashville Street, York",0,0,1
+235000,2,1,53.972431,-1.088438,"Surtees Street, Off Burton Stone Lane",0,0,1
+235000,2,1,53.954662,-1.107402,"Falconer Street, York",0,0,1
+230000,3,2,53.946559,-1.124074,"Gale Lane, Acomb, York",0,0,1
+230000,3,1,53.976891,-1.067049,"Middleham Avenue, York, North Yorkshire, YO31",0,0,1
+230000,2,1,53.95486,-1.122857,"Gladstone Street, Acomb, York",0,0,1
+230000,2,1,53.9634,-1.06819,"Hawthorn Street, York YO31 0XP",0,0,1
+230000,3,1,53.95471,-1.04418,"Woolnough Avenue, York",0,0,1
+230000,2,1,53.97137,-1.085763,"Upper Newborough Street, York, YO30 7AR",0,0,1
+225000,2,1,53.965168,-1.105501,"Carnot Street, York, North Yorkshire, YO26",0,0,1
+225000,2,1,53.97256,-1.073065,"Yearsley Crescent, Huntington Road, York",0,0,1
+224999,2,1,53.965129,-1.05281,"Woodside Avenue, York, North Yorkshire, YO31",0,1,0
+220000,2,1,53.968502,-1.074784,"Diamond Street, York",0,0,1
+220000,3,1,53.947574,-1.121414,"Kingsway West, Acomb, York",0,0,1
+220000,2,0,53.964172,-1.106808,"Bromley Street, York",0,0,1
+220000,4,1,53.942928,-1.132212,"Foxwood Lane, York",0,0,1
+220000,2,1,53.963333,-1.049234,"Burnholme Grove, Burnholme, York",0,1,0
+220000,2,1,53.964172,-1.106808,"Bromley Street, York, YO26 4YQ",0,0,1
+219950,3,1,53.94802,-1.122719,"Stuart Road, York",0,1,0
+215000,2,1,53.949321,-1.128034,"Gale Lane, Acomb, York",0,0,1
+215000,3,1,53.976264,-1.095588,"Lilbourne Drive, York",0,0,1
+210000,2,1,53.94535,-1.088597,"Trafalgar Street, South Bank",0,0,1
+205000,2,1,53.968498,-1.074379,"Diamond Street, York, North Yorkshire, YO31",0,0,1
+200000,3,0,53.965509,-1.129279,"Ouseburn Avenue, York, North Yorkshire, YO26",0,1,0
+200000,2,1,53.95509,-1.14216,"Chapelfields Road, York, YO26",0,1,0
+200000,2,1,53.965115,-1.10584,"Carnot Street, York, YO26",0,0,1
+200000,1,1,53.955769,-1.063915,"Arthur Street, Lawrence Street, York, YO10",1,0,0
+190000,3,1,53.941977,-1.11859,"Sandcroft Road, York, YO24",0,1,0
+170000,2,1,53.953556,-1.142484,"Barkston Avenue, York, YO26",0,1,0
+142500,2,1,53.952423,-1.124664,"Restharrow Road, Acomb, York",0,1,0
+50000,3,1,53.97932,-1.06451,"Victoria Way, Huntington, York",0,1,0

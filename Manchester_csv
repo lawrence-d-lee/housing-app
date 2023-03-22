@@ -1,0 +1,948 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+300000,3,1,53.52011,-2.343462,"Mossfield Road, Swinton, Manchester ",0,1,0
+2250000,6,4,53.50186,-2.356974,"Dunelm, Haddon Road, Worsley, Manchester",1,0,0
+1600000,6,6,53.419598,-2.230185,"Belfield Road, Didsbury, Manchester, M20",1,0,0
+1585000,11,8,53.442604,-2.28234,"Wycombe House, Wilbraham Road, Chorlton",0,1,0
+1500000,6,5,53.402309,-2.311513,"Brooklands Road, Manchester",1,0,0
+1450000,4,3,53.52283,-2.27025,"Wells Avenue, Prestwich, Manchester, M25",1,0,0
+1400000,5,5,53.505126,-2.136142,"Failsworth Road, Woodhouses, Manchester",1,0,0
+1395000,5,4,53.419384,-2.236847,"Barlow Moor Road, Didsbury",1,0,0
+1275000,6,4,53.420864,-2.195897,"Princes Road, Heaton Moor",0,1,0
+1200000,6,3,53.490414,-2.3357,"Clarendon Crescent, Ellesmere Park, M30",1,0,0
+1185000,6,2,53.421274,-2.183459,"'Halidon' Parsonage Road, Heaton Moor",0,1,0
+1175000,5,4,53.419642,-2.240921,"Holme Road, Didsbury, Manchester, M20",1,0,0
+1150000,4,4,53.493389,-2.342008,"Cavendish Road, Ellesmere Park, Manchester",1,0,0
+1100000,5,6,53.401564,-2.26666,"Beechpark Avenue, Manchester, M22",1,0,0
+1100000,5,3,53.490849,-2.336727,"Rutland Road, Ellesmere Park, M30",0,1,0
+1050000,10,5,53.421691,-2.24362,"Barlow Moor Road, Didsbury",0,1,0
+1050000,6,4,53.492888,-2.347551,"Park Road, Monton, M30",1,0,0
+1000000,6,6,53.405479,-2.292296,"Withenfield Road, Manchester",1,0,0
+995000,5,3,53.491691,-2.337264,"Rutland Road, Ellesmere Park, Manchester",0,1,0
+975000,8,2,53.420381,-2.191775,"Clifton Road, Heaton Moor, Stockport, SK4",0,1,0
+975000,4,4,53.425297,-2.251033,"Bushmill Close, West Didsbury, Manchester, M20",1,0,0
+920000,5,2,53.421075,-2.222411,"Fog Lane, Didsbury",0,1,0
+900000,5,2,53.44645,-2.29717,Kenwood Road Stretford,0,1,0
+295000,3,1,53.45535,-2.15122,"Orwell Avenue, Denton, Manchester, M34",0,1,0
+900000,4,2,53.520706,-2.260231,"Bury Old Road, Prestwich, Manchester",1,0,0
+895000,4,3,53.539495,-2.283444,"Lilac Grove, Prestwich, Manchester, Greater Manchester, M25",1,0,0
+895000,5,3,53.526168,-2.280894,"Prestwich Park Road South, Prestwich",0,1,0
+895000,4,2,53.444412,-2.271233,"Egerton Road North, Chorlton, M21",0,1,0
+880000,5,2,53.441055,-2.277257,"Groby Road, Chorlton",0,1,0
+875000,9,7,53.451015,-2.257629,"Withington Road, Whalley Range",0,1,0
+875000,5,1,53.42744,-2.23639,"Central Road, West Didsbury, Manchester, Greater Manchester, M20",0,1,0
+865000,4,2,53.422671,-2.194915,"Princes Road, Heaton Moor",0,1,0
+850000,4,3,53.422154,-2.226588,"Sussex Avenue, Didsbury, Manchester, M20",1,0,0
+850000,5,2,53.418124,-2.2469,"Mersey Meadows, West Didsbury, Manchester, M20",1,0,0
+850000,5,2,53.49308,-2.33684,"Chatsworth Road, Eccles, Manchester, M30",1,0,0
+850000,4,2,53.500334,-2.378424,"Waterbridge, Worsley, M28",1,0,0
+845000,4,2,53.425041,-2.240399,"Old Lansdowne Road, West Didsbury",0,1,0
+835000,4,1,53.433586,-2.276437,"South Drive, Chorltonville",0,1,0
+825000,5,4,53.44794,-2.29435,"Cromwell Road, Stretford, Manchester, Greater Manchester, M32",1,0,0
+815000,5,2,53.446659,-2.298168,"Norwood Road, Stretford",0,1,0
+800000,6,6,53.498081,-2.25909,"Great Clowes Street, Salford",0,0,1
+800000,4,3,53.500152,-2.365083,"Chatsworth Road, Worsley, M28",1,0,0
+800000,10,3,53.433823,-2.209315,"Aubrey Road, Fallowfield, Manchester, M14 6SE",0,1,0
+800000,4,2,53.520946,-2.260497,"Bury Old Road, Prestwich, Manchester",1,0,0
+800000,4,2,53.423037,-2.179381,"Derby Road, Heaton Moor, Stockport, SK4",1,0,0
+800000,5,2,53.425118,-2.181018,"Brownsville Road, Heaton Moor",0,1,0
+800000,4,3,53.52025,-2.16033,"Parkfield Road North, Manchester, M40",1,0,0
+800000,5,4,53.521807,-2.280908,"Hope Road, Prestwich,",0,1,0
+310000,3,1,53.489668,-2.357382,"Nansen Avenue, Monton, M30",0,1,0
+800000,11,7,53.441188,-2.199074,"Grange Avenue, Manchester, M19",1,0,0
+799950,5,2,53.404095,-2.312683,"Brooklands Road,Manchester,M23 9HF",1,0,0
+795000,6,3,53.549541,-2.253865,"Simister Lane, Prestwich, Manchester",1,0,0
+795000,4,2,53.435752,-2.276373,"Claude Road, Chorlton, Manchester",0,1,0
+785000,4,1,53.41806,-2.17433,"Heaton Road, Heaton Moor, Stockport, SK4",1,0,0
+780000,6,3,53.43562,-2.18225,"Grange Avenue, Levenshulme",0,1,0
+775000,5,1,53.445927,-2.326475,"Urmston Lane, Stretford, Manchester",1,0,0
+775000,5,2,53.515179,-2.262347,"Park Lane, Salford",1,0,0
+775000,4,3,53.446235,-2.298239,"Norwood Road, Stretford",1,0,0
+750000,3,3,53.420513,-2.238655,"Elm Road, Didsbury",1,0,0
+750000,2,2,53.5,-2.379091,"Worsley Road, Worsley, Manchester",1,0,0
+750000,3,2,53.48846,-2.342416,"Westminster Road, Ellesmere Park, Eccles, Manchester",1,0,0
+750000,4,2,53.439396,-2.277671,Wilton Road   Chorlton Cum Hardy  M21,0,0,1
+750000,5,3,53.522042,-2.261274,"Woodthorpe Grange, Prestwich",1,0,0
+750000,10,1,53.444664,-2.199025,"Slade Lane, Fallowfield, Manchester, M19 2AE",0,1,0
+750000,6,3,53.526165,-2.280894,"Prestwich Park Road South, Manchester",0,1,0
+750000,3,1,53.42239,-2.232791,"Lapwing Lane, Didsbury, Manchester, M20",1,0,0
+750000,7,4,53.487701,-2.3278,"Devonshire Road, Salford, Greater Manchester",1,0,0
+750000,5,2,53.486999,-2.344799,"Ellesmere Avenue, Eccles, Manchester, M30 9GZ",0,1,0
+750000,4,2,53.438732,-2.271877,"Torbay Road, Chorlton",0,1,0
+735000,4,2,53.42286,-2.17948,"Derby Road, Heaton Moor, Stockport, SK4",1,0,0
+725000,5,2,53.507239,-2.326377,"Manchester Road, Swinton, M27",0,1,0
+725000,3,2,53.449085,-2.274437,"Stratton Road, Whalley Range",1,0,0
+725000,5,3,53.515247,-2.284029,"Fairways View, Singleton Drive, Prestwich, Manchester",1,0,0
+725000,8,4,53.448612,-2.261406,"Burford Road, Manchester M16 8EW",0,1,0
+715000,5,2,53.419829,-2.225107,"Adria Road, Didsbury, Manchester, M20",0,1,0
+700000,4,2,53.45251,-2.259398,"Victoria Road, Whalley Range",1,0,0
+700000,4,2,53.42627,-2.18747,"St. James Road, Heaton Moor, Stockport",0,1,0
+695000,7,4,53.444244,-2.276207,"Albany Road, Chorlton",0,1,0
+695000,6,3,53.451091,-2.271055,"Upper Chorlton Road, Old Trafford",0,1,0
+695000,5,1,53.440441,-2.274569,"Oak Avenue, Chorlton",0,1,0
+695000,9,4,53.444286,-2.276262,"Albany Road, Chorlton",0,1,0
+695000,4,2,53.49198,-2.343497,"Ellesmere Road, Monton, M30",1,0,0
+685000,6,2,53.48842,-2.3463,"Monton Road, Eccles, Manchester",0,1,0
+675000,4,3,53.419069,-2.242736,"Dundreggan Gardens, West Didsbury, Manchester, M20",0,0,1
+675000,4,2,53.422264,-2.229478,"Essex Avenue, Didsbury",0,1,0
+675000,4,2,53.423533,-2.243147,"Northen Grove, West Didsbury",0,1,0
+675000,5,3,53.486816,-2.34289,"Wellington Road, Manchester, M30",0,1,0
+675000,5,4,53.49014,-2.33018,Gilda Crescent Road Eccles,0,1,0
+670000,4,2,53.44841,-2.296854,"Norwood Road, Stretford",0,0,1
+650000,6,2,53.425626,-2.243564,"Burton Road, West Didsbury, Manchester, M20",0,0,1
+650000,5,2,53.437513,-2.225107,"Victoria Rd, Manchester, M14",0,1,0
+650000,4,1,53.44964,-2.27671,23A Crimsworth Avenue ,1,0,0
+650000,5,3,53.409656,-2.194986,"Valley Road, Heaton Mersey, Stockport, SK4",0,1,0
+650000,5,2,53.43744,-2.22515,"Victoria Road, Fallowfield, Manchester, Greater Manchester, M14",0,0,1
+650000,5,3,53.442349,-2.256975,"Withington Road, Manchester, M21",0,1,0
+650000,4,2,53.41845,-2.23769,"Hesketh Avenue, Manchester, Greater Manchester, M20",0,0,1
+650000,6,2,53.444003,-2.276649,"Keppel Road, Manchester, M21",0,1,0
+650000,3,2,53.529349,-2.269432,"Whittaker Lane, Prestwich",0,1,0
+650000,3,1,53.44815,-2.196078,"Rushford Avenue, West Point, Manchester, M19",0,1,0
+650000,5,1,53.444019,-2.300699,"Granby Road, Stretford, Manchester",0,1,0
+635000,4,2,53.447311,-2.250396,"Manley Road, Whalley Range",0,1,0
+625000,4,3,53.428339,-2.182847,"Harrow Drive, Heaton Moor",1,0,0
+625000,5,4,53.505386,-2.132548,"Ashton Road, Woodhouses Village",1,0,0
+625000,4,2,53.522504,-2.267672,"Hereford Drive, Prestwich, M25",1,0,0
+625000,4,2,53.417104,-2.221303,"Atwood Road, Didsbury, Manchester, M20",0,1,0
+625000,0,0,53.489367,-2.340687,"Westminster Road, Monton, M30",0,1,0
+625000,4,2,53.522379,-2.281457,"Agecroft Road East, Prestwich, M25",1,0,0
+625000,4,3,53.428169,-2.244848,"Toddbrook Close, West Didsbury",0,1,0
+625000,5,3,53.422883,-2.259815,"Manor Drive, Chorlton, Manchester, M21",1,0,0
+625000,3,2,53.411514,-2.222012,"Parrs Wood Avenue, East Didsbury, Manchester, M20",0,1,0
+625000,4,2,53.50344,-2.36089,"Worsley Road, Swinton",0,1,0
+620000,4,1,53.445869,-2.272821,"Brantingham Road, Chorlton, Manchester",0,1,0
+600000,3,2,53.411057,-2.222209,"Parrs Wood Avenue, Didsbury, Manchester, M20",0,1,0
+260000,2,1,53.530457,-2.272413,"Taylor Street, Prestwich, Manchester",0,0,1
+600000,4,3,53.416412,-2.224919,"Ladysmith Road, Manchester, M20",0,1,0
+600000,4,2,53.426746,-2.22646,"Mardale Avenue, Didsbury",0,1,0
+600000,5,5,53.514581,-2.269447,"The Drive, Salford, M7",1,0,0
+600000,6,2,53.486044,-2.366875,"Worsley Road, Eccles, M30",1,0,0
+600000,4,0,53.450411,-2.317407,"Derbyshire Lane Stretford, Stretford, M32 8DS",1,0,0
+599995,4,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",1,0,0
+599000,5,5,53.504978,-2.26201,"St. Johns Street, Salford, M7",0,1,0
+595000,4,2,53.42428,-2.2451,"Burton Road, West Didsbury, Manchester, Greater Manchester, M20",0,0,1
+595000,4,2,53.492748,-2.34748,"Park Road, Monton",0,1,0
+595000,3,3,53.416596,-2.230218,"Plot 3 Albert Place, Didsbury",0,1,0
+595000,4,3,53.523647,-2.274843,"Overbrook Drive, Prestwich, Manchester",0,1,0
+590000,5,3,53.454942,-2.270615,"Coleridge Road, Manchester, M16",0,1,0
+590000,4,3,53.416758,-2.183247,"Green Lane, Heaton Moor/Norris, Stockport, SK4",1,0,0
+590000,3,3,53.416596,-2.230218,"Plot 6 Albert Place, Didsbury",0,1,0
+585000,3,2,53.43782,-2.275539,"Malton Avenue, Chorlton, M21",0,1,0
+585000,5,3,53.506156,-2.362194,"Lambton Road, Worsley, M28",0,1,0
+579995,4,2,53.50125,-2.34218,"Off Campbell Road,
+Swinton,
+Greater Manchester,
+M27 5GQ",1,0,0
+575000,4,2,53.428089,-2.187299,"Shoreditch Close, Heaton Moor, SK4",1,0,0
+575000,4,2,53.516834,-2.159323,"Eastwood Road, Manchester, M40 3TF",0,1,0
+575000,4,1,53.425806,-2.227016,"Ferndene Road, Didsbury, Manchester, M20",0,1,0
+575000,4,2,53.426977,-2.179388,"Claremont Avenue, Heaton Moor, Stockport, SK4",1,0,0
+575000,3,3,53.430301,-2.277988,"Chorlton Villas, 105 Hardy Lane, Chorlton",0,0,1
+575000,5,3,53.40184,-2.22888,"Farlands Drive, Didsbury, Manchester, Greater Manchester, M20",0,1,0
+575000,4,2,53.42924,-2.18432,"Harrow Drive, Heaton Moor, Stockport, SK4",1,0,0
+575000,4,2,53.442382,-2.256261,"Wardley Avenue, Whalley Range",0,1,0
+570000,3,1,53.43277,-2.177345,"Langdale Road, Heaton Chapel, Stockport, SK4",1,0,0
+563500,5,3,53.48993,-2.333755,"Victoria Crescent, Eccles,  Manchester",0,1,0
+561995,4,2,53.50125,-2.34218,"Off Campbell Road,
+Swinton,
+Greater Manchester,
+M27 5GQ",1,0,0
+560000,5,2,53.493637,-2.30812,"Lullington Road, Salford, Manchester",0,1,0
+550000,4,1,53.426258,-2.228101,"Ferndene Road, Didsbury",0,1,0
+550000,6,4,53.441128,-2.19386,"Errwood Road, Levenshulme",0,1,0
+550000,5,1,53.506432,-2.325709,"Portland Road, Swinton",0,1,0
+550000,5,1,53.504624,-2.267315,"Lower Broughton Road, Salford, M7",0,0,1
+550000,4,1,53.44122,-2.26763,"St. Werburghs Road, Manchester, Chorlton, Greater Manchester, M21",0,1,0
+550000,4,1,53.450008,-2.267272,"College Drive, Whalley Range",1,0,0
+550000,4,2,53.422768,-2.200874,"Kingsleigh Road, Heaton Mersey, Stockport, SK4",0,1,0
+550000,5,1,53.41041,-2.21087,"Green Pastures, Heaton Mersey, Stockport",1,0,0
+550000,4,2,53.430187,-2.184515,"Merton Crescent, Heaton Moor, Stockport",1,0,0
+550000,7,3,53.433823,-2.209315,"Aubrey Road, Fallowfield, Manchester, M14 6SE",0,1,0
+550000,4,2,53.419675,-2.206491,"Heatley Close, Heaton Mersey",1,0,0
+550000,3,1,53.421802,-2.220645,"Fog Lane, Didsbury",0,1,0
+545000,4,3,53.430514,-2.247517,"The Boulevard, West Didsbury, Manchester, M20",0,0,1
+540000,3,1,53.418764,-2.174664,"Sutton Road, Heaton Norris, Stockport",0,1,0
+540000,4,3,53.47107,-2.14732,"Boothdale Drive, Manchester",1,0,0
+540000,4,3,53.499878,-2.361964,"The Coppice, Worsley, Manchester, M28",0,1,0
+539950,4,2,53.42868,-2.24588,"Georgia Avenue, Manchester, M20",0,1,0
+529995,4,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",1,0,0
+529950,6,6,53.46172,-2.21896,"East Grove, Manchester",0,0,1
+525000,5,3,53.406349,-2.220458,"Moor Park Road, Manchester",0,1,0
+525000,3,1,53.419757,-2.176511,"Derby Road, Heaton Moor, Stockport, SK4",0,1,0
+525000,5,2,53.429972,-2.176475,"Weston Grove, Heaton Chapel",0,1,0
+525000,5,2,53.406605,-2.220478,"Moor Park Road, East Didsbury",0,1,0
+525000,4,0,53.439029,-2.278858,"Chequers Road, Chorlton, M21",0,1,0
+525000,4,2,53.519757,-2.257911,"Ravensway, Prestwich",0,1,0
+525000,4,1,53.443733,-2.276015,"Warwick Road, Chorlton",0,0,1
+525000,3,1,53.420408,-2.221978,"Austin Drive, Didsbury, Manchester, M20",0,1,0
+525000,4,2,53.490068,-2.344539,"Bledlow Close, Manchester, M30",1,0,0
+525000,7,3,53.43626,-2.22816,"Lausanne Road, Manchester",0,0,1
+515000,4,2,53.451793,-2.280786,"Warwick Road South, Firswood",0,1,0
+514995,4,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",1,0,0
+510000,3,1,53.445348,-2.284186,"Newport Road, Manchester, M21",0,1,0
+510000,3,1,53.440082,-2.277734,"High Lane, Chorlton",0,0,1
+509995,4,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",1,0,0
+500000,6,1,53.461177,-2.263114,"Shrewsbury Street, Manchester",0,0,1
+500000,4,2,53.526313,-2.247924,"Middleton Road, Manchester",1,0,0
+500000,4,2,53.411211,-2.194055,"Boddens Hill Road, Heaton Mersey, Stockport, SK4",1,0,0
+500000,4,1,53.415399,-2.175464,"Green Lane, Heaton Norris, Stockport",1,0,0
+500000,6,2,53.45766,-2.27195,"Ayres Road, Manchester, Greater Manchester, M16",0,1,0
+500000,4,2,53.394032,-2.274413,"Kempsford Close, Manchester, M23",1,0,0
+500000,4,1,53.519626,-2.264746,"Kings Road, Prestwich, Manchester, Greater Manchester, M25",0,1,0
+500000,4,1,53.51965,-2.264619,"Kings Road, Manchester, M25",0,1,0
+500000,3,3,53.503701,-2.318542,"Desirable Swinton Location, M27",1,0,0
+500000,4,2,53.49208,-2.348272,"Hawthorn Avenue, Monton, Eccles, Manchester",0,1,0
+500000,4,2,53.488574,-2.369497,"Sutherland Street, Winton, Eccles, Manchester, M30",1,0,0
+500000,4,2,53.522721,-2.263594,"Bury Old Road, Manchester, M25",0,1,0
+500000,4,2,53.426592,-2.243449,"Arley Avenue, West Didsbury, Greater Manchester, M20",0,0,1
+499995,5,1,53.50529,-2.34191,"Worsley Road, 
+Swinton, 
+Manchester, 
+Greater Manchester,
+M27 5SN",1,0,0
+499950,3,1,53.423412,-2.255718,"Ashwood Avenue, West Didsbury, M20",0,1,0
+499950,3,3,53.50365,-2.31868,"Desirable Swinton Location, M27",1,0,0
+499500,5,4,53.511707,-2.136609,"New Oak Close, Failsworth, Manchester",1,0,0
+495000,3,3,53.52251,-2.256891,"Craigwell Road, Prestwich, Manchester",1,0,0
+495000,3,1,53.44161,-2.19739,"Grange Avenue, Levenshulme",0,1,0
+495000,5,1,53.442805,-2.276334,"Keppel Road, Chorlton",0,1,0
+495000,3,1,53.43109,-2.240137,"Sandhurst Avenue, West Didsbury, Manchester, M20",0,1,0
+495000,3,1,53.436714,-2.276287,"Reeves Road, Chorlton",0,1,0
+495000,3,1,53.449909,-2.275279,"Macauley Road, Manchester",0,1,0
+495000,3,2,53.437648,-2.270901,"Whalley Avenue, Chorlton",0,0,1
+365000,3,1,53.427516,-2.202585,"Burnage Lane, Burnage",0,1,0
+490000,3,1,53.423432,-2.189399,"Buckingham Road West, Heaton Moor, Stockport, SK4",1,0,0
+490000,4,1,53.523592,-2.254963,"Craigwell Road, Prestwich, M25",1,0,0
+490000,4,2,53.52359,-2.254963,"Craigwell Road, Manchester",1,0,0
+490000,3,1,53.495128,-2.349605,"Rocky Lane, Monton",0,1,0
+485000,3,1,53.418907,-2.181707,"Mentone Road, Heaton Moor, Stockport, SK4",0,1,0
+485000,4,2,53.447979,-2.254392,"Alness Road, Whalley Range",0,1,0
+485000,3,1,53.410843,-2.264676,"Yew Tree Lane, Northenden, Manchester, M22",1,0,0
+485000,3,1,53.415292,-2.186009,"Alvaston Avenue, Heaton Moor",1,0,0
+485000,4,2,53.401447,-2.250191,"Bronington Close, Northenden",1,0,0
+480000,4,1,53.415003,-2.178268,"Nursery Road, Heaton Norris",0,0,1
+480000,4,2,53.521128,-2.325413,"Rake Lane, Clifton, Swinton, Manchester, M27",1,0,0
+479995,3,3,53.49845,-2.37637,"Old Boatyard Lane, Worsley",0,1,0
+479995,3,3,53.498519,-2.376254,"Old Boatyard Lane, Worsley, Manchester, M28 2AJ",0,1,0
+475000,3,1,53.425807,-2.242227,"Cresswell Grove, West Didsbury",0,1,0
+475000,3,1,53.495189,-2.350296,"Rocky Lane, Manchester, M30",0,1,0
+475000,4,3,53.505386,-2.132548,"Ashton Road, Woodhouses Village",1,0,0
+475000,3,1,53.444193,-2.287699,"Hampton Road, Manchester, M21",0,1,0
+475000,5,1,53.535321,-2.279687,"Glebelands Road, Prestwich, M25",0,1,0
+475000,3,1,53.451732,-2.281639,"Sutherland Road, Firswood",0,1,0
+475000,4,2,53.373906,-2.245612,"Gresty Avenue, Peel Hall",0,1,0
+475000,3,1,53.4463,-2.300963,"Tresco Avenue, Manchester, M32",0,1,0
+475000,3,2,53.429003,-2.174603,"Broadstone Road, Heaton Chapel, Stockport, SK4",0,1,0
+475000,3,1,53.44409,-2.290067,"Ryebank Road, Chorlton, Manchester, M21",0,1,0
+220000,3,1,53.443879,-2.158094,"Wemyss Avenue, Reddish",0,1,0
+475000,4,2,53.455333,-2.264858,"Ollerton Avenue, Stretford",0,1,0
+475000,4,2,53.432293,-2.169417,"Hartford Avenue, Heaton Chapel, SK4",0,1,0
+475000,6,1,53.439888,-2.228621,"Leighbrook Road, Fallowfiled, Manchester, M14 6BG",0,1,0
+475000,6,3,53.485107,-2.349219,"Hampden Grove, Eccles, M30",0,0,1
+475000,4,3,53.393371,-2.276153,"Inglesham Close, Manchester, M23",0,1,0
+475000,3,1,53.473106,-2.13989,"Clarendon Road, Audenshaw",1,0,0
+475000,3,1,53.405798,-2.259357,"Chapel Road, Northenden, Manchester, M22",0,0,1
+475000,3,1,53.446389,-2.300911,Tresco Avenue Stretford  M32 8PE,0,1,0
+470000,4,1,53.443119,-2.203203,"Kingsway, Manchester",1,0,0
+470000,4,3,53.44752,-2.27845,"Kensington Road, Chorlton",0,0,1
+465000,4,2,53.44622,-2.19984,"Lindsay Avenue, Levenshulme",0,1,0
+465000,4,2,53.428702,-2.170426,"Huncoat Avenue, Heaton Chapel",0,1,0
+465000,3,1,53.451694,-2.285526,"Great Stone Road, Firswood",0,1,0
+465000,4,1,53.407658,-2.220199,"Wilmslow Road, East Didsbury, Manchester, M20",0,1,0
+465000,4,1,53.492702,-2.351424,"Grange Drive, Monton",0,1,0
+465000,3,2,53.444114,-2.274144,"Buckingham Road, Chorlton",0,1,0
+460000,6,1,53.444366,-2.198224,"Osborne Road, Manchester, M19",0,1,0
+460000,3,1,53.451021,-2.285456,"Great Stone Road, Manchester, M16",0,1,0
+460000,3,1,53.445676,-2.195063,"Central Avenue, Levenshulme",1,0,0
+460000,3,2,53.412782,-2.205692,"Greenbank Avenue, Heaton Mersey, Stockport, SK4",0,0,1
+460000,4,1,53.503704,-2.137358,"Medlock Road, Woodhouses, Failsworth",1,0,0
+280000,3,1,53.491456,-2.311731,"Princeton Close, Salford, Greater Manchester, M6",0,1,0
+460000,3,0,53.4014,-2.30438,"Ravenna Avenue, Manchester, Greater Manchester, M23",0,1,0
+455000,6,2,53.428534,-2.194569,"Shawbrook Road, Manchester, M19",0,1,0
+450000,4,3,53.4996,-2.31895,"Weylands Grove, Salford, Greater Manchester, M6",1,0,0
+450000,4,3,53.469549,-2.14052,"Woodhouses Avenue, Audenshaw, M34",1,0,0
+450000,4,1,53.491714,-2.352636,"Monton Road, Eccles, M30",0,1,0
+450000,3,2,53.448307,-2.274596,"Clarendon Road West, Chorlton",0,1,0
+450000,5,2,53.486617,-2.327351,"Devonshire Road, Salford, M6",0,1,0
+450000,4,2,53.431869,-2.180889,"Wellington Road North, Heaton Chapel",1,0,0
+450000,5,2,53.388841,-2.284132,"Greenbrow Road, Wythenshawe",0,1,0
+450000,4,1,53.502138,-2.347371,"Folly Lane, Swinton, M27",0,0,1
+450000,4,3,53.50337,-2.13776,"Medlock Road, Woodhouses, M35",1,0,0
+450000,2,1,53.41669,-2.234782,"Lidgate Grove, Didsbury, Manchester, M20",0,0,1
+450000,6,2,53.45532,-2.229006,"Heald Place, Manchester, M14",0,0,1
+450000,4,2,53.504356,-2.135794,"Medlock Gardens, Woodhouses, Manchester",1,0,0
+450000,5,3,53.503866,-2.147379,"Hardrush Fold, Failsworth, Manchester, M35",1,0,0
+450000,3,2,53.455833,-2.272531,"Auburn Road, Old Trafford",0,1,0
+450000,7,3,53.44843,-2.1555,"Ashbrook Farm Close, Stockport, Greater Manchester, SK5",1,0,0
+450000,4,3,53.4702,-2.13871,"Waterhouses Street, Audenshaw, Greater Manchester, M34",1,0,0
+450000,4,2,53.43606,-2.18171,"Lloyd Road, Levenshulme",0,1,0
+450000,4,3,53.498728,-2.37505,"The Moorings, Worsley, M28",0,1,0
+450000,5,1,53.526861,-2.247197,"Middleton Road, Manchester, M8",0,1,0
+450000,3,1,53.44033,-2.2616,"Wyverne Road, Chorlton, Manchester, M21",0,1,0
+450000,3,1,53.49681,-2.3836,"Farm Lane, Manchester, M28",1,0,0
+425000,3,1,53.437213,-2.271286,"Cleveleys Avenue, Chorlton",0,0,1
+450000,4,1,53.496076,-2.380951,"Parkstone Lane, Worsley, M28",0,1,0
+450000,3,1,53.44562,-2.26585,"Brantingham Road, Chorlton Cum Hardy, Manchester, Greater Manchester, M21",0,1,0
+450000,3,1,53.438934,-2.277478,"Thornbridge Avenue, Chorlton Green",0,0,1
+449950,3,1,53.440105,-2.286937,"Hackness Road, Chorlton",0,1,0
+445000,3,2,53.491331,-2.353701,"Alfred Street, Manchester",0,1,0
+445000,3,2,53.51123,-2.37211,"Glen Avenue, Worsley, Manchester, M28",0,1,0
+445000,6,2,53.43973,-2.19852,"Milwain Road, Manchester, M19",0,1,0
+440000,3,1,53.416307,-2.193733,"Curtis Road, Heaton Mersey, Stockport, SK4",0,1,0
+440000,3,2,53.445678,-2.269607,"Brantingham Road, Chorlton Cum Hardy, M21",0,1,0
+440000,4,1,53.49562,-2.382183,"Greenacre Lane, Worsley, Manchester",0,1,0
+435000,4,2,53.44905,-2.33468,Bradfield Road Urmston,0,1,0
+435000,4,2,53.42667,-2.15963,"Tynedale Close, South Reddish, Stockport",1,0,0
+430000,4,2,53.42583,-2.17625,"Wellington Road North, Heaton Chapel",1,0,0
+430000,4,2,53.504271,-2.135835,"Medlock Road, Woodhouses, Failsworth, Manchester, M35",1,0,0
+430000,6,1,53.428707,-2.216506,"Parrs Wood Road, Fallowfield, Manchester, M20 4RQ",0,1,0
+430000,4,1,53.42539,-2.17663,"Wellington Road North, Heaton Chapel, Stockport, Greater Manchester, SK4",1,0,0
+430000,6,3,53.434864,-2.212527,"Mauldeth Road, Fallowfield, M14",0,0,1
+429995,4,1,53.50529,-2.34191,"Worsley Road, 
+Swinton, 
+Manchester, 
+Greater Manchester,
+M27 5SN",0,1,0
+425000,3,1,53.501614,-2.347515,"Anson Road, Manchester, M27",0,1,0
+425000,4,1,53.492692,-2.261346,"Neptune Close, Salford, M7",1,0,0
+425000,3,2,53.412908,-2.293296,"Kerscott Road, Manchester, M23",1,0,0
+425000,4,3,53.470802,-2.148044,"Boothdale Drive, Manchester, M34",0,1,0
+425000,4,1,53.496559,-2.31005,"Acresfield Road, Salford",0,1,0
+425000,5,3,53.393723,-2.251167,"32 grosvenor gardens, Manchester, M22 4xa",1,0,0
+425000,5,2,53.521211,-2.282701,"Beckley Avenue, Prestwich, M25",0,1,0
+425000,3,1,53.44756,-2.28378,"Peveril Crescent, Manchester, Greater Manchester, M21",1,0,0
+425000,3,1,53.53216,-2.287768,"Jasmine House, Gardner Road, Prestwich",0,1,0
+425000,4,2,53.49666,-2.376273,"The Chase, Worsley, Manchester",1,0,0
+425000,4,1,53.519946,-2.274111,"Hilton Crescent, Prestwich",0,1,0
+425000,4,1,53.41607,-2.21165,"Berwick Avenue, Heaton Mersey, Stockport",0,1,0
+425000,4,2,53.542267,-2.275764,"Hastings Close, Whitefield, Manchester",1,0,0
+425000,4,2,53.413704,-2.190464,"Barnes Avenue, Heaton Moor, Manchester, SK4",0,1,0
+425000,3,1,53.449443,-2.266268,"College Drive, Whalley Range",0,1,0
+425000,3,1,53.412561,-2.217503,"Lynnwood Road, East Didsbury, Manchester, M19",0,1,0
+425000,3,1,53.492946,-2.35173,"Monton Green, Eccles, Manchester",0,1,0
+425000,5,2,53.494319,-2.318811,"Hayfield Road, Salford, M6",0,0,1
+425000,4,3,53.468813,-2.197105,"Wenlock Way,  Manchester, M12",0,1,0
+425000,4,2,53.454068,-2.337084,"Norwich Road, Stretford, Manchester, M32",0,1,0
+425000,3,1,53.44688,-2.26902,"Manley Road, Chorlton, Greater Manchester, M21",0,1,0
+425000,3,1,53.53216,-2.287768,"Gardner Road, Prestwich, Manchester",0,1,0
+425000,3,1,53.447559,-2.28205,Polruan Road,0,1,0
+425000,4,2,53.426272,-2.209579,"Glenhurst Road, Burnage, Manchester, M19",0,1,0
+420000,3,2,53.454051,-2.262,"Royston Avenue, Whalley Range",0,1,0
+420000,4,2,53.509827,-2.143148,"HAMPTON ROAD, MANCHESTER",0,1,0
+420000,3,1,53.50794,-2.360013,"Hazelhurst Road, Worsley, Manchester",0,1,0
+420000,3,1,53.414569,-2.221874,"Kingsfield Drive, Didsbury, M20 6JA",0,1,0
+420000,4,2,53.43267,-2.17501,"Carnforth Road, Stockport, Cheshire, SK4",0,1,0
+419995,3,2,53.49456,-2.32328,"Orient Road, Salford",0,1,0
+418995,3,1,53.40984,-2.27074,"Sale Road,
+Northenden,
+Manchester,
+M23 0DD",0,1,0
+415000,4,2,53.43683,-2.21755,"Derby Road, Fallowfield",0,1,0
+415000,3,2,53.413337,-2.190304,"Barnes Avenue, Heaton Moor, Stockport, SK4",0,1,0
+415000,4,2,53.519283,-2.287786,"Butterstile Close, Prestwich, Manchester",1,0,0
+415000,3,1,53.447023,-2.333839,"The Coaching House, Gilpin Road Urmston",1,0,0
+415000,3,2,53.519615,-2.288633,"Agecroft Road West, Prestwich",1,0,0
+410000,3,2,53.517982,-2.157952,"Parkfield Road North, Manchester",0,1,0
+409495,4,1,53.40984,-2.27074,"Sale Road,
+Northenden,
+Manchester,
+M23 0DD",0,1,0
+405000,3,2,53.482297,-2.26374,"South William Street, Salford, M3",0,0,1
+404995,4,1,53.50529,-2.34191,"Worsley Road, 
+Swinton, 
+Manchester, 
+Greater Manchester,
+M27 5SN",0,1,0
+400000,4,1,53.492938,-2.311362,"Rivington Road, Salford, Greater Manchester, M6",0,1,0
+400000,3,1,53.412315,-2.21593,"Lynnwood Road, East Didsbury, Greater Manchester, M19",0,1,0
+400000,3,1,53.424726,-2.17034,"Manchester Road, Heaton Chapel, Stockport, SK4",0,0,1
+400000,4,1,53.450897,-2.259001,"Victoria Road, Whalley Range",0,1,0
+400000,4,2,53.448825,-2.299308,"Kings Road, Stretford",0,1,0
+400000,5,2,53.43059,-2.179645,"Wellington Road North, Heaton Chapel",0,0,1
+400000,3,1,53.50693,-2.362918,"Hazelhurst Road, Worsley, Manchester",0,1,0
+400000,4,2,53.519174,-2.290845,"Venwood Road, Prestwich, Manchester",1,0,0
+400000,3,1,53.436731,-2.214162,"Exbury Street, Manchester, Greater Manchester, M14",1,0,0
+400000,3,1,53.47959,-2.24874,"Princess Road, Fallowfield",0,0,1
+400000,4,2,53.476091,-2.131663,"Lumb Lane, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+400000,4,1,53.449207,-2.309506,"Victoria Road, Stretford, Manchester, M32",0,1,0
+400000,4,2,53.46025,-2.294145,"Buckingham Road, Stretford, Manchester, M32",1,0,0
+400000,5,2,53.41,-2.255,"Michaels Close, Northenden, Manchester, M22",0,1,0
+400000,3,1,53.497188,-2.373152,"Ridingfold Lane, Worsley, M28",1,0,0
+400000,7,3,53.457996,-2.189058,"Elsham Gardens, Manchester",0,1,0
+400000,4,3,53.46034,-2.293953,"Buckingham Road, Stretford, Manchester, Greater Manchester, M32",1,0,0
+400000,3,0,53.51647,-2.25996,"Singleton Road, Manchester, M7",0,1,0
+400000,4,2,53.422328,-2.165545,"Horace Grove, Heaton Norris, Stockport, SK4",0,1,0
+400000,3,1,53.498438,-2.381575,"Kenwood Lane, Worsley, M28",0,1,0
+400000,4,1,53.45437,-2.25386,"Yarburgh Street, Whalley Range, Greater Manchester, M16",0,1,0
+400000,3,1,53.405801,-2.256559,"Morrell Road, Manchester, M22",0,1,0
+400000,4,1,53.498901,-2.31795,"Radcliffe Park Road, Salford",1,0,0
+400000,4,3,53.510633,-2.307389,"Lock Keepers Mews, Swinton, M27",1,0,0
+400000,3,1,53.40149,-2.230491,"Bankside Road, East Didsbury",0,1,0
+400000,5,2,53.483699,-2.354135,"Franklin Street, Eccles, M30",1,0,0
+400000,3,1,53.444584,-2.243876,"Princess Road, Manchester, Greater Manchester, M14",0,0,1
+399999,3,1,53.454352,-2.263746,"Sylvan Avenue, Manchester, M16",0,1,0
+399995,4,1,53.50529,-2.34191,"Worsley Road, 
+Swinton, 
+Manchester, 
+Greater Manchester,
+M27 5SN",0,1,0
+399995,3,1,53.402505,-2.233864,"Tuscan Road, East Didsbury",0,1,0
+399995,3,1,53.51045,-2.36155,"62 East Lancashire Road, Worsley",1,0,0
+399995,3,1,53.402849,-2.232937,"Moresby Drive, East Didsbury",0,1,0
+399950,4,2,53.504848,-2.145136,"Whitewillow Close, Failsworth, Manchester",1,0,0
+399950,5,3,53.505453,-2.324913,"Parkgate Drive, Swinton, Manchester, Greater Manchester, M27",0,1,0
+399000,5,3,53.38642,-2.24999,Solway Road Wythenshawe Manchester,0,1,0
+399000,5,3,53.38112,-2.25177,Martock Avenue Wythenshawe Manchester,0,1,0
+395000,4,2,53.549318,-2.253893,"Simister Lane, Prestwich, Manchester, M25",0,1,0
+395000,3,1,53.451593,-2.308394,"Davyhulme Road East, Manchester, M32",0,1,0
+395000,3,1,53.49624,-2.382173,"Edenfield Lane, Worsley, Manchester ",0,1,0
+395000,3,1,53.446006,-2.265743,"Desford Avenue, Chorlton",0,1,0
+395000,5,1,53.524613,-2.255857,"Downham Crescent, Prestwich, M25",0,1,0
+395000,4,3,53.470217,-2.140889,"Woodhouses Avenue, Manchester, M34",1,0,0
+395000,2,1,53.428552,-2.245935,"Georgia Avenue, West Didsbury",0,1,0
+395000,5,1,53.450392,-2.297578,"Dearne Drive, Stretford, M32 0JU",0,1,0
+395000,4,3,53.387222,-2.247937,"Mayfair Road, Manchester",0,1,0
+395000,5,1,53.524631,-2.255845,"Downham Crescent, Prestwich, Manchester",0,1,0
+395000,3,1,53.490812,-2.347535,"Dovedale Avenue, Eccles, M30",0,1,0
+390000,4,1,53.49315,-2.31106,"Claremont Road, Salford, M6",0,1,0
+390000,3,1,53.490825,-2.346833,"Bedford Road, Ellesmere Park",0,1,0
+390000,3,1,53.524131,-2.255434,"Windsor Road, Manchester",1,0,0
+390000,4,1,53.45392,-2.20582,"Birch Hall Lane, Manchester, M13",0,1,0
+390000,3,2,53.452884,-2.282208,"Warwick Road South, Manchester",0,1,0
+390000,4,2,53.52448,-2.25231,9 Windsor Crescent,0,1,0
+390000,5,2,53.533271,-2.203392,"Mossway, Alkington, Middleton, Manchester, M24",0,1,0
+389950,3,1,53.523125,-2.268554,"Parksway, Prestwich, Manchester, M25 0JB",0,1,0
+388995,3,1,53.40984,-2.27074,"Sale Road,
+Northenden,
+Manchester,
+M23 0DD",0,1,0
+385000,3,1,53.431009,-2.165664,"Bowness Avenue, Stockport, Greater Manchester, SK4",0,1,0
+385000,4,2,53.43581,-2.223916,"Mauldeth Road, Withington, M20 4ND",0,1,0
+385000,3,2,53.411642,-2.181407,"Park Drive, Heaton Norris, Stockport",0,1,0
+385000,3,1,53.502791,-2.348296,"Dales Brow, Swinton, M27",0,1,0
+385000,5,2,53.434864,-2.212527,"Mauldeth Road, Manchester, Greater Manchester, M14",0,0,1
+385000,3,1,53.503179,-2.341059,"South Meade, Swinton, Manchester, Greater Manchester, M27",0,1,0
+385000,3,2,53.391605,-2.248673,"Chaffinch Close, Sharston",1,0,0
+385000,5,1,53.474601,-2.131805,"Aldwyn Park Road, Audenshaw, Manchester",0,1,0
+385000,4,1,53.470299,-2.145495,"Fairway View, Audenshaw, Manchester, Greater Manchester, M34",1,0,0
+385000,3,1,53.44656,-2.24718,12 Broadmeadow Avenue ,1,0,0
+385000,3,1,53.447971,-2.277688,"Cheltenham Road, Chorlton",0,0,1
+385000,4,2,53.505898,-2.343134,"Collier Street, Manchester",1,0,0
+380000,3,2,53.389126,-2.245633,"Charnville Road, Gatley, Cheadle, Greater Manchester, SK8",0,1,0
+380000,3,1,53.521622,-2.21462,"Rochdale Road, Blackley, Manchester, M9",1,0,0
+380000,3,1,53.429001,-2.171011,"Huncoat Avenue, Heaton Chapel, Manchester, SK4",0,1,0
+380000,3,2,53.429443,-2.182864,"Kensington Close, Heaton Moor, Stockport, SK4",0,1,0
+320000,3,1,53.47883,-2.13518,"Droylsden Road, Audenshaw",0,1,0
+380000,7,3,53.468361,-2.206804,"Rostron Avenue,  Manchester, M12",0,1,0
+380000,3,1,53.41323,-2.18817,"Marcliff Grove, Heaton Mersey",0,1,0
+380000,3,1,53.48385,-2.14794,"Greenheys, Droylsden, M43",1,0,0
+380000,3,1,53.429581,-2.175779,"Lynwood Grove, Heaton Chapel, Stockport, SK4",0,1,0
+380000,2,1,53.489392,-2.251046,"Springfield Lane, Salford, M3",0,0,1
+380000,3,2,53.45922,-2.20735,"Daisy Avenue, Manchester, M13",1,0,0
+375000,3,1,53.41088,-2.259298,"Haughton Drive, Northenden, Manchester, Greater Manchester, M22",0,1,0
+375000,4,3,53.493475,-2.299714,"Chaplin Close, Salford, M6",1,0,0
+375000,3,1,53.433553,-2.206448,"Burnside Drive, Burnage",0,1,0
+375000,3,1,53.522053,-2.264321,"Fairway, Prestwich",0,1,0
+375000,3,1,53.431169,-2.169566,"Broadstone Hall Road North, Heaton Chapel, Stockport, SK4",1,0,0
+375000,4,2,53.474351,-2.155999,"Mossfield Street, Fairfield, Manchester, M11",0,1,0
+375000,4,2,53.504538,-2.310416,"Bolton Road, Pendlebury, Swinton, Manchester, M27",0,1,0
+375000,4,3,53.422322,-2.156502,"Reddish Road, Reddish, Stockport, Cheshire, SK5",1,0,0
+375000,4,2,53.509553,-2.317991,"Hospital Road, Pendlebury, Swinton, M27",0,1,0
+375000,4,1,53.519022,-2.273215,"Arlington Avenue, Prestwich, M25",0,1,0
+375000,3,1,53.43893,-2.23177,"Yew Tree Road, Fallowfield",0,1,0
+375000,4,3,53.470416,-2.146016,"Fairway View, Audenshaw, Manchester, Greater Manchester, M34",1,0,0
+375000,3,1,53.50454,-2.316932,"Kingsway, Swinton, Manchester",1,0,0
+375000,3,1,53.49608,-2.382984,"Greenacre Lane, Worsley, Manchester",0,1,0
+375000,4,1,53.47829,-2.13346,"Droylsden Road, Audenshaw",0,1,0
+375000,4,1,53.445079,-2.320214,"Urmston Lane, Stretford, Manchester, M32",0,1,0
+180000,2,1,53.449755,-2.235804,"Thornton Road,  Manchester, M14",0,0,1
+375000,3,1,53.430781,-2.221687,"Alan Road, Manchester, M20",0,1,0
+375000,4,2,53.4757,-2.135194,"Rivington Grove, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+375000,4,2,53.506395,-2.363418,"Hazelhurst Road, Worsley, M28",0,1,0
+375000,3,1,53.445175,-2.279464,"Longford Road, Chorlton",0,0,1
+375000,3,1,53.439487,-2.259134,"Egerton Road South, Chorlton",0,1,0
+375000,4,1,53.535088,-2.233125,"Heaton Park Road, Blackley, Manchester, M9",0,1,0
+375000,3,1,53.443585,-2.273604,"Buckingham Road, Chorlton, Manchester, M21",0,1,0
+375000,3,1,53.430334,-2.183866,"Merton Crescent, Heaton Moor, Stockport, SK4",0,1,0
+375000,3,1,53.41577,-2.215256,"Hurstfold Avenue, East Didsbury, Manchester, M19",0,1,0
+375000,3,0,53.41088,-2.259298,"Haughton Drive, Manchester, Greater Manchester, M22",0,1,0
+375000,4,3,53.461853,-2.265768,"Stamford Street, Manchester, M16",0,0,1
+375000,4,1,53.49744,-2.3502,"Folly Lane, Swinton, Manchester",0,0,1
+375000,4,2,53.496219,-2.380711,"Parkstone Lane, Worsley, M28",0,1,0
+375000,3,1,53.429133,-2.172267,"Hulme Road, Heaton Chapel, Stockport, SK4",0,1,0
+375000,4,2,53.493277,-2.299429,"Chaplin Close, Salford, Greater Manchester, M6",1,0,0
+375000,6,2,53.486807,-2.364109,"Dartford Avenue, Eccles, M30",0,1,0
+375000,3,1,53.51965,-2.364897,"Manchester Road, Swinton, Manchester",1,0,0
+375000,3,1,53.490096,-2.324841,"Verdun Avenue, Salford, M6",0,1,0
+375000,3,1,53.515411,-2.280257,"Wensley Road, Salford",1,0,0
+375000,4,1,53.504791,-2.310491,"Bolton Road, Pendlebury, Swinton, Manchester, M27",0,1,0
+375000,3,1,53.524464,-2.274804,"Scholes Lane, Prestwich, Manchester",0,1,0
+375000,4,1,53.535723,-2.283852,"Pennant Drive, Prestwich",1,0,0
+374995,3,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",0,1,0
+370000,3,1,53.433077,-2.169854,"Ashford Road, Heaton Chapel",0,1,0
+370000,4,2,53.408647,-2.299524,"Dorchester Drive, Manchester, Greater Manchester, M23",1,0,0
+370000,3,2,53.496181,-2.376053,"Ridingfold Lane, Worsley, M28",1,0,0
+370000,4,3,53.466478,-2.186412,"Holdness Road, Manchester, M18",1,0,0
+370000,3,1,53.44088,-2.20412,"Kingsway, Burnage",0,1,0
+370000,4,2,53.51952,-2.364367,"Manchester Road, Swinton, Manchester",0,1,0
+370000,3,1,53.4133,-2.20321,"Ranworth Avenue, Heaton Mersey, Stockport",0,1,0
+370000,3,1,53.40761,-2.30096,"Tunshill Road, Manchester, Greater Manchester, M23",1,0,0
+370000,4,1,53.43582,-2.228992,"Davenport Avenue, Withington, Manchester, M20 3EY",0,0,1
+370000,2,1,53.439223,-2.279808,"Acres Road, Manchester, M21",0,0,1
+369950,4,2,53.448851,-2.305122,"Cyprus Street, Manchester, M32",0,0,1
+369950,3,1,53.40197,-2.228253,"Norview Drive, East Didsbury",0,1,0
+365000,4,1,53.47433,-2.14294,"Manchester Road, Audenshaw, M34",1,0,0
+365000,4,1,53.505193,-2.339851,"Fettler Close, Swinton, M27",1,0,0
+365000,4,1,53.474344,-2.132059,"Aldwyn Park Road, Manchester, M34",0,1,0
+365000,3,1,53.43035,-2.21714,"Stephens Road, Withington",0,1,0
+365000,2,1,53.416606,-2.227464,"Countess Road, Didsbury",0,0,1
+365000,6,2,53.44218,-2.18845,"Langdale Avenue, Manchester",0,0,1
+365000,3,2,53.503662,-2.325653,"Lawnswood Drive, Swinton",1,0,0
+365000,4,1,53.42553,-2.170479,"Manchester Road, Stockport, SK4",0,0,1
+310000,3,2,53.541967,-2.281101,"Kenilworth Avenue, Whitefield, Manchester, M45",0,1,0
+365000,3,2,53.503662,-2.325653,"Lawnswood Drive, Swinton, Manchester",1,0,0
+363995,3,1,53.40984,-2.27074,"Sale Road,
+Northenden,
+Manchester,
+M23 0DD",0,1,0
+360000,3,1,53.43948,-2.1986,"Milwain Road, Levenshulme",0,1,0
+360000,3,1,53.440584,-2.200666,"Scarisbrick Road, Levenshulme, Manchester",0,1,0
+360000,3,1,53.433606,-2.217478,"Parsonage Road, Withington",0,1,0
+360000,3,0,53.418191,-2.21527,"Kingsway, Manchester, Greater Manchester, M19",0,1,0
+360000,4,2,53.50507,-2.352051,"Ashley Drive, Manchester, M27",0,1,0
+360000,3,1,53.520966,-2.267964,"Lichfield Drive, Prestwich, M25",0,1,0
+360000,4,2,53.4074,-2.27673,"Hallas Grove, Manchester, M23",0,1,0
+360000,3,1,53.433942,-2.214369,"Parrs Wood Road, Withington, Manchester, M20",0,1,0
+360000,3,1,53.43448,-2.21444,"Parrs Wood Road, Withington",0,1,0
+360000,3,1,53.453418,-2.279129,"Royston Road, Firswood",0,1,0
+360000,3,3,53.495767,-2.349493,"Chorlton Fold, Monton Eccles",0,1,0
+360000,3,1,53.50552,-2.352082,"Ashley Crescent, Swinton, Manchester",0,1,0
+360000,3,2,53.419023,-2.219196,"Parrs Wood Road, Didsbury, Manchester, M20",0,1,0
+360000,4,1,53.511687,-2.170144,"Broadway, Failsworth, Manchester, M35",0,1,0
+360000,4,3,53.509021,-2.142887,"Hampton Road, Failsworth, Manchester",0,1,0
+360000,4,1,53.539734,-2.27215,"Polefield Road, Prestwich, Manchester, M25 0JB",0,1,0
+360000,3,2,53.495937,-2.348499,"Chorlton Fold, Monton",0,1,0
+360000,4,4,53.470712,-2.149376,"Boothdale Drive, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+360000,3,1,53.417129,-2.179876,"Hale Road, Heaton Norris, Stockport, SK4",0,1,0
+359950,4,3,53.51176,-2.141719,"Westminster Road, Failsworth, Manchester",0,1,0
+355000,4,2,53.428627,-2.176797,"Cambridge Road, Stockport, Cheshire, SK4",0,1,0
+355000,3,1,53.44654,-2.19801,"Slade Lane, Levenshulme",0,1,0
+350000,4,2,53.541667,-2.272108,"Parkville Road, Prestwich, Manchester",0,1,0
+350000,3,1,53.450256,-2.323196,"Montrose Avenue, Stretford",0,1,0
+350000,3,2,53.452022,-2.297184,"Enriqueta Rylands Close, Stretford, M32 0NW",0,0,1
+350000,4,3,53.451635,-2.234428,"Bilsborrow Road, Manchester, M14",0,1,0
+350000,3,1,53.509166,-2.153845,"Totton Road, Failsworth, Manchester",1,0,0
+350000,3,2,53.44247,-2.22623,"Carrington Road, Manchester, M14",0,1,0
+350000,3,1,53.487485,-2.328774,"Trafalgar Road, Salford, M6",0,1,0
+350000,3,1,53.45635,-2.23216,"297/299 Great Western Street, Manchester, Greater Manchester, M14",0,0,1
+350000,3,2,53.510604,-2.352294,"Threadmill Lane, Swinton",1,0,0
+350000,3,1,53.456826,-2.270661,"Morland Road, Manchester, M16",0,1,0
+350000,3,1,53.395802,-2.275026,"Paulden Avenue, Manchester",0,1,0
+350000,3,1,53.520412,-2.266618,"Salisbury Drive, Prestwich",0,1,0
+350000,4,2,53.493475,-2.299714,"Chaplin Close, Salford, M6",1,0,0
+350000,3,1,53.427948,-2.201641,"Pearn Avenue, Burnage",0,1,0
+350000,5,3,53.45957,-2.21563,"Hathersage Road, Manchester, M13",0,0,1
+350000,2,1,53.409753,-2.258672,"Lingard Road, Northenden, Manchester, M22",0,1,0
+350000,4,1,53.438872,-2.214787,"Cedar Grove, Manchester, M14",0,0,1
+350000,3,1,53.497097,-2.310612,"Ashbourne Road, Salford",0,1,0
+350000,2,2,53.428536,-2.176591,"Cambridge Road, Heaton Chapel",0,0,1
+185000,2,1,53.522663,-2.290946,"Woodward Road, Prestwich, Manchester",0,1,0
+350000,3,3,53.450829,-2.298682,"Renton Road, Stretford, M32 0TS",1,0,0
+350000,3,1,53.494325,-2.315653,"Cholmondeley Road, Salford, M6",1,0,0
+350000,3,1,53.417328,-2.173169,"Sparth Lane, Heaton Norris, Stockport, SK4",0,1,0
+350000,3,1,53.398052,-2.276354,"Sandacre Road, Baguley",0,1,0
+350000,4,3,53.42546,-2.133467,"Brinnington Road, Stockport",0,1,0
+350000,3,2,53.490478,-2.360099,"Montonfields Road, Eccles, Manchester, M30",1,0,0
+350000,3,1,53.411749,-2.295925,"Kerscott Road, Manchester, Greater Manchester, M23",1,0,0
+350000,5,2,53.501812,-2.267979,"Cliff Avenue, Salford",0,0,1
+350000,3,1,53.50552,-2.358324,"Granby Road, Swinton, Manchester",0,1,0
+350000,4,1,53.47433,-2.14294,"Manchester Road, Audenshaw, M34",0,1,0
+350000,3,1,53.411436,-2.193511,"Boddens Hill Road, Heaton Mersey, Stockport, SK4",1,0,0
+350000,4,3,53.523937,-2.205204,"Wild Cherry Avenue, Blackley, Manchester, M9",1,0,0
+350000,3,1,53.402954,-2.230552,"Bankside Road, Didsbury",0,1,0
+350000,4,2,53.444515,-2.333694,"Newcroft Road, Urmston",0,1,0
+350000,3,1,53.510209,-2.315108,"Rivington Avenue, Swinton",0,1,0
+350000,4,1,53.45624,-2.2629,"Upper Chorlton Road, Manchester, M16",0,1,0
+350000,3,1,53.50756,-2.354443,"Holyrood Drive, Swinton, Manchester",0,1,0
+350000,3,2,53.478187,-2.343856,"Montgomery Street, Eccles, Manchester, Greater Manchester, M30",1,0,0
+350000,3,1,53.495304,-2.347749,"Maldon Drive, Eccles, Manchester",0,1,0
+350000,3,1,53.41715,-2.197718,"Beaminster Close, Heaton Mersey",0,0,1
+350000,3,3,53.461163,-2.249161,"Betsham Street, Manchester, M15",0,1,0
+350000,3,1,53.432949,-2.171775,"Mouldsworth Avenue, Heaton Chapel, Stockport, SK4",0,1,0
+350000,3,1,53.455707,-2.265068,"Ollerton Avenue, Old Trafford, Manchester. M16 7SE",0,1,0
+350000,3,1,53.44203,-2.22322,"Wellington Road, Fallowfield, Manchester, M14",0,1,0
+350000,3,1,53.40981,-2.19357,"Middlewood Drive, Stockport",1,0,0
+350000,2,1,53.416715,-2.232628,"Davenfield Grove, Didsbury",0,0,1
+350000,3,2,53.428191,-2.173733,"Brook Avenue, Heaton Chapel, Stockport, SK4",0,0,1
+350000,3,1,53.494097,-2.314987,"Cholmondeley Road, Salford, Greater Manchester, M6",1,0,0
+350000,3,1,53.4485,-2.30755,"Moreton Avenue, Stretford M32 8BQ",0,0,1
+350000,3,1,53.43074,-2.19893,"Western Circle, Burnage, Manchester, Greater Manchester, M19",0,1,0
+350000,5,1,53.459,-2.276509,"Lime Grove, Manchester, M16",0,0,1
+350000,3,1,53.428298,-2.21666,"Parrs Wood Road, Manchester",0,1,0
+350000,3,1,53.434919,-2.234172,"Old Moat Lane, Manchester",0,0,1
+349950,4,1,53.508777,-2.141383,"Ashton Road East, Failsworth, Manchester",0,1,0
+349000,3,3,53.42308,-2.21184,Kingsway Manchester,0,1,0
+345000,3,1,53.518654,-2.363854,"Elm Grove, Wardley, Swinton, Manchester, M27",0,1,0
+345000,3,1,53.433998,-2.166795,"Broadstone Road, Heaton Chapel",0,1,0
+345000,3,1,53.393494,-2.25041,"Grosvenor Gardens, Manchester",1,0,0
+345000,3,1,53.434465,-2.16721,"Broadstone Road, Heaton Chapel, Stockport, SK4",0,1,0
+345000,2,1,53.440536,-2.28903,"Bolesworth Close, Chorlton",0,1,0
+340000,3,1,53.517841,-2.156635,"Northfield Road, Manchester",0,1,0
+340000,2,1,53.438032,-2.280297,"Crossland Road, Manchester, Greater Manchester, M21",0,0,1
+180000,3,1,53.45107,-2.23938,"Burdith Avenue, Manchester, Greater Manchester, M14",0,0,1
+340000,2,1,53.397143,-2.303413,"94 Shady Lane, Manchester, M23",0,1,0
+340000,3,1,53.494324,-2.322828,"Orient Road, Salford, M6",0,1,0
+340000,3,1,53.45079,-2.20053,"Buller Road, Manchester, M13",0,1,0
+340000,3,1,53.4971,-2.310459,"Ashbourne Road, Salford, M6",1,0,0
+340000,3,1,53.44426,-2.30457,Maple Avenue  Stretford  M32,0,1,0
+340000,3,1,53.509425,-2.359505,"Partington Street, Worsley, Manchester, Greater Manchester, M28",0,1,0
+340000,6,3,53.51442,-2.20083,"Carnaby Street, Moston, Manchester, Greater Manchester, M9",0,1,0
+340000,3,1,53.447569,-2.317896,St. Andrews Road  Stretford  M32 9JE,0,1,0
+340000,3,1,53.429208,-2.177911,"Manchester Road, Heaton Chapel, Stockport, SK4",0,0,1
+340000,3,1,53.4126,-2.18771,"Didsbury Road, Heaton Mersey, Stockport",0,1,0
+340000,3,1,53.396927,-2.301216,"Grimstead Close, Baguley, M23 9WD",0,1,0
+340000,3,1,53.523025,-2.254625,"Silverdale Avenue, Prestwich",0,1,0
+340000,4,1,53.44133,-2.18727,"Crayfield Road, Levenshulme",0,0,1
+340000,3,2,53.441982,-2.156018,"Melanie Drive, Stockport, Greater Manchester, SK5",1,0,0
+340000,3,1,53.504962,-2.35255,"Ashley Drive, Swinton, Manchester, M27",0,1,0
+340000,2,1,53.409176,-2.254699,"Mill Lane, Manchester, M22",0,0,1
+340000,3,1,53.409156,-2.195339,"Aspen Close, Heaton Mersey, Stockport, SK4",1,0,0
+339995,3,2,53.48663,-2.15489,"Greenside Lane, Droylsden, Manchester",1,0,0
+335000,3,1,53.452634,-2.280112,"Oakfield avenue, Firswood, M16",0,1,0
+335000,2,1,53.416805,-2.232622,"Davenfield Grove, Didsbury Village",0,0,1
+335000,2,1,53.425517,-2.170509,"Manchester Road, Heaton Chapel, Stockport, SK4",0,0,1
+335000,3,1,53.405761,-2.221587,"Winwood Road, Manchester, Greater Manchester, M20",0,1,0
+335000,3,1,53.453747,-2.280912,"Kings Road, Manchester, M16",0,1,0
+335000,5,3,53.447665,-2.259295,"Grosvenor Road, Manchester, M16",0,1,0
+334995,3,1,53.5185,-2.27475,"George Street,
+Prestwich,
+Manchester,
+M25 9WS",0,1,0
+330000,3,1,53.42846,-2.22074,"Heathside Road, Manchester, Greater Manchester, M20",0,1,0
+330000,3,1,53.505482,-2.353142,"Ashley Drive, Swinton, Manchester, Greater Manchester, M27",0,1,0
+330000,3,2,53.47567,-2.20893,"Paxton Place, M11 3NL, Manchester",0,1,0
+330000,4,0,53.458811,-2.2673,"Ayres Road, Manchester, M16",0,0,1
+330000,3,2,53.525962,-2.24125,"Ellbourne Road, Manchester",1,0,0
+330000,4,3,53.506114,-2.166887,"Ridgefield Street, Failsworth, Manchester",0,0,1
+330000,3,1,53.42836,-2.22062,"Heathside Road, Withington",0,1,0
+330000,4,1,53.455991,-2.330924,"Audley Avenue, Manchester, M32",0,1,0
+330000,3,2,53.48682,-2.14358,"Lodge Fold, Droylsden",1,0,0
+330000,3,1,53.423985,-2.179886,"Derby Road, Heaton Moor",0,0,1
+330000,4,1,53.50879,-2.14075,"Ashton Road East, Failsworth",0,1,0
+330000,3,2,53.543174,-2.270796,"Peveril Close, Whitefield, Manchester",0,1,0
+330000,3,1,53.5047,-2.36105,"Ringlow Park Road, Swinton, Manchester, M27",0,1,0
+325000,3,1,53.420029,-2.218083,"Elmsmere Road, East Didsbury, Manchester, M20",0,1,0
+325000,3,1,53.412689,-2.188234,"Didsbury Road, Heaton Mersey, Stockport, SK4",0,1,0
+325000,3,1,53.541622,-2.275428,"Harlech Avenue, Whitefield, Manchester",0,1,0
+325000,2,1,53.42263,-2.25969,"Manor Drive, Manchester, Greater Manchester, M21",0,0,1
+325000,3,1,53.500096,-2.344509,"Rolag Crescent, Swinton, M27",0,1,0
+325000,2,1,53.421508,-2.222647,"Fog Lane, Didsbury, Manchester, M20",0,0,1
+325000,3,1,53.503938,-2.346239,"Worsley Road, South Swinton, Manchester, M27 0YF",0,0,1
+325000,3,2,53.506966,-2.171844,"Lodge Hall Drive, Failsworth, Manchester, Greater Manchester, M35",1,0,0
+325000,3,1,53.404235,-2.261115,"Norleigh Road, Manchester, M22 4AZ",0,1,0
+325000,3,1,53.409045,-2.198225,"Craig Road, Heaton Mersey, Stockport, SK4",0,1,0
+325000,3,2,53.435972,-2.20267,"Grangethorpe Drive, Manchester, M19",0,1,0
+325000,3,1,53.446777,-2.264921,"Manley Road, Whalley Range",0,1,0
+325000,4,1,53.526426,-2.239803,"Hill Crescent, Manchester, M9",1,0,0
+325000,3,1,53.502883,-2.344663,"Firswood Drive, Swinton, M27",0,1,0
+325000,4,1,53.506156,-2.323003,"Grosvenor Road, Swinton",0,1,0
+325000,4,2,53.445756,-2.180788,"Barlow Road, Levenshulme, Manchester, M19",0,1,0
+325000,4,2,53.48385,-2.14794,"Greenheys, Droylsden, Manchester, Greater Manchester, M43",1,0,0
+325000,3,1,53.428655,-2.272509,"Thorneycroft Avenue, Chorlton",0,1,0
+325000,4,1,53.508644,-2.278831,"Eastcombe Avenue, Salford, Greater Manchester, M7",1,0,0
+325000,3,1,53.531446,-2.276187,"Oaklands Drive, Prestwich, Manchester, M25",0,1,0
+325000,3,2,53.487899,-2.358062,"Leach Drive, Eccles",1,0,0
+325000,3,1,53.42051,-2.21921,"Parrs Wood Road, Didsbury",0,0,1
+325000,3,1,53.507866,-2.325402,"Temple Drive, Swinton, Manchester, Greater Manchester, M27",0,1,0
+325000,3,1,53.423366,-2.265116,"Caldervale Avenue, Chorlton, Manchester, M21",0,1,0
+300000,3,2,53.430881,-2.205306,"Broadhill Road, Manchester, Greater Manchester, M19",0,1,0
+325000,3,1,53.508041,-2.360145,"Hazelhurst Road, Worsley, M28",0,1,0
+325000,3,1,53.505619,-2.35195,"Ashley Crescent, Swinton, M27",0,1,0
+325000,2,0,53.417266,-2.20958,"Ingram Drive, Stockport, Greater Manchester, SK4",0,1,0
+325000,3,1,53.406874,-2.296305,"Wythenshawe Road, Manchester",0,1,0
+325000,3,1,53.505798,-2.354534,"Moorside Road, Swinton, M27",0,1,0
+325000,5,2,53.512695,-2.146211,"Roman Road, Failsworth, Manchester",0,1,0
+325000,3,1,53.49817,-2.351416,"Sapling Road, Swinton, Manchester",0,1,0
+325000,3,2,53.43934,-2.15848,"Sykes Street, Stockport",0,1,0
+325000,3,1,53.47459,-2.135918,"Aldwyn Park Road, Manchester",1,0,0
+325000,3,3,53.468829,-2.140494,"Woodhouses Avenue, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+325000,3,1,53.443302,-2.202849,"Kingsway, Manchester",0,1,0
+325000,3,1,53.524984,-2.247553,"Carr Bank Avenue, Manchester, Greater Manchester, M9",0,1,0
+325000,2,1,53.438323,-2.28191,"Stanley Grove, Chorlton Green",0,0,1
+324999,3,2,53.451343,-2.309356,"Garden Avenue, Stretford, Manchester, M32",0,1,0
+320000,3,1,53.459606,-2.26921,"Fulford Street, Old Trafford",0,0,1
+320000,4,2,53.457937,-2.153975,"Hyde Road, Manchester, M18",0,1,0
+320000,4,4,53.525724,-2.282083,"Prestwich Park Road South, Prestwich, M25",1,0,0
+320000,4,2,53.44206,-2.225042,"Chervil Close, Fallowfield, Manchester, M14",0,1,0
+320000,3,2,53.435296,-2.180091,"Hillcrest Drive, Levenshulme",0,1,0
+320000,3,1,53.504295,-2.348986,"Mardale Road, Swinton",0,1,0
+320000,3,2,53.451743,-2.31644,"Leyburn Avenue, Stretford, M32 8DZ",0,1,0
+320000,3,1,53.451068,-2.331001,"Humphrey Lane, Urmston",0,1,0
+320000,3,1,53.520603,-2.291143,"Venwood Road, Prestwich",1,0,0
+320000,3,1,53.43659,-2.19926,"Alexandra Drive, Manchester, M19",0,0,1
+320000,3,2,53.509857,-2.297763,"Hewer Close, Pendlebury, Swinton, M27",0,1,0
+320000,2,1,53.41707,-2.211569,"Chevington Drive, Heaton Mersey, Stockport, SK4",0,1,0
+320000,3,1,53.451476,-2.307601,"Davyhulme Road East, Stretford, M32",0,1,0
+319995,3,1,53.47541,-2.13842,"Manchester Road,
+Droylsden,
+Greater Manchester,
+M34 5PX",1,0,0
+319950,3,2,53.50476,-2.136762,"Marston Close, Woodhouses, Failsworth",0,1,0
+319950,3,1,53.50138,-2.151661,"Alder Road, Failsworth, Manchester",0,1,0
+315000,3,1,53.414863,-2.173076,"Bowerfold Lane, Heaton Norris, Stockport, SK4",0,1,0
+315000,4,3,53.490834,-2.35825,"Montonmill Gardens, Eccles, M30",1,0,0
+315000,3,2,53.499442,-2.327463,"Welwyn Drive, Salford, M6",1,0,0
+315000,3,1,53.458923,-2.270123,"Lilian Street, Old Trafford, Manchester",0,0,1
+315000,4,2,53.491215,-2.359026,"Montonmill Gardens, Eccles, Manchester, Greater Manchester, M30",1,0,0
+315000,3,1,53.543983,-2.276621,"Warwick Avenue, Whitefield, Manchester",0,1,0
+315000,3,2,53.499549,-2.327387,"Welwyn Drive, Salford",1,0,0
+315000,4,2,53.49707,-2.320652,"Burnside Avenue, Salford",0,1,0
+315000,3,1,53.450308,-2.325958,"Atholl Avenue, Stretford, M32",0,1,0
+314995,3,1,53.508426,-2.152199,"St. Johns Gardens, Failsworth, Manchester",1,0,0
+314950,3,2,53.498447,-2.158915,"Links Avenue, Failsworth",0,1,0
+180000,2,1,53.45261,-2.244268,"Hartington Street, Manchester, Greater Manchester, M14",0,0,1
+310000,4,2,53.47907,-2.371906,"Barton Hall Avenue, Eccles, M30",0,1,0
+310000,3,1,53.427921,-2.266077,"Floyd Avenue, Chorlton",0,0,1
+310000,3,1,53.445937,-2.324238,"Cressingham Road, Stretford, M32",0,1,0
+310000,3,1,53.500888,-2.154866,"Shaw Head Drive, Failsworth, Manchester",1,0,0
+310000,4,3,53.494155,-2.170011,"Silverstone Drive, Manchester",0,1,0
+310000,3,1,53.511624,-2.170581,"Park Avenue, Manchester, M35",0,1,0
+310000,4,2,53.507503,-2.316786,"Holden Drive, Swinton, Manchester",0,0,1
+310000,3,1,53.524081,-2.291859,"Lowther Road, Manchester, M25",0,1,0
+310000,3,1,53.45619,-2.19453,"Farrant Road, Longsight, Manchester",0,1,0
+310000,3,1,53.4059,-2.22078,"Glenmere Road, East Didsbury, Manchester, Greater Manchester, M20",0,1,0
+310000,5,0,53.485194,-2.311929,"Tootal Drive, Salford, Greater Manchester, M5",0,0,1
+308500,3,3,53.40995,-2.296929,"Kerscott Road, Manchester",0,1,0
+305000,3,1,53.504947,-2.360207,"Ringlow Park Road, Swinton, Manchester, Greater Manchester, M27",0,1,0
+304995,3,1,53.47541,-2.13842,"Manchester Road,
+Droylsden,
+Greater Manchester,
+M34 5PX",0,1,0
+304950,3,1,53.501338,-2.153914,"Shaw Head Drive, Failsworth, Manchester",0,1,0
+300000,5,2,53.500668,-2.26041,"Bandy Fields Place, Salford, M7",0,0,1
+300000,4,1,53.43395,-2.25991,"Cressfield Way, Manchester, M21",0,1,0
+300000,3,1,53.499795,-2.326576,"Welwyn Drive, Salford, M6",1,0,0
+210000,2,2,53.480266,-2.369297,"Redmans Close, Eccles, M30",0,1,0
+300000,3,1,53.402343,-2.232412,"Riverton Road, Didsbury",0,1,0
+300000,3,1,53.433634,-2.172694,"Carnforth Road, Heaton Chapel, SK4",0,1,0
+300000,3,1,53.50483,-2.312787,"Parksway, Swinton, Manchester",1,0,0
+300000,3,1,53.431793,-2.171934,"Appleton Road, Heaton Chapel",0,1,0
+300000,3,2,53.422439,-2.263299,"Pulford Avenue, Manchester",0,1,0
+300000,3,1,53.42619,-2.16867,"Bollington Road, Heaton Chapel",0,1,0
+300000,3,1,53.43174,-2.1306,"Hastings Gardens, Blackberry Point",1,0,0
+300000,3,1,53.533271,-2.203392,"Mossway, Alkrington, Middleton, Manchester, M24",0,1,0
+300000,3,1,53.504146,-2.357637,"Allenby Road, Manchester, M27",0,1,0
+300000,3,1,53.422686,-2.169911,"Empress Drive, Heaton Chapel",0,0,1
+300000,3,1,53.45252,-2.20145,"Duncan Road, Longsight",0,0,1
+300000,5,2,53.501972,-2.267796,"Yew Street, Salford, M7",0,0,1
+300000,3,1,53.497291,-2.305526,"Moorfield Road, Salford, Greater Manchester, M6",0,0,1
+300000,3,1,53.43973,-2.19508,"Milwain Road, Burnage",0,1,0
+300000,3,1,53.519458,-2.275028,"Bland Road, Prestwich",0,1,0
+300000,3,1,53.457378,-2.265485,"Norton Street, Old Trafford, Manchester. M16 7GR",0,0,1
+300000,3,2,53.499498,-2.284484,"Britannia Street, Salford, M6",0,1,0
+300000,3,1,53.50102,-2.343611,"Thorn Road, Swinton, Manchester, M27",1,0,0
+300000,3,1,53.48767,-2.328898,"Trafalgar Road, Salford, Greater Manchester, M6",0,1,0
+300000,3,1,53.46906,-2.18935,"Gardner Street, Gorton",0,1,0
+300000,3,2,53.525158,-2.217428,"Hill Lane, Blackley, Manchester, M9",0,1,0
+300000,3,1,53.45176,-2.324627,"Derbyshire Crescent, Stretford, Manchester, M32",0,1,0
+300000,3,3,53.537471,-2.226768,"Gildersdale Drive, Manchester, M9",1,0,0
+300000,3,1,53.455996,-2.302078,"Nansen Street, Stretford, M32 0JQ",0,0,1
+300000,3,1,53.45725,-2.29243,"Great Stone Road, Stretford, Manchester, Greater Manchester, M32",0,1,0
+300000,3,1,53.48241,-2.13878,"Annable Road, Droylsden",0,1,0
+300000,3,1,53.471419,-2.138682,"Duchess Drive, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+300000,3,1,53.4525,-2.318919,Melville Road  Stretford M32 8EA,0,1,0
+300000,3,1,53.43848,-2.24337,"Stirling Avenue, Manchester, Greater Manchester, M20",0,1,0
+300000,3,1,53.504918,-2.360899,"Ringlow Park Road, Swinton, Manchester, M27",0,1,0
+300000,3,1,53.520565,-2.285095,"Knowle Drive, Manchester",0,1,0
+300000,3,1,53.524899,-2.291804,"Scott Road, Manchester, M25",0,1,0
+300000,3,1,53.436985,-2.204333,"Orville Drive, Manchester, Greater Manchester, M19",0,1,0
+300000,3,1,53.432718,-2.166141,"Briarfield Road, Heaton Chapel, Stockport, SK4",0,1,0
+300000,3,1,53.453167,-2.319052,"Raglan Road, Stretford, Manchester, M32",0,1,0
+300000,3,1,53.50251,-2.336631,"Manor Road, Swinton, Manchester",0,1,0
+300000,3,1,53.519605,-2.261545,"Wilton Avenue, Prestwich",0,1,0
+300000,3,0,53.524087,-2.254699,"Windsor Road, Prestwich, M25 0FF",0,1,0
+300000,3,0,53.444306,-2.315011,"Ryecroft Road, Stretford, M32",0,1,0
+299999,3,1,53.455696,-2.325211,"Ashbourne Road, Stretford",0,1,0
+299950,4,2,53.524222,-2.332902,"Rake Lane, Clifton, Swinton, Manchester, M27",0,1,0
+299950,3,2,53.505989,-2.156101,"Burgess Drive, Failsworth, Manchester",0,1,0
+299950,3,2,53.510622,-2.35225,"Threadmill Lane, Swinton, M27",1,0,0
+299000,2,1,53.528993,-2.270909,"Egerton Street, Prestwich",0,0,1
+299000,3,1,53.532986,-2.273921,"Heywood Road, Prestwich",0,1,0
+295000,4,2,53.479826,-2.34143,"Boardman Street, Manchester, M30",0,0,1
+295000,3,1,53.45395,-2.28171,"Kings Road, Old Trafford, Manchester, M16",0,1,0
+295000,3,1,53.504127,-2.357639,"Allenby Road, Swinton, Manchester, M27 0ES",0,1,0
+295000,3,1,53.521917,-2.289015,"Venwood Road, Prestwich, M25 9UB",0,1,0
+295000,3,2,53.511756,-2.241692,"Humphrey Street, Manchester",0,1,0
+295000,3,2,53.488416,-2.357761,"Leach Drive, Eccles, M30",0,1,0
+295000,3,1,53.51947,-2.364431,"Manchester Road, Swinton, Manchester",0,1,0
+295000,3,1,53.394062,-2.302131,"Amberwood Drive, Baguley",0,1,0
+295000,3,1,53.536832,-2.286758,"Highfield Road, Manchester, Greater Manchester",0,1,0
+295000,3,1,53.5234,-2.25336,"Edenfield Road, Manchester, Greater Manchester, M25",0,1,0
+295000,4,1,53.52644,-2.21537,"71 Hill Lane, Manchester, Greater Manchester, M9 6PF",0,1,0
+295000,3,1,53.45544,-2.29171,"Gorse Crescent, Stretford, Manchester",0,1,0
+295000,3,2,53.475837,-2.350439,"Caldon Close, Eccles, M30",0,1,0
+295000,4,1,53.44133,-2.21238,"Balmoral Road, Fallowfield, Manchester, M14",0,0,1
+290000,3,1,53.444591,-2.206433,"Braemar Road, Manchester, Greater Manchester, M14",0,0,1
+290000,3,1,53.454015,-2.155882,"Wainwright Avenue, Denton, Manchester, Greater Manchester, M34",0,1,0
+290000,3,1,53.502454,-2.137136,"Stamford Drive, Woodhouses, Failsworth, Greater Manchester, M35",0,1,0
+290000,3,2,53.444729,-2.15063,"Matlock Road, Reddish, Manchester, SK5",0,1,0
+290000,5,2,53.44724,-2.1903,"Portville Road, Levenshulme",0,0,1
+290000,4,2,53.47342,-2.14999,"Fairfield Avenue, Droylsden",0,1,0
+290000,3,1,53.506004,-2.144768,"Glenside Gardens, Failsworth, Manchester",0,1,0
+290000,3,1,53.470526,-2.138193,"Waterhouses Street, Manchester, M34",0,1,0
+290000,3,1,53.49756,-2.31094,"Rudyard Road, Salford, M6",0,1,0
+290000,3,1,53.508675,-2.316662,"Osborne Drive, Manchester, M27",0,1,0
+290000,3,2,53.431447,-2.196695,"Avon Road, Burnage, Manchester, M19",0,1,0
+290000,3,2,53.42227,-2.15661,"Reddish Road, Stockport, Greater Manchester, SK5",0,0,1
+290000,3,1,53.488297,-2.332956,"Bindloss Avenue, Eccles, M30",0,1,0
+290000,2,1,53.468489,-2.223134,"Beamish Close, Manchester, Greater Manchester, M13",0,0,1
+290000,3,1,53.504895,-2.325637,"Heathfield Drive, Swinton, M27",0,1,0
+290000,3,0,53.397762,-2.300816,"Tottenham Drive, Manchester, M23",0,1,0
+290000,3,2,53.42258,-2.156236,"Reddish Road, Reddish, Stockport",0,0,1
+290000,2,1,53.423864,-2.184179,"Birch Avenue, Heaton Moor, Stockport, SK4",0,0,1
+290000,3,2,53.4002,-2.27518,"Altrincham Road, Manchester, M23",0,1,0
+290000,3,2,53.44886,-2.298957,"Kings Road, Stretford, Manchester",0,1,0
+290000,4,3,53.516106,-2.158173,"Belgrave Road, Manchester, Greater Manchester, M40",0,1,0
+290000,4,2,53.426559,-2.131282,"Gowerdale Road, Stockport, Greater Manchester, SK5",0,1,0
+290000,4,2,53.45249,-2.16749,"Fylde Lane, Gorton",1,0,0
+289999,3,1,53.454734,-2.301689,"South Lonsdale Street, Stretford, Manchester",0,0,1
+289999,3,1,53.427604,-2.265335,"Floyd Avenue, Manchester",0,1,0
+289950,3,2,53.4879,-2.35639,3 Ernest Avenue Eccles,0,1,0
+289950,4,1,53.452826,-2.314613,"Davyhulme Road, Stretford,",0,1,0
+289950,3,1,53.39806,-2.27412,"Sandacre Road, Manchester, M23",0,1,0
+289000,4,2,53.513342,-2.228916,"Saddlecote Close, Manchester, Greater Manchester, M8",0,1,0
+285000,2,1,53.448923,-2.300885,"Brunel Close, Stretford, M32",0,1,0
+285000,3,1,53.455054,-2.301793,"Norway Street, Stretford, Manchester, Greater Manchester, M32",0,0,1
+285000,3,2,53.43066,-2.13,"Newhaven Road, Stockport, Greater Manchester, SK5",0,1,0
+285000,3,2,53.528134,-2.211968,"Rochdale Road, Blackley, Manchester, M9",1,0,0
+285000,3,1,53.456993,-2.140869,"Manchester Road, Denton, Manchester",0,1,0
+285000,3,1,53.503152,-2.307854,"St. John Street, Pendlebury, Swinton, Manchester, M27",1,0,0
+285000,3,2,53.523415,-2.206496,"Red Cedar Close, Manchester, M9",0,1,0
+285000,3,2,53.441608,-2.208982,"Braemar Road, Fallowfield, M14 6PG",0,0,1
+285000,3,1,53.52046,-2.28411,"Sandy Lane, Prestwich, Manchester, M25",0,1,0
+285000,2,1,53.41375,-2.20487,"Lyme Street, Heaton Mersey , Stockport",0,0,1
+285000,3,1,53.38901,-2.27645,"Flagcroft Drive, Wythenshawe",1,0,0
+285000,3,2,53.424183,-2.138331,"Foliage Road, Brinnington",0,1,0
+285000,4,2,53.504455,-2.219833,"Kingsbridge Road, Harpurhey, Manchester",0,1,0
+285000,3,2,53.5207,-2.17471,"Blueberry Avenue, New Moston",1,0,0
+285000,3,1,53.473802,-2.13628,"Audenshaw Road, Audenshaw, Manchester, Greater Manchester, M34",0,1,0
+285000,3,1,53.398571,-2.263398,"Roundwood Road, Northenden",0,1,0
+285000,3,1,53.474676,-2.362663,"Peel Green Road, Eccles, M30",0,1,0
+284999,4,2,53.446569,-2.152332,"Somers Road, Reddish",0,1,0
+284995,3,1,53.395092,-2.300299,"Shady Lane, Baguley",0,1,0
+284950,3,1,53.524746,-2.166096,"St. Georges Square, Chadderton, Oldham, OL9 9NY",0,1,0
+280000,2,1,53.488541,-2.251931,"Evans Street, Salford, M3",0,0,1
+280000,3,1,53.421129,-2.166719,"Colin Road, Heaton Norris, Stockport, SK4",0,1,0
+280000,3,2,53.476763,-2.347056,"Caledonian Drive, Eccles, M30",1,0,0
+280000,3,1,53.42227,-2.21138,"Holmside Gardens, Burnage, Manchester, Greater Manchester, M19",0,0,1
+280000,3,1,53.420609,-2.20925,"Lane End Road, Burnage",0,1,0
+280000,3,1,53.45456,-2.14134,"Palmerston Road, Denton",0,1,0
+280000,3,1,53.456905,-2.298688,"Cavendish Road, Stretford, Manchester",0,0,1
+280000,3,2,53.507858,-2.352046,"Pine Grove, Swinton, Manchester, Greater Manchester, M27",0,1,0
+280000,3,1,53.426422,-2.200567,"Errwood Road, Burnage",0,1,0
+280000,3,1,53.505056,-2.309008,"Broomhall Road, Swinton, M27",0,1,0
+280000,5,2,53.45387,-2.23337,"Rawcliffe Street, M14",0,0,1
+280000,4,0,53.458537,-2.207331,"Pine Grove, Manchester, M14",0,0,1
+280000,4,2,53.45716,-2.14529,"Manchester Road, Denton, M34",0,0,1
+220000,2,1,53.52111,-2.326132,"Rake Lane, Clifton",0,1,0
+280000,3,2,53.509887,-2.297238,"Hewer Close, Pendlebury, Swinton, M27",1,0,0
+280000,4,1,53.48461,-2.14948,"A Chappell Road, Droylsden",1,0,0
+280000,3,1,53.4532,-2.14977,"Earlston Avenue, Denton",0,1,0
+280000,3,2,53.520071,-2.337307,"Carlisle Street, Swinton, M27",1,0,0
+280000,3,1,53.534718,-2.280121,"Sunningdale Drive, Prestwich",1,0,0
+280000,4,1,53.4551,-2.20234,"Meade Grove, Longsight",0,0,1
+280000,3,2,53.445163,-2.160531,"Longford Road West, Reddish, Stockport",0,1,0
+280000,4,1,53.51463,-2.23506,"Ash Tree Road, Crumpsall, Manchester",0,1,0
+280000,3,2,53.389954,-2.261832,"Newhey Avenue, Manchester, Greater Manchester",0,1,0
+280000,3,1,53.50507,-2.360434,"Ringlow Park Road, Swinton, Manchester",0,1,0
+280000,4,2,53.479862,-2.341461,"Boardman Street, Eccles, M30",0,1,0
+280000,3,1,53.50166,-2.30606,"Bank Lane, Salford, Greater Manchester, M6",0,1,0
+280000,3,1,53.40035,-2.262828,"Roundwood Road, Manchester, M22",0,1,0
+280000,3,1,53.450901,-2.311578,"Radstock Road, Stretford, Manchester, M32",0,1,0
+280000,3,1,53.508571,-2.338284,"Stanwell Road, Swinton, Manchester, Greater Manchester, M27",0,1,0
+280000,3,3,53.51097,-2.30471,"Tillerman Close, Swinton, Manchester",1,0,0
+280000,2,1,53.413808,-2.204758,"Lyme Street, Heaton Mersey, Stockport, SK4",0,0,1
+280000,4,1,53.438203,-2.161321,"Lichfield Avenue, Reddish, Stockport, Cheshire, SK5",0,1,0
+280000,3,1,53.43609,-2.1834,"Kirk Road, Levenshulme",0,1,0
+280000,3,1,53.47401,-2.359433,"Peel Green Road, Eccles",0,1,0
+280000,3,1,53.50146,-2.323633,"Cliftonville Drive, Swinton, Manchester",0,1,0
+280000,3,1,53.509365,-2.312629,"Pendlecroft Avenue, Pendlebury, Swinton, Manchester, M27",0,1,0
+279950,3,2,53.45886,-2.25524,"Anvil Place, Manchester, Greater Manchester, M15",0,1,0
+279950,3,1,53.446047,-2.186895,"Matthews Lane, Levenshulme, Manchester, M19",0,1,0
+275995,3,1,53.509752,-2.145076,"Kew Road, Manchester, M35",0,1,0
+275000,3,2,53.521036,-2.339214,"Hinchley Way, Swinton, Manchester",0,1,0
+275000,3,1,53.52105,-2.16029,"Maple Grove, Manchester",0,1,0
+275000,3,2,53.473487,-2.156695,"Malford Street, Manchester, M11",0,1,0
+275000,3,1,53.52243,-2.162165,"Crescent Road, Chadderton, Oldham, OL9 8DS",0,1,0
+275000,3,1,53.435044,-2.136032,"Brigadier Road, Stockport, SK5",0,1,0
+275000,3,1,53.457717,-2.264979,"Powell Street, Old Trafford",0,0,1
+275000,3,2,53.479125,-2.371485,"Barton Hall Avenue, Eccles, M30",0,1,0
+275000,4,1,53.4792,-2.345812,"Barton Lane, Eccles, Manchester, M30",0,0,1
+275000,3,1,53.491864,-2.349847,"Gordon Road, Monton, M30",0,0,1
+275000,3,1,53.522404,-2.290869,"Woodward Road, Prestwich, Manchester",0,1,0
+275000,3,1,53.452321,-2.305538,"Stuart Road, Stretford, M32 0DQ",0,1,0
+275000,3,2,53.45473,-2.14965,"Cromer Avenue, Denton, Manchester, Greater Manchester, M34",0,1,0
+275000,3,1,53.45657,-2.23422,"Ruskin Avenue, Rusholme",0,0,1
+275000,2,1,53.414386,-2.211041,"Harwood Road, Heaton Mersey, Stockport, SK4",0,1,0
+220000,3,1,53.505043,-2.325294,"Collingwood Drive, Swinton, Manchester",0,1,0
+275000,3,1,53.495636,-2.30508,"Longmead Road, Salford, M6",0,1,0
+275000,3,2,53.427354,-2.20135,"Pearn Road, Manchester, M19",0,1,0
+275000,4,2,53.51593,-2.158353,"Belgrave Road, New Moston, Manchester, M40",0,1,0
+275000,3,2,53.51641,-2.19737,"Carill Avenue, Manchester, M9",0,1,0
+275000,3,1,53.421576,-2.167556,"Lloyd Street, Heaton Norris",0,1,0
+275000,3,1,53.459917,-2.263151,"Byrom Street, Old Trafford, Manchester, M16",0,0,1
+275000,4,1,53.449313,-2.147567,"Thornhill Close, Denton, Manchester, Greater Manchester, M34",0,1,0
+275000,3,1,53.502613,-2.349086,"Vendale Avenue, Swinton, Manchester, M27 0AW",0,1,0
+275000,3,1,53.422285,-2.206699,"Barcicroft Road, Manchester, Greater Manchester, M19",0,0,1
+275000,3,1,53.433583,-2.156981,"Reddish Road, Reddish, Manchester, SK5",0,1,0
+275000,3,1,53.504093,-2.357486,"Allenby Road, Swinton, M27",0,1,0
+275000,3,1,53.526669,-2.253277,"Meade Hill Road, Prestwich, Manchester",0,1,0
+275000,3,1,53.431196,-2.163406,"Melling Avenue, Heaton Chapel",0,1,0
+275000,3,2,53.488416,-2.357761,"Leach Drive, Eccles, M30",0,1,0
+275000,3,1,53.540893,-2.27227,"Mount Road, Prestwich, M25",0,1,0
+274950,3,1,53.50328,-2.151105,"Durham Crescent, Failsworth, Manchester",0,1,0
+270000,3,1,53.50521,-2.325354,"Collingwood Drive, Swinton",0,1,0
+270000,3,0,53.477828,-2.207148,"Athletes Way, Manchester, M11",0,1,0
+270000,3,2,53.43376,-2.19874,"Arbor Drive, Burnage",0,1,0
+270000,2,1,53.446738,-2.304913,"Trafford Grove, Stretford, M32 8LN",0,0,1
+270000,3,1,53.521568,-2.243111,"Wilton Road, Crumpsall, Manchester",0,1,0
+270000,3,1,53.43251,-2.15965,"Lockton Close, South Reddish, Stockport",0,1,0
+270000,3,1,53.526714,-2.250097,"Newington Avenue, Manchester",0,1,0
+270000,3,1,53.533114,-2.269079,"Kings Close, Prestwich, Manchester, M25",0,0,1
+270000,3,1,53.538521,-2.286921,"Highfield Road, Prestwich",0,1,0
+270000,3,1,53.45693,-2.23264,"Haydn Avenue, Manchester, M14",0,0,1
+270000,3,1,53.49075,-2.12893,"Partridge Rise, Droylsden",0,1,0
+270000,3,1,53.533881,-2.223928,"Victoria Avenue, Blackley, Manchester, M9",1,0,0
+270000,3,1,53.507848,-2.343256,"Argyle Street, Swinton, Manchester, Greater Manchester, M27",0,1,0
+270000,3,1,53.409967,-2.263504,"Yew Tree Drive, Manchester",0,0,1
+270000,4,3,53.451441,-2.168442,"Falshaw Way, Manchester, M18",0,0,1
+270000,3,2,53.500107,-2.253387,"Olanyian Drive, Cheetwood, Manchester, M8",1,0,0
+270000,4,2,53.511155,-2.3037,"Giants Seat Grove, Swinton",0,1,0
+270000,3,1,53.442236,-2.188415,"Langdale Avenue, Manchester",0,0,1
+270000,4,2,53.506002,-2.327065,"Park Avenue, Swinton, Manchester, Greater Manchester, M27",0,0,1
+270000,3,1,53.426882,-2.154349,"Reddish Road, Reddish, Stockport, SK5",0,1,0
+270000,3,1,53.510518,-2.361538,"East Lancashire Road, Manchester, Greater Manchester",0,1,0
+270000,3,1,53.50381,-2.305768,"St. John Street, Swinton, Manchester",0,1,0
+270000,3,1,53.513523,-2.175234,"The Fairway, New Moston, Manchester, M40",1,0,0
+270000,4,2,53.471733,-2.159305,"Capital Road, Manchester",0,0,1
+270000,3,3,53.443428,-2.194327,"Forest Range, Levenshulme",0,0,1
+270000,4,1,53.44056,-2.18422,"Broom Avenue, Levenshulme, Manchester, M19",0,0,1
+270000,3,2,53.50519,-2.31613,"Danesway, Pendlebury, Swinton, Manchester, M27",0,1,0
+270000,3,1,53.5338,-2.22401,"Victoria Avenue, Manchester, Greater Manchester, M9",1,0,0
+270000,3,1,53.503429,-2.312751,"Kingsway, Pendlebury, Swinton, Manchester, M27",0,1,0
+270000,3,3,53.47803,-2.148224,"Durham Street, Droylesden, M43",0,0,1

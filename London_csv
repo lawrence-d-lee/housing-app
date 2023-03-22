@@ -1,0 +1,775 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+500000,3,1,51.649806,-0.041796,"Durants Park Avenue, Enfield, Middlesex, EN3",0,0,1
+44000000,7,5,51.503267,-0.194866,"Pitt Street, London, W8",1,0,0
+36000000,7,7,51.498473,-0.187324,"Cottesmore Gardens, London, W8",1,0,0
+35000000,5,6,51.508216,-0.151823,"South Street, London",0,0,1
+35000000,7,5,51.5013,-0.126702,"Westminster, London SW1A",1,0,0
+35000000,7,7,51.5052,-0.149154,"Brick Street, Mayfair, London, W1J",1,0,0
+35000000,7,5,51.505127,-0.149111,"Brick Street, Mayfair, London, W1J",0,0,1
+32000000,6,7,51.567126,-0.154896,"Merton Lane, London, N6",1,0,0
+26950000,6,6,51.5107,-0.155495,"Culross Street, Mayfair, London, W1K",0,0,1
+26950000,5,6,51.510602,-0.155584,Culross House,0,0,1
+26950000,6,6,51.5106,-0.155594,"Culross Street, London, W1K",0,0,1
+26950000,6,6,51.495605,-0.148395,Chester Square,0,0,1
+26950000,6,6,51.510552,-0.155558,"Culross Street, Mayfair, London, W1K",0,0,1
+550000,3,1,51.343498,-0.054411,"Abbey Road, South Croydon, Surrey, CR2 8NJ",0,1,0
+830000,4,1,51.460972,-0.03827,"Kneller Road, London",0,0,1
+26950000,6,6,51.510568,-0.155703,"Culross House, London, W1K",0,0,1
+26750000,10,10,51.499631,-0.169354,"Ennismore Gardens, London, SW7",0,0,1
+25000000,0,0,51.560454,-0.175098,"Hampstead, NW3",1,0,0
+25000000,5,4,51.54038,-0.166505,"Elsworthy Road, London, NW3",1,0,0
+25000000,8,5,51.560791,-0.175371,"Squires Mount, Hampstead, London",1,0,0
+25000000,5,5,51.540249,-0.166382,"Elsworthy Road, St John's Wood, London, NW3",1,0,0
+25000000,5,5,51.540381,-0.166505,"Elsworthy Road, Primrose Hill, London, NW3",1,0,0
+25000000,9,0,51.505872,-0.207764,"Holland Park, Holland Park, London, W11",1,0,0
+25000000,6,4,51.5012,-0.211287,"Holland Villas Road, Holland Park, London, W14",1,0,0
+25000000,6,6,51.523718,-0.156563,"Cornwall Terrace, London",0,0,1
+25000000,6,4,51.501185,-0.211316,"Holland Villas Road, Holland Park, London",0,0,1
+24950000,7,9,51.498689,-0.160359,"Herbert Crescent, London, SW1X",0,0,1
+24950000,6,6,51.499584,-0.181377,"Hyde Park Gate, London, SW7",0,0,1
+23000000,28,17,51.522234,-0.153364,"Nottingham Place, Marylebone, London, W1U",0,0,1
+22950000,7,6,51.49568,-0.20087,"Pembroke Gardens,London,W8",1,0,0
+22500000,7,6,51.52775,-0.162949,"Hanover Terrace, Regent's Park, London, NW1",0,0,1
+950000,4,1,51.527308,-0.20838,"Droop Street, London, W10",0,0,1
+22500000,7,6,51.52743,-0.16239,"Hanover Terrace, London, NW1",0,0,1
+22500000,7,7,51.49874,-0.160545,"Herbert Crescent, SW1X",0,0,1
+22500000,7,6,51.527383,-0.162002,"Hanover Terrace, London, NW1",0,0,1
+22500000,5,4,51.527748,-0.162974,"Hanover Terrace, Regents Park, London NW1",0,0,1
+22000000,14,20,51.495513,-0.194342,"Lexham Gardens, Kensington, W8",0,0,1
+20000000,6,7,51.5052,-0.192209,"Vicarage Gate, Kensington, London, W8.",0,0,1
+20000000,6,7,51.505173,-0.19243,"Vicarage Gate, Kensington, London",0,0,1
+19995000,7,7,51.486548,-0.174617,"Mulberry Walk, Chelsea, London, SW3",0,0,1
+19995000,8,8,51.628385,-0.195597,"Totteridge Green, Totteridge, London, N20",1,0,0
+19950000,6,8,51.498641,-0.160534,"Herbert Crescent, Knightsbridge, SW1X",0,0,1
+19950000,7,7,51.5801,-0.168817,"The Bishops Avenue, Hampstead Garden Suburb, London, N2",1,0,0
+19750000,6,6,51.5112,-0.145165,"Bourdon Street, Mayfair, London, W1K",0,0,1
+19500000,6,3,51.575199,-0.16784,"Guildens, Courtenay Avenue, N6",1,0,0
+18950000,6,6,51.541107,-0.167945,"Wadham Gardens, Primrose Hill, London, NW3",1,0,0
+18950000,6,7,51.541107,-0.167945,"Wadham Gardens, Primrose Hill, London, NW3",1,0,0
+18500000,6,4,51.4988,-0.1872,"Cottesmore Gardens, London, W8",0,1,0
+18500000,7,4,51.487825,-0.184572,"Tregunter Road, London",0,1,0
+1980000,5,5,51.639364,-0.17698,"Northumberland Road, New Barnet, EN5",1,0,0
+17999999,8,8,51.582028,-0.170529,"Winnington Road, Hampstead, London, N2",1,0,0
+17999999,6,7,51.582015,-0.170457,"Winnington Road, London",1,0,0
+17500000,5,5,51.49562,-0.149435,"Chester Square, Belgravia, London, SW1W",0,0,1
+17500000,0,0,51.54131,-0.15653,"Primrose Hill, London, NW1",1,0,0
+17250000,6,6,51.5287,-0.176862,"Melina Place, St John's Wood, London, NW8",0,1,0
+17250000,6,6,51.52863,-0.17736,"Melina Place, London, NW8",0,1,0
+17000000,5,6,51.495218,-0.172465,"Kensington and Chelsea, SW7",0,0,1
+17000000,8,4,51.483749,-0.166542,"Cheyne Walk & Cheyne Mews, London, SW3",0,0,1
+16950000,6,7,51.538,-0.17,"Norfolk Road, London, NW8",1,0,0
+16500000,6,6,51.509,-0.1535,"Park Street, Mayfair, London, W1K",0,0,1
+16500000,8,8,51.5074,-0.1483,"Charles Street, Mayfair, London, W1J",0,0,1
+16500000,6,6,51.509022,-0.153455,"Park Street, Mayfair",0,0,1
+16500000,4,4,51.53388,-0.14717,"St Katharine's Precinct, Regent's Park, NW1",0,1,0
+5500000,7,5,51.484588,-0.167721,"Oakley Street, London, SW3",0,0,1
+16500000,4,5,51.53345,-0.14704,"St. Katharines Precinct, London, NW1",0,1,0
+16450000,7,4,51.494705,-0.151154,"Chester Square, Belgravia, London, SW1W",0,0,1
+16000000,0,0,51.5722,-0.172612,"Hampstead Lane, NW3",1,0,0
+15950000,8,6,51.484389,-0.163596,"Cheyne Place, London, SW3",0,0,1
+15950000,7,6,51.485166,-0.162931,"Cheyne Place, Chelsea, London, SW3",0,0,1
+15000000,6,7,51.46833,-0.1995,"Broomhouse Lane, Fulham SW6",1,0,0
+15000000,5,5,51.520744,-0.223965,"Barlby Road, London, W10",0,0,1
+15000000,10,8,51.5309,-0.1822,"Hamilton Terrace, London, NW8",1,0,0
+15000000,10,8,51.530854,-0.18227,"Hamilton Terrace, St John's Wood, London, NW8",1,0,0
+15000000,5,5,51.520829,-0.223751,"Barlby Road, North Kensington, W10",1,0,0
+15000000,10,8,51.530854,-0.18227,"Hamilton Terrace, St. John's Wood, London, NW8",1,0,0
+14950000,6,5,51.535469,-0.17891,"Marlborough Place, St Johns Wood, London, NW8",1,0,0
+14950000,5,5,51.518282,-0.154044,"Manchester Street, London, W1U",0,0,1
+14950000,5,5,51.518548,-0.154224,"Manchester Street, Marylebone, London, W1U",0,0,1
+14950000,5,6,51.508423,-0.150583,"South Street, Mayfair, London, W1K",0,0,1
+14500000,8,5,51.488091,-0.186212,"The Little Boltons, Chelsea, London, SW10",0,0,1
+14500000,4,5,51.5066,-0.145583,"Half Moon Street, Mayfair, London, W1J",0,0,1
+5700000,8,6,51.450849,-0.172565,"Dorlcote Road, Wandsworth, London, SW18",0,1,0
+13750000,6,8,51.50089,-0.132353,"Queen Anne's Gate, London, SW1H",0,0,1
+13500000,8,8,51.584499,-0.165387,"The Bishops Avenue, East Finchley N2",1,0,0
+13000000,9,11,51.572616,-0.173692,"Winnington Road, London, N2",1,0,0
+13000000,13,19,51.572616,-0.173692,"Winnington Road, London, N2",1,0,0
+12950000,6,5,51.517511,-0.147766,"Wimpole Street, Marylebone, London, W1G",0,0,1
+12800000,6,6,51.485562,-0.160814,"Tite Street, London, SW3",0,0,1
+12500000,0,0,51.530516,-0.177958,"Eyre Road, St John's Wood, London, NW8",0,0,1
+12500000,7,5,51.548474,-0.173851,"Daleham Gardens, Hampstead, London, NW3",1,0,0
+12500000,7,6,51.548468,-0.173826,"Daleham Gardens, Hampstead, London, NW3",1,0,0
+12500000,6,7,51.505979,-0.200432,"Wycombe Square, London, W8",0,0,1
+12450000,4,0,51.500901,-0.132515,"Queen Anne's Gate, London, SW1H",0,0,1
+12250000,6,6,51.5007,-0.181239,"Hyde Park Gate, South Kensington, London, SW7",0,1,0
+12250000,6,8,51.55251,-0.1832,"Lindfield Gardens, Hampstead NW3",1,0,0
+12250000,6,8,51.5523,-0.1827,"Lindfield Gardens, Hampstead, London, NW3",1,0,0
+12250000,7,6,51.552577,-0.18311,"Lindfield Gardens, Hampstead",1,0,0
+12250000,6,5,51.500686,-0.18118,"Hyde Park Gate, Knightsbridge, London, SW7",0,0,1
+12000000,6,7,51.605688,-0.435327,"Linksway, Northwood, HA6",1,0,0
+12000000,5,3,51.5006,-0.20888,"Addison Crescent, Kensington, London, W14",1,0,0
+1000000,4,3,51.609294,-0.329702,"Kenton Lane, Harrow, HA3",1,0,0
+12000000,5,6,51.529833,-0.174846,"Elm Tree Road, St. John's Wood, London, NW8",1,0,0
+11995000,6,0,51.581687,-0.170942,"Winnington Road, N2",1,0,0
+11950000,8,8,51.511869,-0.154203,"Upper Brook Street, London, W1K",0,0,1
+11950000,4,4,51.5099,-0.151546,"Adams Row, Mayfair, London, W1K",0,0,1
+11950000,5,4,51.531269,-0.156969,"Chester Terrace, Regents Park, London, NW1",0,0,1
+11950000,5,5,51.510229,-0.15096,"Adams Row, Mayfair, London, W1K",0,0,1
+11850000,5,5,51.4979,-0.187745,"Eldon Road, London, W8",0,0,1
+11750000,6,5,51.500171,-0.165943,"Montpelier Square, Knightsbridge SW7",0,0,1
+11750000,8,6,51.527256,-0.177063,"Hamilton Terrace, St Johns Wood, London, NW8",0,0,1
+11750000,6,6,51.4988,-0.1488,"Wilton Street, Belgravia, SW1X",0,0,1
+11750000,6,6,51.500203,-0.165782,"Montpelier Square, London, SW7",0,0,1
+11500000,6,5,51.508738,-0.212478,"St. James's Gardens, London",0,0,1
+11500000,6,5,51.528731,-0.17688,"Melina Place, St John's Wood, London, NW8",0,1,0
+11500000,6,5,51.539096,-0.178716,"Springfield Road, London",1,0,0
+11450000,4,0,51.500901,-0.132515,"Queen Anne's Gate, London, SW1H",0,0,1
+875000,4,2,51.325142,-0.125928,"Hartley Down, Purley",1,0,0
+11250000,5,5,51.533038,-0.146443,"Cumberland Terrace, Regent's Park, London, NW1",0,0,1
+11000000,2,3,51.521927,-0.183414,"Warwick Place, Little Venice, London, W9",1,0,0
+11000000,2,3,51.522072,-0.183287,"Warwick Place, Warwick Avenue, Little Venice, London, W9",1,0,0
+11000000,7,6,51.5138,-0.1775,"Westbourne Terrace, Bayswater, London, W2.",0,0,1
+11000000,5,4,51.509072,-0.20352,"Ladbroke Grove, London",0,0,1
+11000000,8,5,51.481278,-0.176959,"Cheyne Walk, London, SW10",0,0,1
+10950000,7,6,51.533203,-0.183038,"Marlborough Place, London, NW8",1,0,0
+10950000,4,3,51.533841,-0.146739,"St. Katharine's Precinct, Regent's Park, London, NW1",0,0,1
+10950000,5,4,51.4967,-0.1662,"Yeomans Row, London, SW3",0,0,1
+10950000,4,3,51.533478,-0.146912,"St Katharine's Precinct, London, NW1",0,0,1
+10950000,4,4,51.510462,-0.145608,"Bruton Place, Mayfair, London, W1J",0,0,1
+10950000,4,4,51.501655,-0.153928,"Grosvenor Crescent Mews, London, SW1X",0,0,1
+10750000,6,3,51.484675,-0.167448,"Oakley Street, Chelsea, London, SW3",0,0,1
+10500000,8,7,51.51318,-0.167567,"Hyde Park Street, Hyde Park, London, W2.",0,0,1
+10500000,6,6,51.499045,-0.150385,"Chester Street, Belgravia, SW1X",0,0,1
+10500000,10,10,51.425012,-0.269101,"Coombe Ridings, KT2",1,0,0
+10500000,6,7,51.485892,-0.174711,"Mallord Street, Chelsea, London, SW3",0,0,1
+10500000,12,9,51.425508,-0.270348,"Coombe Ridings, Kingston upon Thames, Surrey, KT2",1,0,0
+650000,3,1,51.523662,-0.343601,"Cuckoo Dene, Hanwell",0,0,1
+10500000,6,6,51.486023,-0.174489,"Mallord Street, London, SW3",0,0,1
+10350000,6,4,51.48936,-0.17385,"Chelsea Square, London, SW3",0,1,0
+10250000,6,5,51.5303,-0.145334,Chester Terrace,0,0,1
+10000000,5,4,51.482755,-0.185901,"Fulham Road, Chelsea, London, SW10",0,1,0
+10000000,6,6,51.578583,-0.170662,"The Bishops Avenue, Hampstead, N2",0,1,0
+10000000,7,7,51.528747,-0.189003,"Elgin Avenue, Maida Vale, London, W9",1,0,0
+9950000,13,0,51.49119,-0.18376,Bina Gardens South Kensington SW5,1,0,0
+9950000,6,3,51.55807,-0.18211,"Frognal, Hampstead Village, NW3",0,1,0
+9950000,8,7,51.584204,-0.1668,"The Bishops Avenue, N2",1,0,0
+9950000,5,3,51.49581,-0.167223,"Egerton Crescent, London, SW3",0,0,1
+9950000,6,5,51.53432,-0.145753,"Park Village West, Regent's Park, London, NW1",1,0,0
+9950000,6,3,51.495756,-0.167103,"Egerton Crescent, Chelsea, London, SW3",0,0,1
+9950000,5,5,51.5189,-0.141538,"Langham Street, Fitzrovia, London, W1W",0,0,1
+9950000,5,5,51.498162,-0.200516,"Earls Terrace, London, W8",0,0,1
+9950000,4,6,51.52057,-0.146759,"Weymouth Street, London, W1G",0,0,1
+9750000,3,3,51.496261,-0.152907,"Eaton Mews North, London, SW1X",0,0,1
+9750000,7,4,51.534661,-0.147257,"Gloucester Gate, Regent's Park, London, NW1",0,0,1
+9750000,4,4,51.4901,-0.1686,"St Luke's Street, Chelsea, SW3",0,0,1
+9500000,6,5,51.424988,-0.228437,"West Side Common, London, SW19 4UF",1,0,0
+9500000,5,3,51.494913,-0.169294,"Alexander Square, London, SW3",0,0,1
+575000,3,2,51.4528,-0.41989,"Tachbrook Road, Feltham",0,1,0
+9500000,5,4,51.485619,-0.165277,"Flood Street, Chelsea, London, SW3",0,0,1
+9500000,6,5,51.425022,-0.228086,"West Side Common, Wimbledon, London, SW19",1,0,0
+9500000,7,5,51.4941,-0.150778,"Chester Square, Belgravia, London, SW1W",0,0,1
+9500000,6,6,51.573902,-0.165097,"West Lodge, Compton Avenue, N6",1,0,0
+9250000,4,4,51.514384,-0.197573,"Westbourne Grove Mews, London, W11",0,0,1
+9000000,5,5,51.632693,-0.219802,"Totteridge Common, Totteridge, London, N20",1,0,0
+9000000,9,11,51.58284,-0.20234,"Golders Green, NW11",1,0,0
+9000000,6,5,51.497828,-0.201353,"Earls Terrace, London, W8",0,0,1
+9000000,7,5,51.4987,-0.24512,"Stamford Brook Road, London, W6",1,0,0
+9000000,8,5,51.497637,-0.245446,"Stamford Brook Road, London, W6",1,0,0
+8950000,6,5,51.5148,-0.1688,"Hyde Park Crescent, Hyde Park Estate, London, W2.",0,0,1
+8950000,5,5,51.488223,-0.163172,"Smith Terrace, London",0,0,1
+8750000,4,5,51.49944,-0.167228,"Montpelier Place, Knightsbridge, SW7 ",0,0,1
+8750000,6,5,51.554679,-0.190457,"Heath Drive, Hampstead, London, NW3",1,0,0
+8750000,4,3,51.523022,-0.184593,"Clifton Villas, Little Venice, London, W9",0,1,0
+8750000,4,3,51.522799,-0.185175,"Clifton Villas, Little Venice, London, W9",0,1,0
+8500000,6,4,51.519745,-0.201016,"Westbourne Grove, Notting Hill, W11",0,0,1
+550000,3,1,51.598845,-0.014471,"Roberts Road, Walthamstow, London, E17",0,0,1
+8500000,5,3,51.5135,-0.206179,"Arundel Gardens, Notting Hill, London W11",0,0,1
+8500000,6,4,51.51,-0.21,"Westbourne Grove, Notting Hill, London, W11",0,0,1
+8500000,7,6,51.4273,-0.263295,"Coombe Park, Kingston upon Thames, KT2",1,0,0
+8500000,4,4,51.491663,-0.171405,"Pond Place, Chelsea, London, SW3",0,0,1
+8500000,7,7,51.427646,-0.26527,"Coombe Park, Kingston upon Thames, Surrey, KT2",1,0,0
+8450000,5,4,51.56723,-0.180477,"North End Avenue, Hampstead, London, NW3",1,0,0
+8450000,6,3,51.56662,-0.1801,"NORTH END AVENUE, HAMPSTEAD, NW3",0,1,0
+8250000,5,3,51.4956,-0.1697,"Alexander Square, Knightsbridge, London, SW3",0,0,1
+8250000,4,3,51.495517,-0.169759,"Alexander Square, London, SW3",0,0,1
+8250000,6,0,51.507959,-0.193774,"Strathmore Gardens, Kensington, London",0,0,1
+8250000,0,0,51.507889,-0.193728,"Strathmore Gardens, Kensington, London, W8",0,0,1
+8250000,7,7,51.577893,-0.168905,"White Lodge Close, Off The Bishops Avenue, London, N2",1,0,0
+8250000,3,3,51.517198,-0.200562,"Powis Mews, Notting Hill, W11",0,0,1
+8250000,7,7,51.5778,-0.168893,"White Lodge Close, The Bishops Avenue, Hampstead Garden Suburb, London, N2",1,0,0
+8150000,6,5,51.53639,-0.1873,"Greville Road, London, NW6",1,0,0
+8150000,6,5,51.536478,-0.187165,"Greville Road, St John's Wood, London, NW6",1,0,0
+8000000,6,6,51.632383,-0.215755,"Totteridge Common, London, N20",1,0,0
+8000000,4,3,51.6233,-0.216,"Burtonhole Lane, London, NW7",1,0,0
+8000000,5,3,51.484891,-0.178116,"Chelsea Park Gardens, Chelsea, London, SW3",0,0,1
+8000000,8,4,51.5145,-0.164304,"Connaught Square, Hyde Park Estate, London, W2.",0,0,1
+8000000,6,6,51.632842,-0.213641,"Totteridge Common, Totteridge, London, N20",1,0,0
+8000000,6,6,51.58523,-0.16515,"The Bishops Avenue, N2 0AP",1,0,0
+8000000,8,5,51.632737,-0.214516,"Totteridge Common, Totteridge, London, N20",1,0,0
+7999999,7,6,51.577867,-0.160768,"Denewood Road, Highgate, London, N6",1,0,0
+7990000,6,6,51.49899,-0.19339,"Cheniston Lodge, Cheniston Gardens, Kensington, W8",0,0,1
+7990000,6,6,51.498996,-0.19345,"Cheniston Gardens, London, W8",0,0,1
+7950000,9,6,51.44973,-0.230335,"Heathview Gardens, Putney, London, SW15",1,0,0
+7950000,4,4,51.491573,-0.171248,"Pond Place, Chelsea, London, SW3",0,0,1
+7950000,7,6,51.438385,-0.224516,"Parkside, Wimbledon, SW19",1,0,0
+7950000,5,5,51.5129,-0.174871,"Bathurst Street, London, W2.",0,0,1
+7750000,5,5,51.575668,-0.170458,"Canons Close, N2",1,0,0
+7750000,5,5,51.499366,-0.183113,"Kensington Gate, Kensington, London, W8",0,1,0
+7750000,5,3,51.559,-0.17789,"Elm Row, Hampstead Village, NW3",0,0,1
+7500000,6,4,51.53779,-0.15033,"Regents Park Road, Primrose Hill",0,1,0
+7500000,7,3,51.55591,-0.18796,"Oakhill Avenue, Hampstead",1,0,0
+7500000,5,5,51.493714,-0.172946,"Pelham Street, South Kensington",0,0,1
+7500000,7,6,51.57706,-0.189,"Linnell Drive, Hampstead Garden Suburb",1,0,0
+7500000,3,2,51.49623,-0.14942,"Eaton Mews South, London, SW1W",0,0,1
+7500000,5,5,51.4937,-0.173,"Pelham Street, London, SW7.",0,0,1
+7500000,6,4,51.538002,-0.151245,"Regent's Park Road, Primrose Hill, London, NW1",0,1,0
+7500000,7,6,51.577098,-0.188973,"Linnell Drive, NW11",1,0,0
+7500000,6,4,51.486203,-0.185556,"Cathcart Road, London",0,0,1
+7500000,6,6,51.4893,-0.16698,"Astell Street, London, SW3",0,0,1
+7500000,7,5,51.36202,0.04281,"Forest Ridge, Keston",1,0,0
+7500000,6,6,51.57711,-0.188973,"Linnell Drive, Hampstead Garden Suburb, London, NW11",1,0,0
+7495000,11,6,51.4323,-0.2238,"Parkside, Wimbledon, London, SW19",1,0,0
+7450000,2,2,51.495675,-0.149985,"Eaton Mews South, Belgravia, London, SW1W",0,0,1
+7350000,5,4,51.524215,-0.179277,"Randolph Avenue, Little Venice, London, W9",0,1,0
+7250000,7,4,51.446882,-0.173054,"Lyford Road, London, SW18",0,0,1
+7250000,4,0,51.5802,-0.1716,"Winnington Road, London, N2",1,0,0
+7250000,0,0,51.517005,-0.197935,"Talbot Road, London, W2",0,0,1
+7250000,5,4,51.5589,-0.191039,"Hollycroft Avenue, Hampstead, London, NW3",1,0,0
+7250000,7,5,51.457789,-0.291945,"Marchmont Road, Richmond, TW10",1,0,0
+7250000,6,5,51.456547,-0.257971,"Roedean Crescent, Putney, London, SW15",1,0,0
+7250000,7,5,51.45776,-0.29276,"Marchmont Road, Richmond, TW10",1,0,0
+7100000,4,1,51.51333,-0.19628,"Notting Hill, London, W2",0,0,1
+7000000,7,8,51.584636,-0.167403,"The Bishops Avenue, N2",1,0,0
+500000,3,1,51.612129,-0.091296,"Pasteur Gardens, London, N18",0,0,1
+7000000,6,4,51.531975,-0.172796,"Cavendish Avenue, St. John's Wood, London, NW8",0,1,0
+7000000,11,1,51.5511,-0.18019,"Frognal, London, Greater London, NW3 6AG",1,0,0
+7000000,6,5,51.634033,-0.204129,"Wykeham Rise, Totteridge, London, N20",1,0,0
+7000000,7,6,51.485852,-0.235669,"Barnes, London, SW13",1,0,0
+7000000,8,5,51.633046,-0.200271,"Totteridge Village, Totteridge, London, N20",1,0,0
+7000000,4,4,51.5701,-0.148551,"Swains Lane, Highgate, London, N6",0,1,0
+7000000,8,6,51.632102,-0.19973,"Totteridge Village, Totteridge, London, N20",1,0,0
+7000000,5,2,51.544094,-0.096656,"Willow Bridge Road, London, N1",0,1,0
+7000000,7,7,51.458298,-0.256189,"Roedean Crescent, London",1,0,0
+7000000,7,0,51.4212,-0.2131,"Malcolm Road, Wimbledon, London, SW19.",1,0,0
+6950000,6,4,51.579814,-0.174723,"Winnington Close, Hampstead Garden Suburb",1,0,0
+6950000,6,4,51.579814,-0.174723,"Winnington Close, Hampstead Garden Suburb, London",1,0,0
+6950000,5,4,51.492491,-0.152334,"Eaton Terrace, Belgravia, London, SW1W",0,0,1
+6950000,5,3,51.494755,-0.148858,"Eccleston Street, Belgravia",0,0,1
+6950000,5,4,51.492242,-0.182284,"Wetherby Place, South Kensington, London, SW7",0,1,0
+6950000,7,6,51.425037,-0.209774,"St. Mary's Road, London, SW19",1,0,0
+6950000,5,5,51.492574,-0.152321,"Eaton Terrace, Belgravia, London, SW1W",0,0,1
+6950000,8,5,51.42829,-0.221044,"Parkside Avenue, Wimbledon, London, SW19",1,0,0
+6950000,5,3,51.494815,-0.148791,"Eccleston Street, London",0,0,1
+6950000,4,4,51.498193,-0.172383,"Princes Gate Mews, London, SW7.",0,0,1
+1500000,3,2,51.501673,-0.238145,"Greenside Road, Shepherd's Bush, London, W12",0,0,1
+6950000,6,9,51.64719,-0.23521,"Rowley Ridge, Arkley, EN5",1,0,0
+6950000,0,0,51.485308,-0.181652,"Fulham Road, Chelsea, London, SW10",0,0,1
+6950000,6,4,51.579814,-0.174723,"Winnington Close, N2",1,0,0
+6950000,6,6,51.443987,-0.166914,"Wiseton Road, London, SW17",0,0,1
+6950000,6,8,51.647214,-0.235177,"Rowley Green Road, Arkley, Hertfordshire, EN5",1,0,0
+6950000,7,6,51.466496,-0.248023,"Vine Road, Barnes, London, SW13",1,0,0
+6950000,7,7,51.466641,-0.248177,"Vine Road, Barnes, London  SW13",1,0,0
+6950000,5,5,51.4924,-0.152229,"Eaton Terrace, Belgravia, London",0,0,1
+6900000,0,0,51.549052,-0.189481,"Lymington Road, London, NW6",0,1,0
+6900000,6,4,51.48373,-0.169951,"Cheyne Row, Chelsea, London, SW3",0,0,1
+6850000,3,3,51.484235,-0.174028,"Paultons Square, London, SW3",0,0,1
+6750000,7,6,51.5129,-0.174846,"Bathurst Street, Connaught Village, London, W2",0,0,1
+6750000,6,5,51.4271,-0.26552,"Coombe Park, Kingston Upon Thames, KT2",1,0,0
+6750000,4,4,51.49678,-0.19607,"Scarsdale Villas, London, W8",0,1,0
+6750000,6,3,51.584661,-0.16741,"The Bishops Avenue, London",1,0,0
+6750000,7,4,51.5145,-0.1694,"Southwick Place, Bayswater, London, W2.",0,0,1
+6750000,6,5,51.427379,-0.265634,"Coombe Park, Kingston Upon Thames, KT2",1,0,0
+500000,3,1,51.561809,0.184994,"Edison Avenue, Hornchurch, RM12",0,1,0
+6500000,11,8,51.447241,0.052491,"Court Road, Eltham, London, SE9",1,0,0
+6500000,6,4,51.490632,-0.164754,"Elystan Place, Chelsea, London, SW3",0,0,1
+6500000,5,5,51.497391,-0.189592,"St Mary's Place, London, W8",0,0,1
+6500000,6,6,51.456504,-0.294208,"Carlile Place, Richmond, Surrey, TW10",1,0,0
+6500000,4,3,51.500488,-0.165205,"Trevor Place, London",0,0,1
+6500000,7,4,51.506369,-0.210244,"Norland Square, Holland Park, London, W11",0,0,1
+6500000,5,6,51.559976,-0.22409,"16 Wotton Road, Cricklewood, NW2",1,0,0
+6500000,6,6,51.493972,-0.162388,"Moore Street, London, SW3",0,0,1
+6500000,6,10,51.572616,-0.173692,"Winnington Road, London, N2",1,0,0
+6500000,7,9,51.572616,-0.173692,"Winnington Road, London, N2",1,0,0
+6500000,10,10,51.490524,-0.183822,"Cresswell Gardens, London",0,0,1
+6500000,14,0,51.494089,-0.188854,"Collingham Road, London, SW5",0,0,1
+6500000,6,4,51.521296,-0.116649,"Great James Street, London, WC1N",0,0,1
+6500000,5,3,51.519137,-0.161342,"Wyndham Place, Marylebone, London, W1H",0,0,1
+6500000,4,4,51.486584,-0.169473,"Oakley Street, Chelsea, SW3",0,0,1
+6500000,4,5,51.498916,-0.168742,"Ennismore Street, London",0,1,0
+6350000,4,3,51.483561,-0.171189,"Old Church Street, Chelsea, London, SW3",0,0,1
+6350000,4,4,51.483629,-0.171561,"Old Church Street, Chelsea, London, SW3",0,0,1
+6295000,4,4,51.497902,-0.172649,"Princes Gate Mews, London, SW7",0,0,1
+6250000,5,4,51.489857,-0.157096,"Sloane Court East, London",0,0,1
+6250000,12,13,51.520797,-0.158425,"York Street, Marylebone",0,0,1
+6250000,6,5,51.564838,-0.191058,"Elm Walk, Hampstead, London, NW3",1,0,0
+6250000,6,4,51.56469,-0.19122,"Elm Walk, Hampstead",1,0,0
+6250000,5,4,51.489771,-0.157169,"Sloane Court East, Chelsea, SW3",0,0,1
+6150000,4,4,51.569436,-0.154916,"Highfields Grove, London, N6",1,0,0
+6150000,3,3,51.486211,-0.183153,"Seymour Walk, Chelsea, London, SW10",0,0,1
+6000000,4,3,51.485768,-0.170759,"Bramerton Street, Chelsea, London, SW3",0,0,1
+6000000,7,5,51.497539,-0.259491,"Bedford Road, London, W4",0,1,0
+6000000,6,7,51.63295,-0.197756,"Northcliffe Drive, Totteridge, London, N20",1,0,0
+6000000,6,4,51.365072,0.043566,"Forest Drive, Keston, Kent, BR2",1,0,0
+6000000,6,7,51.632952,-0.197745,"Northcliffe Drive, Totteridge, N20",1,0,0
+6000000,7,6,51.495023,-0.201912,"Warwick Gardens, London, W14",0,0,1
+5995000,5,3,51.491823,-0.181316,"Hereford Square, South Kensington, London, SW7",0,0,1
+5995000,5,4,51.491802,-0.181134,"Hereford Square, London, SW7",0,0,1
+5995000,5,3,51.491784,-0.181367,"Hereford Square, London, SW7",0,0,1
+5995000,4,3,51.486546,-0.171965,"Carlyle Square, London, SW3",0,0,1
+5995000,5,4,51.491957,-0.181182,"Hereford Square, London, SW7",0,0,1
+5950000,7,5,51.434419,-0.203897,"Home Park Road, Wimbledon, London, SW19",1,0,0
+5950000,7,5,51.434658,-0.203877,"Home Park Road, Wimbledon, London, SW19",1,0,0
+5950000,8,6,51.462073,-0.229598,"Colinette Road, London, SW15",1,0,0
+5950000,4,3,51.513552,-0.210768,"Blenheim Crescent, Notting Hill",0,0,1
+5950000,6,4,51.461785,-0.222867,"Gwendolen Avenue, Putney, London, SW15",1,0,0
+5950000,4,4,51.4987,-0.149851,"Little Chester Street, Belgravia, London, SW1X",0,0,1
+5950000,7,7,51.463168,-0.234599,"Woodborough Road, Putney, London, SW15",1,0,0
+5950000,5,3,51.533538,-0.182897,"Marlborough Place, St John's Wood, London, NW8",1,0,0
+5950000,5,3,51.489695,-0.164265,"Markham Square, Chelsea, London, SW3",0,0,1
+5950000,6,5,51.620655,-0.249518,"Uphill Road, Mill Hill",1,0,0
+5950000,5,4,51.4954,-0.147886,"Ebury Street, Belgravia, London, SW1W",1,0,0
+5950000,4,4,51.4937,-0.152057,"Chester Row, Belgravia, London, SW1W",0,0,1
+5950000,5,4,51.4964,-0.2015,"Edwardes Square, Kensington,  W8",0,0,1
+5900000,5,3,51.499432,-0.196639,"Kensington, W8 OFF MARKET",0,0,1
+5900000,3,3,51.50671,-0.14669,"Curzon Street, London, W1J",0,0,1
+5850000,7,3,51.553147,-0.100421,"Highbury Hill, Highbury, London, N5",0,1,0
+5750000,4,3,51.487068,-0.248328,"Chiswick Mall, Chiswick, W4",0,0,1
+5750000,6,3,51.517176,-0.197391,"Talbot Road, Notting Hill, London, W2",0,0,1
+5750000,5,3,51.4859,-0.1715,"Bramerton Street, London, SW3",0,0,1
+5750000,5,3,51.5165,-0.1936,"Kildare Terrace, Notting Hill, London, W2",0,0,1
+1200000,4,2,51.41137,0.07465,"Church Row, Chislehurst",1,0,0
+5750000,4,5,51.50102,-0.189979,"Kensington Square, Kensington, London",0,0,1
+5750000,5,3,51.585316,-0.165099,"The Bishops Avenue, Hampstead Garden Suburb",1,0,0
+5750000,8,9,51.36532,0.04901,Pine Glade Keston Park BR6,1,0,0
+5750000,4,3,51.487188,-0.165015,"Shawfield Street, Chelsea, London, SW3",0,0,1
+5700000,4,4,51.494255,-0.164318,"Milner Street, London, SW3",0,0,1
+5650000,4,4,51.489699,-0.16108,"Walpole Street, Chelsea, London, SW3",0,0,1
+5650000,6,3,51.430138,-0.216414,"Marryat Road, London, SW19 5BE",1,0,0
+5650000,5,4,51.498745,-0.139827,"Wilfred Street, Westminster",0,0,1
+5650000,7,7,51.623184,-0.250108,"Uphill Road, Mill HIll",1,0,0
+5650000,5,3,51.491917,-0.168152,"Elystan Street, London, SW3",0,0,1
+5635000,5,4,51.498071,-0.193448,"Abingdon Villas, London, W8",0,0,1
+5635000,5,5,51.498171,-0.19315,"Abingdon Villas, Kensington, London",0,0,1
+750000,6,2,51.434573,0.049086,"Lavidge Road, Mottingham, London, SE9",0,1,0
+5550000,3,4,51.495267,-0.16199,"Clabon Mews, Knightsbridge, London",0,0,1
+5550000,3,3,51.495197,-0.161937,"Clabon Mews, Belgravia, London, SW1X",0,0,1
+5550000,4,4,51.496971,-0.147212,"Grosvenor Gardens Mews North, Belgravia, SW1W",0,0,1
+5500000,3,4,51.524315,-0.301071,"Mount Avenue, Ealing, W5",1,0,0
+5500000,4,2,51.51363,-0.1671,"Albion Street, Hyde Park",0,0,1
+5500000,6,6,51.542758,-0.216722,"Manor House Drive, London, NW6",1,0,0
+5500000,4,3,51.5136,-0.16716,"ALBION STREET, HYDE PARK, London, W2",0,0,1
+5500000,4,3,51.498069,-0.155884,"Chesham Mews, Belgravia, London, SW1X",0,0,1
+5500000,14,14,51.480048,-0.288665,"Kew Road, Richmond, TW9",1,0,0
+5500000,7,1,51.57783,-0.16905,"White Lodge Close, London, N2 The Bishops Avenue ",1,0,0
+5500000,17,0,51.480064,-0.288784,"Kew Road, Richmond, TW9",1,0,0
+5500000,7,4,51.57824,-0.17798,"Neville Drive, London",1,0,0
+5500000,3,3,51.524296,-0.300815,"Mount Avenue, London, W5",1,0,0
+5500000,4,4,51.55714,-0.18201,"Frognal, London NW3",0,1,0
+5500000,5,4,51.496603,-0.188747,"Cornwall Gardens, South Kensington, London, SW7",0,0,1
+5500000,4,3,51.514028,-0.166946,"Albion Street, Hyde Park, W2",0,0,1
+5500000,0,0,51.578907,-0.158738,"Sheldon Avenue, N6",1,0,0
+5500000,7,6,51.54276,-0.21589,"Manor House Drive, London, NW6",1,0,0
+5500000,3,4,51.5239,-0.3009,"Mount Avenue, Ealing, W5",1,0,0
+5500000,6,4,51.449956,-0.164246,"Bolingbroke Grove, London, SW11",0,1,0
+5500000,13,14,51.479355,-0.289295,"Creefleet House, Kew Road, Richmond, Surrey, TW9",1,0,0
+5495000,6,5,51.460064,-0.229781,"Larpent Avenue, Putney, London, SW15",1,0,0
+5495000,6,4,51.480799,-0.284433,"Cumberland Road, Kew, Surrey, TW9",1,0,0
+5450000,4,5,51.493963,-0.149139,"Ebury Street, London, SW1W",0,0,1
+5350000,5,4,51.513878,-0.166676,"Albion Street, London, W2",0,0,1
+5350000,7,7,51.425936,-0.216039,"Lancaster Gardens, Wimbledon, London, SW19",1,0,0
+5300000,5,4,51.431979,-0.204875,"Lambourne Avenue, Wimbledon, SW19",1,0,0
+5300000,5,4,51.474396,-0.219179,"Ellerby Street, Bishops Park, Fulham, SW6",0,1,0
+5250000,8,5,51.462909,-0.280579,"Orchard Rise, Richmond, TW10",1,0,0
+5250000,4,4,51.566394,-0.154847,"West Hill Park, London N6",1,0,0
+5250000,4,4,51.499228,-0.141772,"Stafford Place, Westminster",0,0,1
+5250000,8,6,51.462536,-0.280488,"Orchard Rise, Richmond. TW10 5BX",1,0,0
+5250000,5,4,51.4883,-0.2663,"Sutton Court Road, London, W4.",1,0,0
+5250000,5,2,51.574642,-0.169668,"Canons Close (off The Bishops Avenue), London, N2",1,0,0
+5250000,4,3,51.532367,-0.179604,"Hill Road, St. John's Wood, London, NW8",0,0,1
+5250000,6,3,51.51592,-0.169443,"Southwick Street, Hyde Park Estate, W2",0,0,1
+5250000,5,3,51.49523,-0.201404,"Warwick Gardens, Kensington, London",0,0,1
+5250000,6,4,51.484093,-0.178772,"Limerston Street, London, SW10",0,1,0
+2000000,5,3,51.534123,-0.231002,"Buchanan Gardens, Kensal Rise, London, NW10",0,0,1
+5150000,4,3,51.486898,-0.18385,"Cathcart Road, London, SW10",0,0,1
+5150000,3,3,51.5228,-0.146818,"Garden Villa D, Regent's Crescent,  22 Park Crescent, Marylebone, London, W1B 1AA",0,0,1
+5100000,4,4,51.489244,-0.180521,"Roland Way, London",0,0,1
+5100000,4,4,51.489244,-0.18052,"Roland Way, South Kensington SW7",0,0,1
+5000000,6,4,51.491759,-0.200335,"Philbeach Gardens, Earls Court, London, SW5",0,0,1
+5000000,5,3,51.460562,-0.318995,"St. Georges Road, Twickenham, TW1",1,0,0
+5000000,6,3,51.47591,-0.28993,"Branstone Road, Kew, Richmond, Surrey, TW9",1,0,0
+5000000,4,3,51.5405,-0.157,"Rothwell Street, London NW1",0,1,0
+5000000,9,5,51.58749,-0.22803,"Brampton Grove, London, NW4",1,0,0
+5000000,8,9,51.666836,-0.161262,"Beech Hill, Hadley Wood, Hertfordshire, EN4",1,0,0
+5000000,7,4,51.419543,-0.240482,"Drax Avenue, Wimbledon, London, SW20",1,0,0
+5000000,8,3,51.52227,-0.305454,"Montpelier Road, Ealing",1,0,0
+5000000,6,5,51.36403,0.04593,Forest Ridge Keston BR2,1,0,0
+5000000,2,2,51.500352,-0.167632,"Montpelier Terrace, Knightsbridge, London, SW7",0,0,1
+5000000,7,6,51.621763,-0.121262,"Cannon Hill, London, N14",1,0,0
+5000000,5,4,51.483395,-0.197134,"Rainsborough Square, London, SW6 1DQ",0,0,1
+5000000,0,0,51.36403,0.04593,"Forest Ridge, Keston",1,0,0
+5000000,7,5,51.442215,-0.303503,"Petersham Road, Richmond, Surrey, TW10",0,1,0
+5000000,5,5,51.495435,-0.12769,"Romney Street, Westminster, London, SW1P",0,0,1
+5000000,4,4,51.534099,-0.145942,"Park Village West, Regent's Park, London, NW1",1,0,0
+4999995,6,4,51.542873,-0.22022,"Chudleigh Road, London NW6",1,0,0
+4999995,6,4,51.542783,-0.220112,"Chudleigh Road, London, NW6",1,0,0
+4999950,5,4,51.527198,-0.163303,"Kent Terrace, Regent's Park, London",0,0,1
+4999950,6,2,51.507,-0.1942,"Brunswick Gardens, London, W8",1,0,0
+4999000,6,7,51.513545,-0.259457,"Perryn Road, London",1,0,0
+4995000,9,6,51.60721,-0.435483,"Linksway, Copse Wood, Northwood",1,0,0
+4975000,5,3,51.496612,-0.147802,"Lower Belgrave Street, Belgravia, London, SW1W",0,0,1
+4950000,5,3,51.492188,-0.152448,"Eaton Terrace, London, SW1W",0,0,1
+4950000,7,6,51.418181,-0.258171,"Coombe Hill Road, Kingston Upon Thames, Surrey, KT2",1,0,0
+4950000,5,4,51.510142,-0.197844,"Kensington Park Road, London",0,0,1
+4950000,5,4,51.510309,-0.19808,"Kensington Park Road, Notting Hill, London, W11",0,0,1
+4950000,6,3,51.537591,-0.166071,"Rudgwick Terrace, Avenue Road, St John's Wood, London, NW8",0,0,1
+4950000,6,3,51.537266,-0.16686,"Rudgwick Terrace, Avenue Road, London, NW8",0,0,1
+4950000,5,3,51.492189,-0.152423,"Eaton Terrace, Belgravia, London, SW1W",0,0,1
+4950000,15,9,51.514331,-0.174754,"Sussex Gardens, London",0,0,1
+4950000,3,3,51.500523,-0.150949,"Headfort Place, Belgravia, London, SW1X",0,0,1
+1100000,3,2,51.44363,-0.12161,"Bristow Mews, Palace Road, London SW2",0,1,0
+4950000,5,3,51.51741,-0.194461,"Hereford Road, Notting Hill, London, W2",0,0,1
+4950000,6,4,51.6272,-0.32585,"The Common, Stanmore, Middlesex, HA7",1,0,0
+4950000,5,4,51.5175,-0.1944,"Hereford Road, London, W2",0,0,1
+4950000,4,4,51.514437,-0.195615,"Pembridge Villas, Notting Hill, London, W11",0,1,0
+4950000,15,0,51.514319,-0.174857,"Sussex Gardens, Hyde Park",0,0,1
+4950000,15,10,51.51432,-0.174857,"Sussex Gardens, Bayswater, London, W2",0,0,1
+4850000,4,4,51.528147,-0.187191,"Biddulph Road, Maida Vale, London, W9",0,1,0
+4850000,5,2,51.429692,-0.217048,"Marryat Road, Wimbledon Village, SW19",1,0,0
+4850000,4,4,51.527966,-0.186915,"Biddulph Road, Maida Vale",0,1,0
+4850000,5,4,51.55749,-0.17925,"Holly Mount, Hampstead Village",0,0,1
+4850000,4,2,51.488864,-0.167001,"Burnsall Street, Chelsea SW3",0,0,1
+4850000,5,4,51.557511,-0.179213,"Holly Mount, Hampstead, London, NW3",0,0,1
+4850000,4,3,51.538595,-0.180995,"Springfield Road, St John's Wood, London, NW8",0,1,0
+4850000,5,2,51.429791,-0.21685,"Marryat Road, Wimbledon, London, SW19",1,0,0
+4850000,0,0,51.52293,-0.134463,"Huntley Street, Bloomsbury, London, WC1E",0,0,1
+4850000,4,3,51.538131,-0.182389,"Springfield Road, St John's Wood, London, NW8",0,1,0
+4800000,4,2,51.542249,-0.097912,"Alwyne Road, Islington, London, N1",0,1,0
+4750000,9,5,51.463768,-0.240426,"Putney Park Avenue, Putney, London, SW15",1,0,0
+4000000,5,3,51.62722,-0.329475,"Priory Drive, Stanmore",1,0,0
+4750000,8,7,51.635754,-0.207943,"Grange Avenue, Totteridge, London, N20",1,0,0
+4750000,6,3,51.50785,-0.204098,"Holland Park Avenue, Notting Hill, Holland Park, London, W11",0,0,1
+4750000,3,3,51.503252,-0.192354,"Holland Street, London, W8",0,0,1
+4750000,6,4,51.448573,-0.170012,"Patten Road, SW18",0,1,0
+4750000,6,4,51.4867,-0.1628,"Christchurch Street, Chelsea, London, SW3",0,0,1
+4750000,10,1,51.515382,-0.16093,"25 Upper Berkeley Street, Marylebone , London, W1H",0,0,1
+4750000,5,4,51.432482,-0.301536,"Petersham, TW10",1,0,0
+4750000,4,3,51.507564,-0.209282,"Princedale Road, Notting Hill, W11",0,0,1
+4750000,7,4,51.632742,-0.198079,"Northcliffe Drive, Totteridge, London, N20",1,0,0
+4750000,7,3,51.63274,-0.198075,"Northcliffe Drive, Totteridge",1,0,0
+4750000,6,4,51.447875,-0.171496,"Trinity Road, London, SW18",0,1,0
+4750000,6,4,51.48665,-0.16271,"Christchurch Street, Chelsea",0,0,1
+4750000,8,6,51.498924,-0.139861,"Catherine Place, London, SW1E",0,0,1
+4750000,5,4,51.560526,-0.193079,"Hollycroft Avenue, London, NW3",0,1,0
+4700000,6,3,51.4962,-0.1281,"Tufton Street, London, SW1P",0,0,1
+4695000,6,5,51.433246,-0.22324,"Greenoak Way, London",1,0,0
+4695000,6,5,51.433229,-0.223773,"Greenoak Way, Wimbledon Common, SW19",1,0,0
+4650000,4,2,51.533438,-0.180549,"Abbey Gardens, St John's Wood, London, NW8",0,0,1
+4650000,6,3,51.473854,-0.219313,"Stevenage Road, Fulham, London",0,1,0
+4650000,5,4,51.521537,-0.120848,"Great Ormond Street, London, WC1",0,0,1
+4650000,8,4,51.578907,-0.177022,"Neville Drive, N2",1,0,0
+4650000,5,5,51.521825,-0.119976,"Great Ormond Street, Bloomsbury, London, WC1N",0,0,1
+4600000,6,5,51.526848,-0.193213,"Elgin Avenue, London, W9",0,0,1
+4600000,5,3,51.486945,-0.162467,"Tite Street, London",0,0,1
+4600000,4,3,51.521867,-0.150832,"Beaumont Street, Marylebone Village, W1G",0,0,1
+4600000,6,0,51.526948,-0.192954,"Elgin Avenue, Maida Vale, London, W9",0,0,1
+4595000,6,4,51.425067,-0.274328,"Warren Road, Kingston Upon Thames",1,0,0
+4500000,5,5,51.486728,-0.178873,"Beaufort Street, London, SW3",0,0,1
+4500000,7,4,51.450883,-0.162817,"Blenkarne Road, Battersea, London, SW11",0,1,0
+4500000,7,6,51.36633,0.0479,Keston BR2,1,0,0
+4500000,8,7,51.337171,0.024651,"Ashmore Lane, Keston, Kent",1,0,0
+4500000,6,4,51.45982,-0.13746,"Crescent Grove, London, SW4",0,1,0
+4500000,5,3,51.449956,-0.164246,"Bolingbroke Grove, London, SW11",0,1,0
+4500000,5,3,51.496625,-0.259684,"Esmond Road, London, W4",0,1,0
+4500000,7,5,51.564838,-0.347281,"Mount Park Rd, Harrow On The Hill",1,0,0
+4500000,5,3,51.492506,-0.191863,"Earls Court Gardens, London, SW5",0,0,1
+4500000,7,4,51.451939,-0.181887,"Westover Road, London, SW18",0,1,0
+4500000,5,4,51.627394,-0.330392,"Priory Drive, Stanmore, HA7",1,0,0
+4500000,8,7,51.3364,0.02449,"Ashmore Lane, Keston",1,0,0
+995000,4,3,51.655804,-0.201379,"Lightfield Townhouses, High Street, Barnet, London, EN5",0,1,0
+4500000,9,9,51.417757,-0.254779,"Beverley Lane, Kingston upon Thames, KT2",1,0,0
+4500000,7,7,51.366587,0.049047,"Milestones, Keston BR2",1,0,0
+4500000,3,3,51.490276,-0.166046,"Jubilee Place, Chelsea",0,1,0
+4500000,4,3,51.52827,-0.07758,"Perseverance Works, Shoreditch, E2",0,0,1
+4500000,4,3,51.500623,-0.130884,"Old Queen Street, St. James's Park, London, SW1H",0,0,1
+4500000,4,3,51.534465,-0.14824,"Gloucester Gate, London",0,0,1
+4500000,7,6,51.4823,-0.20154,"Tournay Road, Fulham",0,0,1
+4500000,8,7,51.591,-0.197,"Beechwood Avenue, Finchley N3, N3",1,0,0
+4500000,5,0,51.435015,-0.329364,"Strawberry Vale, Twickenham, TW1",0,1,0
+4500000,6,5,51.51718,-0.214402,"St Marks Road, North Kensington, W10",0,0,1
+4400000,5,5,51.418434,-0.257184,"Coombe Hill Road, Kingston Upon Thames, KT2",1,0,0
+4400000,3,3,51.498528,-0.167334,"Cheval Place, Knightsbridge,, London, SW7",0,0,1
+4400000,5,5,51.418526,-0.257863,"Coombe Hill Road, Coombe, KT2",1,0,0
+4400000,3,2,51.4984,-0.1676,"Cheval Place, Knightsbridge, London, SW7",0,0,1
+4375000,4,2,51.428462,-0.216456,"Lancaster Gardens, Wimbledon Village, SW19",1,0,0
+4350000,6,3,51.56615,-0.15251,"ROBIN GROVE, HIGHGATE, N6",1,0,0
+4350000,8,5,51.462259,-0.234655,"Briar Walk, London, SW15",1,0,0
+4350000,4,3,51.514106,-0.167127,"Albion Street, Connaught Village, London, W2",0,0,1
+4350000,8,5,51.4625,-0.2346,"Briar Walk, Putney, London, SW15",1,0,0
+4350000,3,1,51.49948,-0.1673,"Knightsbridge , London, SW7",0,0,1
+4300000,7,2,51.475802,-0.278928,"West Hall Manor, West Hall Road, Kew, TW9",1,0,0
+4300000,6,2,51.475848,-0.278955,"West Hall Road, Richmond, TW9",1,0,0
+4300000,8,3,51.59102,-0.14961,"Fairport, Fortis Green N10",1,0,0
+4295000,3,3,51.534322,-0.145728,"Park Village West, Regent's Park, London, NW1",0,0,1
+4295000,6,4,51.452449,-0.200368,"Wimbledon Park Road, Putney, London, SW18",1,0,0
+4250000,5,5,51.572755,-0.136813,"Hornsey Lane Gardens, Highgate, N6",1,0,0
+4250000,5,4,51.5001,-0.189,"Ansdell Terrace, London, W8",0,0,1
+4250000,4,4,51.572718,-0.190258,"Chandos Way, London, NW11",1,0,0
+4250000,4,3,51.4598,-0.2367,"Pleasance Road, London",1,0,0
+4250000,2,2,51.51473,-0.217386,"Bramley Road, London, W10",0,1,0
+4250000,6,7,51.457027,-0.230137,"Chartfield Avenue, Putney, SW15",1,0,0
+4250000,5,3,51.482974,-0.276047,"Grove Park Road, Chiswick, London, W4",1,0,0
+4250000,5,3,51.46278,-0.307657,"Pembroke Villas, The Green, Richmond, TW9",0,1,0
+4250000,8,5,51.4996,-0.149941,"Chester Street, Belgravia, London, SW1X",0,0,1
+4250000,5,4,51.49926,-0.14016,"Catherine Place, London, SW1E",0,0,1
+4250000,5,6,51.641356,-0.109073,"Eversley Crescent, Winchmore Hill, London, N21",1,0,0
+4250000,3,3,51.496063,-0.180213,"Queen's Gate Place Mews, South Kensington SW7",0,0,1
+4250000,5,4,51.498862,-0.149636,"Little Chester Street, Belgravia, SW1X",0,0,1
+4250000,5,3,51.462777,-0.307591,"Pembroke Villas, The Green, Richmond, Surrey, TW9",0,1,0
+4250000,7,3,51.543457,-0.218109,"Aylestone Avenue, Brondesbury Park, NW6",0,1,0
+4250000,4,4,51.524303,-0.177909,"Blomfield Road, Little Venice, London, W9",0,0,1
+4250000,5,4,51.542817,-0.215871,"Manor House Drive, London, NW6",1,0,0
+4250000,6,6,51.494062,-0.192958,"Redfield Lane, Kenway Village, London, SW5",0,0,1
+4250000,4,3,51.425525,-0.207992,"St John's Road, Wimbledon, SW19",0,1,0
+4250000,5,3,51.446975,-0.170683,"Trinity Road, SW18",1,0,0
+4250000,3,4,51.5196,-0.157989,"Clay Street, Marylebone, London, W1U",0,0,1
+4250000,3,2,51.4974,-0.1511,"Eccleston Mews, London, SW1X",0,0,1
+4250000,5,3,51.446912,-0.170727,"Trinity Road, London, SW18",0,1,0
+4250000,3,3,51.496691,-0.180221,"Queen's Gate Place Mews, SW7",0,1,0
+4250000,4,4,51.567053,-0.17569,"Spaniards Road, Hampstead, London, NW3",1,0,0
+4250000,6,6,51.3597,-0.04835,"Bishops Walk, Croydon",1,0,0
+4200000,4,3,51.53599,-0.171817,"Ordnance Hill, St John's Wood, NW8",0,0,1
+4200000,4,2,51.497,-0.1939,"Inkerman Terrace, Allen Street, London, W8",0,0,1
+4200000,6,3,51.462868,-0.235335,"Woodborough Road, Putney, London, SW15",1,0,0
+4195000,7,4,51.455565,-0.213594,"Lytton Grove, London, SW15",1,0,0
+4175000,6,3,51.483683,-0.234857,"Castelnau, Barnes, London, SW13",1,0,0
+4150000,5,3,51.541156,-0.217585,"Aylestone Avenue, London, NW6",1,0,0
+4150000,6,3,51.464896,-0.211646,"Deodar Road, Putney, London, SW15",0,0,1
+4100000,5,5,51.4165,-0.263506,"Coombe Lane West, Coombe, Kingston Upon Thames, KT2",1,0,0
+4100000,5,3,51.580387,-0.177032,"Holne Chase, Hampstead Garden Suburb, London",1,0,0
+4100000,3,2,51.5014,-0.154772,"Wilton Row, Belgravia, London, SW1X",0,0,1
+4100000,6,6,51.415877,-0.265723,"Coombe Lane West, Coombe, Kingston Upon Thames, KT2",1,0,0
+4100000,5,5,51.4163,-0.2636,"Coombe Lane West, Kingston Upon Thames, Surrey, KT2",1,0,0
+4100000,4,4,51.5082,-0.1981,"Callcott Street, Kensington, London, W8",0,0,1
+4100000,3,2,51.4907,-0.1511,"Ranelagh Grove, London, SW1W",0,0,1
+4100000,5,5,51.41563,-0.26542,"Coombe Lane West, Kingston Upon Thames, Surrey, KT2",1,0,0
+4000000,4,2,51.55553,-0.17103,"Downshire Hill, Hampstead Village",0,1,0
+4000000,7,6,51.574816,0.221892,"Woodlands Avenue, Emerson Park, Hornchurch, RM11",1,0,0
+4000000,4,4,51.489238,-0.182288,"Cresswell Place, London, SW10",0,0,1
+4000000,6,4,51.515654,-0.166103,"Porchester Place, Hyde Park",0,0,1
+4000000,5,4,51.5215,-0.3049,"Mount Park Road, London, W5",1,0,0
+4000000,7,4,51.423359,-0.272631,"Warren Road, Kingston upon Thames, KT2",1,0,0
+4000000,5,4,51.541064,-0.187184,"Goldhurst Terrace, South Hampstead, London, NW6",0,1,0
+4000000,6,6,51.474656,-0.217896,"Fulham, London, SW6",0,1,0
+4000000,6,5,51.620823,-0.249983,"Chesham Close, Mill Hill, London, NW7",1,0,0
+4000000,5,4,51.418251,-0.239645,"Atkinson Close, London, SW20",1,0,0
+4000000,5,4,51.418991,-0.215911,"Denmark Avenue, Wimbledon, London, SW19",0,1,0
+4000000,8,4,51.516543,-0.309723,"Carlton Road, London, W5",1,0,0
+4000000,5,4,51.418991,-0.215911,"Denmark Avenue, Wimbledon Village, SW19",0,1,0
+4000000,5,5,51.513709,-0.168641,"Hyde Park Square, Hyde Park Estate, London, W2",0,0,1
+4000000,7,4,51.476777,-0.206372,"Chesilton Road, London, SW6",0,0,1
+4000000,5,4,51.513776,-0.168856,"Hyde Park Square, Hyde Park, London, W2",0,0,1
+4000000,5,6,51.58536,-0.20816,"Havanna Drive, London",1,0,0
+4000000,5,3,51.51604,-0.16631,"Norfolk Crescent, Hyde Park, W2",0,0,1
+4000000,7,5,51.33894,-0.12633,"The Webb Estate, Purley, Surrey",1,0,0
+4000000,7,7,51.574947,0.221792,"Woodlands Avenue, Hornchurch, RM11",1,0,0
+4000000,6,6,51.619587,-0.249107,"Chesham Close, Mill Hill",1,0,0
+4000000,8,5,51.5531,-0.170977,"Rosslyn Hill, Hampstead NW3",0,1,0
+4000000,6,6,51.628747,-0.113413,"Broad Walk, Winchmore Hill, London, N21",1,0,0
+4000000,5,6,51.41796,-0.2406,"Atkinson Close, London, SW20",1,0,0
+4000000,2,2,51.5211,-0.1472,"Devonshire Close, London, W1G",0,0,1
+4000000,5,4,51.518817,-0.223568,"Highlever Road, London, W10",0,0,1
+4000000,5,4,51.51371,-0.16874,"HYDE PARK SQUARE, London, W2",0,0,1
+4000000,6,6,51.62899,-0.11292,"Broad Walk, Winchmore Hill, London",1,0,0
+4000000,3,2,51.55598,-0.16878,"Keats Grove, Hampstead Village",1,0,0
+4000000,7,6,51.57525,0.22197,"Woodlands Avenue, Hornchurch, RM11",1,0,0
+500000,2,1,51.424681,0.055604,"Walden Avenue, Chislehurst, Kent, BR7",0,1,0
+3999950,3,3,51.55497,-0.17906,"Perrins Walk, Hampstead Village",0,0,1
+3995950,7,4,51.461351,-0.297618,"Sheen Road, Richmond, Surrey",1,0,0
+3995000,5,5,51.460055,-0.229772,"Larpent Avenue, Putney, London, SW15",1,0,0
+3995000,8,4,51.448611,-0.170819,"Patten Road, London, SW18",1,0,0
+3995000,5,3,51.56379,-0.19169,"West Heath Road, London, NW3",0,1,0
+3950000,5,5,51.625355,-0.24161,"Abbey View, Mill Hill",1,0,0
+3950000,5,4,51.474185,-0.219611,"Stevenage Road, Bishops Park, Fulham, SW6",0,1,0
+3950000,6,3,51.488349,-0.265596,"Barrowgate Road, London, W4",1,0,0
+3950000,5,3,51.490598,-0.182407,"Old Brompton Road, London, SW5",0,0,1
+3950000,5,4,51.416078,-0.2572,"Coombe Lane West, Kingston upon Thames, KT2",1,0,0
+3950000,4,2,51.496579,-0.236656,"Ravenscourt Road, Ravenscourt Park, Hammersmith, W6",0,0,1
+3950000,6,4,51.461076,-0.293426,Kings Road,1,0,0
+3950000,3,3,51.533252,-0.101446,"Noel Road, Angel, London, N1",0,0,1
+3950000,3,2,51.49757,-0.19667,"Abingdon Villas, Kensington, London, W8",0,0,1
+3950000,5,4,51.515538,-0.16593,"Porchester Place, Hyde Park, London, W2",0,0,1
+500000,2,1,51.552162,0.002638,"Crownfield Road, Stratford",0,0,1
+3950000,5,4,51.41605,-0.25735,"Coombe Lane West, Kingston upon Thames, Surrey, KT2",1,0,0
+3950000,6,3,51.4254,-0.214782,"Belvedere Grove, Wimbledon, London, SW19",0,1,0
+3950000,5,4,51.51547,-0.16608,"Porchester Place, Paddington, W2",0,0,1
+3950000,5,3,51.49286,-0.15229,"South Eaton Place, London",0,0,1
+3950000,6,3,51.425349,-0.214758,"Belvedere Grove, Wimbledon Village, SW19",0,1,0
+3950000,5,3,51.48,-0.18,"Limerston St, London, SW10",0,0,1
+3950000,4,3,51.496369,-0.236844,"Ravenscourt Road, Ravenscourt Park, London, W6",0,0,1
+3950000,3,5,51.516462,-0.160745,"Bryanston Square, Marylebone, London, W1H",0,0,1
+3950000,5,3,51.493547,-0.161574,"Cadogan Street, London, SW3",0,0,1
+3950000,4,4,51.488265,-0.164251,"Charles II Place, Chelsea, London, SW3",0,0,1
+3950000,4,3,51.499362,-0.166794,"Montpelier Place, South Kensington",0,0,1
+3950000,4,3,51.54296,-0.10209,"Canonbury Lane, London N1",0,1,0
+3900000,6,5,51.470843,-0.197363,"Studdridge Street, London, SW6",0,0,1
+3900000,5,3,51.468986,-0.20624,"Ranelagh Avenue, London, SW6",0,0,1
+3899950,4,4,51.50295,-0.072102,"Shad Thames, London, SE1",0,1,0
+3875000,5,4,51.54599,-0.16817,"Lancaster Grove, London, NW3",0,1,0
+3850000,5,4,51.438526,-0.223217,"Queensmere Road, Wimbledon, London, SW19",1,0,0
+3850000,3,2,51.494657,-0.165357,"First Street, London, SW3",0,0,1
+3850000,5,4,51.438526,-0.223194,"Queensmere Road, Wimbledon, SW19",1,0,0
+3850000,3,3,51.499675,-0.166949,"Sterling Street, Knightsbridge SW7",0,0,1
+3850000,3,2,51.494767,-0.165471,"First Street, London",0,0,1
+3850000,6,3,51.54948,-0.16716,"Glenloch Road, Belsize Park, NW3",0,0,1
+675000,3,2,51.460555,-0.357224,"Park Road, Hounslow, TW3",0,1,0
+3850000,3,3,51.477624,-0.201277,"Fulham Road, London, SW6.",0,1,0
+3800000,5,5,51.519491,-0.30087,"Hillcroft Crescent, Ealing, London, W5",1,0,0
+3800000,4,2,51.539396,-0.146426,"Gloucester Crescent, Primrose Hill, London, NW1",0,0,1
+3800000,6,4,51.540001,-0.151332,"Princess Road, Primrose Hill, London, NW1",0,0,1
+3800000,4,2,51.5392,-0.1459,"Gloucester Crescent, Primrose Hill, London, NW1",0,0,1
+3800000,4,4,51.510149,-0.191855,"Palace Court, London, W2",0,0,1
+3800000,5,3,51.51966,-0.30111,"Hillcroft Crescent, Ealing",1,0,0
+3800000,4,3,51.5147,-0.1765,"Conduit Mews, London, W2.",0,0,1
+3795000,3,3,51.536648,-0.171906,"Ordnance Hill, St. John's Wood, London, NW8",0,1,0
+3795000,3,3,51.536648,-0.171906,"Ordnance Hill, London, NW8",0,1,0
+3750000,5,4,51.4795,-0.1902,"Moore Park Road, Fulham, SW6.",0,0,1
+3750000,6,5,51.650552,-0.224916,"Stonecroft Close, Barnet Road, Arkley, Hertfordshire, EN5",1,0,0
+3750000,5,4,51.52104,-0.10344,"Britton Street, London EC1",0,1,0
+3750000,6,3,51.60443,-0.37549,"Nugent's Park, Hatch End, Pinner",1,0,0
+3750000,6,5,51.473417,-0.164812,"Cambridge Road, London, SW11",0,0,1
+3750000,6,6,51.622137,-0.301573,"Glanleam Road, Stanmore, HA7",1,0,0
+3750000,5,5,51.554448,-0.193369,"Parsifal Road, London, NW6",0,1,0
+3750000,5,3,51.542628,-0.110576,"Thornhill Road, Barnsbury, Islington, N1",0,0,1
+1500000,4,2,51.54029,-0.201722,"Kingsley Road, Queens Park, NW6",0,0,1
+3750000,7,5,51.612354,-0.387718,"Woodhall Road, Pinner, HA5",1,0,0
+3750000,7,5,51.339693,-0.214684,"Golf Side, Cheam, Sutton, Surrey, SM2",1,0,0
+3750000,5,2,51.543689,-0.101731,"Hydes Place, Canonbury, Islington, London, N1",1,0,0
+3750000,5,3,51.533924,-0.102468,"Colebrooke Row, Islington, London, N1",0,0,1
+3750000,6,6,51.663957,-0.182153,"Imperial Grove, Hadley Wood, Herts, EN4",1,0,0
+3750000,7,3,51.441396,-0.22209,"Parkside, Wimbledon Common, SW19",1,0,0
+3750000,5,4,51.458658,-0.295031,"Marchmont Road, Richmond, Surrey, TW10",0,0,1
+3750000,5,5,51.55443,-0.193118,"Parsifal Road, London, NW6",0,1,0
+3750000,9,6,51.467998,-0.07817,"Grove Park, Camberwell, SE5",1,0,0
+3750000,8,8,51.581814,-0.203638,"GROSVENOR GARDENS, LONDON, NW11",1,0,0
+3750000,5,3,51.533901,-0.102405,"Colebrooke Row, Islington, London, N1",0,0,1
+3750000,5,6,51.33686,-0.212623,"The Drive, South Cheam, SM2",1,0,0
+3750000,6,4,51.509617,-0.296217,"The Common, London, W5",0,1,0
+3750000,5,6,51.615531,0.03301,"Monkhams Lane, Woodford Green, Essex, IG8",1,0,0
+3750000,7,5,51.339703,-0.214709,"Golf Side, South Cheam",1,0,0
+725000,3,1,51.378158,0.004114,"Hayes Hill Road, Bromley, BR2",0,1,0
+3750000,4,3,51.50019,-0.16762,"Montpelier Walk, London, SW7",0,0,1
+3750000,4,2,51.426187,-0.263731,"Coombe Park, Kingston upon Thames, KT2",1,0,0
+3750000,8,8,51.581513,-0.204031,"Grosvenor Gardens, London, NW11",1,0,0
+3700000,5,4,51.482787,-0.181164,"Langton Street, Chelsea, London, SW10",0,0,1
+3700000,6,5,51.667657,-0.165057,"Whitestone Close, Hadley Wood, Hertfordshire, EN4",1,0,0
+3700000,4,3,51.516063,-0.1661,"Norfolk Crescent, London",0,0,1
+3700000,6,5,51.667628,-0.164727,"Whitestone Close, Hadley Wood, EN4",1,0,0
+3700000,6,5,51.667083,-0.164639,"Whitestone Close, Beech Hill,  EN4",1,0,0
+3695000,5,5,51.426245,-0.210226,"St. Mary's Road, Wimbledon Village",0,1,0
+3650000,4,3,51.4827,-0.1793,"Lamont Road, Chelsea, London, SW10",0,0,1
+3650000,5,3,51.426302,-0.217698,"Lancaster Road, Wimbledon Village, SW19",0,1,0
+3650000,4,2,51.534041,-0.144006,"Park Village East, Regent's Park, London, NW1",0,1,0
+3650000,5,5,51.426113,-0.210313,"St. Mary's Road, Wimbledon Village",0,1,0
+3650000,5,3,51.426363,-0.217614,"Lancaster Road, London, SW19.",0,1,0
+3650000,4,2,51.5082,-0.1978,"Hillgate Street, Kensington, London, W8",0,0,1
+3650000,4,3,51.483634,-0.169366,"Cheyne Row, London, SW3",0,0,1
+3600000,9,6,51.488449,-0.137777,"Lupus Street, London, SW1V",0,0,1
+3600000,4,3,51.471,-0.1946,"Clancarty Road, Fulham, London, SW6.",0,1,0
+3600000,6,4,51.448525,-0.172117,"Trinity Road, Wandsworth, London, SW18",0,1,0
+725000,3,0,51.472908,-0.011177,"Hollymount Close, London, SE10",0,0,1
+3600000,5,3,51.409905,0.070597,"Camden Close, Chislehurst, Kent, BR7",1,0,0
+3595000,5,5,51.495365,-0.127621,"Romney Street, London, SW1P",0,0,1
+3595000,5,5,51.49541,-0.127557,"Romney Street, London, SW1P",0,0,1
+3500000,4,3,51.55123,-0.1756,"Akenside Road, Belsize Park",1,0,0
+3500000,9,9,51.628247,-0.194981,"Totteridge Village, London, N20",1,0,0
+3500000,6,3,51.443098,-0.176193,"Ellerton Road, London, SW18",1,0,0
+3500000,6,3,51.459638,-0.289505,"Queens Road, Richmond, TW10",1,0,0
+3500000,6,5,51.6138,-0.29029,"Canons Drive, Edgware, HA8",1,0,0
+3500000,5,4,51.652145,-0.220558,"Lightoak, Barnet Road, Arkley, Hertfordshire, EN5",1,0,0
+3500000,5,4,51.61374,-0.29038,"Canons Drive, Edgware",1,0,0
+3500000,6,5,51.667657,-0.165057,"Whitestone Close, Hadley Wood, Hertfordshire, EN4",1,0,0
+3500000,4,3,51.551137,-0.175075,"Akenside Road, London, NW3",1,0,0
+3500000,4,3,51.514301,-0.175993,"Conduit Mews, London, W2",0,0,1
+3500000,4,4,51.432896,-0.224215,"Park View, Parkside, Wimbledon, London, SW19",0,0,1
+3500000,3,3,51.540327,-0.112549,"Thornhill Grove, London, N1",0,0,1
+3500000,3,2,51.51506,-0.12343,"Betterton Street, Covent Garden, London",0,0,1
+640000,4,1,51.55076,0.0944,"Chudleigh Crescent, Ilford",0,0,1
+3500000,6,4,51.435594,-0.136671,"Hoadly Road, Streatham",1,0,0
+3500000,5,4,51.427978,-0.348035,"Hampton Road, Teddington, Middlesex, TW11",1,0,0
+3500000,3,2,51.48605,-0.16898,"Oakley Street, London, SW3",0,0,1
+3500000,5,4,51.520782,-0.221783,"Pangbourne Avenue, North Kensington, London, W10",0,0,1
+3500000,6,3,51.473731,-0.162852,"Albert Bridge Road, London, SW11",0,0,1
+3500000,6,3,51.459648,-0.289554,"Queens Road, Richmond, Surrey, TW10",1,0,0
+3500000,5,4,51.4823,-0.20154,"Tournay Road, Fulham",0,0,1
+3500000,4,4,51.497815,-0.165781,"Ovington Mews, Knightsbridge SW3",0,0,1
+3500000,0,0,51.474899,-0.113628,"Brixton Road, London",1,0,0
+3500000,4,1,51.532283,-0.168283,"Greenberry Street, St John's Wood NW8",1,0,0
+3500000,4,4,51.409174,-0.349621,"Hampton Court Road, East Molesey, Surrey, KT8",1,0,0
+3500000,4,4,51.503662,-0.192439,"Dukes Lane, Kensington, London, W8",0,0,1
+3500000,4,1,51.532044,-0.167807,"Greenberry Street, St John's Wood, NW8",1,0,0
+3500000,7,2,51.473964,-0.291162,"The Avenue, Richmond, Surrey, TW9",1,0,0
+3500000,6,5,51.66765,-0.16477,"Whitestone Close, Hadley Wood, EN4",1,0,0
+3500000,6,5,51.61374,-0.29001,"Canons Drive Edgware, Middlesex, HA8",1,0,0
+3500000,5,5,51.435405,-0.221719,"Lincoln Avenue, Wimbledon",0,1,0
+3500000,5,3,51.494009,-0.162379,"Moore Street, London, SW3",0,0,1
+3500000,5,6,51.483268,-0.272715,"Grove Park Gardens, Chiswick, W4",0,1,0
+600000,4,2,51.443871,-0.113526,"High Trees, Brixton, London, SW2",0,0,1
+3500000,3,2,51.527898,-0.186803,"Biddulph Road, London, W9",1,0,0
+3500000,5,0,51.546078,-0.222276,"Brondesbury Park, London, NW2",0,1,0
+3500000,3,2,51.519016,-0.194564,"Westbourne Park Road, Notting Hill, London, W2",0,0,1
+3500000,4,5,51.503504,-0.192974,"Dukes Lane, London, W8",0,0,1
+3500000,6,4,51.435522,-0.136454,"Hoadly Road, London, SW16",1,0,0
+3500000,5,3,51.546077,-0.222275,"Brondesbury Park, London",0,1,0
+3500000,5,4,51.34029,-0.214313,"Golf Side, South Cheam",1,0,0
+3500000,9,7,51.468209,0.008967,"Montpelier Row, Blackheath, London, SE3",0,0,1
+3500000,5,4,51.652048,-0.220735,"Barnet Road, Barnet, EN5",1,0,0
+3500000,5,3,51.497063,-0.221202,"Brook Green, Brook Green, W6",0,0,1
+3500000,4,2,51.543182,-0.100876,"Canonbury Square, Canonbury, Islington, N1",0,0,1
+3500000,4,4,51.503475,-0.193074,"Dukes Lane, Kensington, W8",0,0,1
+3500000,5,5,51.46444,-0.25753,"Shottfield Avenue, London",1,0,0
+3500000,3,3,51.50538,-0.14818,"Brick Street, Mayfair",0,0,1
+500000,4,1,51.478622,0.147718,"Cray Road, Upper Belvedere, DA17",0,1,0
+3500000,5,2,51.50114,-0.22395,"Poplar Grove, Brook Green, W6",0,0,1
+3500000,6,5,51.667343,-0.164153,"Whitestone Close, Beech Hill, EN4",1,0,0
+3500000,0,0,51.416079,-0.257208,"Coombe Lane West, Kingston-Upon-Thames, KT2",1,0,0
+3499950,6,4,51.545078,-0.219196,"Milverton Road, London, NW6",1,0,0
+3495000,4,3,51.49939,-0.16678,"Montpelier Place, Knightsbridge SW7",0,0,1
+3495000,4,4,51.5146,-0.13368,"St Anne's Court, London W1",0,0,1
+3495000,2,2,51.493279,-0.151467,"Gerald Road, London, SW1W",0,1,0
+3490000,4,3,51.483344,-0.197105,"Rainsborough Square, London, SW6",0,0,1
+3450000,5,4,51.4698,-0.290874,"Lion Gate Gardens, Richmond, Surrey, TW9",1,0,0
+3450000,5,4,51.470382,-0.29334,"Lion Gate Gardens, Kew, Surrey, TW9",1,0,0
+3450000,5,4,51.464587,-0.210892,"Deodar Road, London, SW15",0,1,0
+3450000,4,3,51.538979,-0.172717,"Queensmead, St. John's Wood Park, St John's Wood, London, NW8",0,0,1
+3400000,6,2,51.475334,-0.278754,"West Hall Road, Richmond, Surrey, UK, TW9",1,0,0
+3400000,6,2,51.475802,-0.278928,"West Hall Manor, West Hall Road, Kew, TW9",1,0,0
+495000,3,2,51.483485,0.067657,"Willenhall Road, London",0,0,1
+3395000,6,4,51.4346,-0.2231,"Lincoln Avenue, Wimbledon, SW19",1,0,0
+3395000,6,3,51.574245,-0.189143,"Corringham Road, London",0,0,1
+3350000,5,3,51.426118,-0.21034,"St. Mary's Road, Wimbledon, London, SW19",1,0,0
+3350000,6,5,51.417286,-0.228557,"The Drive, Wimbledon, SW20",0,1,0
+3325000,3,2,51.489688,-0.168466,"St Luke's Street, London, SW3",0,0,1
+3325000,5,2,51.423772,-0.306124,"Lower Ham Road, Kingston upon Thames, KT2",1,0,0
+3300000,5,3,51.464062,-0.146836,"The Chase, London, SW4",0,1,0
+3300000,3,4,51.488873,-0.166999,"Burnsall Street, London",0,0,1
+3300000,4,2,51.491031,-0.164652,"Sprimont Place, London, SW3",0,0,1
+3300000,6,4,51.415874,-0.244595,"Melville Avenue, Wimbledon, London, SW20",1,0,0
+3300000,4,5,51.437028,-0.224337,"Park View, Parkside, Wimbledon, SW19",0,0,1
+3300000,5,4,51.472826,-0.192836,"Bowerdean Street, London, SW6",0,0,1
+3300000,5,4,51.465522,-0.240459,"Queens Ride, Barnes, London, SW13",0,1,0
+3300000,4,5,51.466514,-0.233299,"Queens Ride, Barnes, London",0,1,0
+3295000,3,4,51.51948,-0.16404,"York Street, Marylebone, London",0,0,1
+525000,3,1,51.355755,-0.066339,"Ballards Farm Road, Croydon, CR0",0,0,1
+3295000,5,4,51.628876,-0.311984,"Wood Farm Close, Stanmore",1,0,0
+3250000,4,3,51.484577,-0.160487,"Dilke Street, London, SW3.",0,0,1
+3250000,4,4,51.489573,-0.12952,"Ponsonby Place, SW1P",0,0,1
+3250000,6,3,51.430165,-0.35914,"Park Road, Hampton Hill",1,0,0
+3250000,5,4,51.41399,-0.26362,"Neville Avenue, Kingston upon Thames, Surrey, KT3",1,0,0
+3250000,5,4,51.635539,-0.165765,"Oakleigh Park South, Oakleigh Park, N20",1,0,0
+3250000,6,4,51.451803,-0.05647,"Marmora Road, East Dulwich, London, SE22",0,1,0
+3250000,5,4,51.47496,-0.21578,"Doneraile Street, Bishops Park, Fulham, London, SW6",0,1,0
+3250000,3,3,51.493515,-0.163563,"Rawlings Street, London, SW3",0,0,1
+3250000,6,5,51.520524,-0.301771,"Kings Road, Ealing, London, W5",1,0,0
+3250000,6,4,51.41059,0.07289,School Road Chislehurst BR7,1,0,0
+3250000,5,3,51.500951,-0.205854,"Abbotsbury Close, Holland Park, London, W14",0,0,1
+3250000,6,6,51.666481,-0.165741,"Beech Hill, Hadley Wood, Hertfordshire, EN4",1,0,0
+3250000,4,4,51.542116,-0.154803,"Gloucester Avenue, Primrose Hill, London, NW1",0,0,1
+3250000,6,5,51.662107,-0.174159,"Newmans Way, Hadley Wood, Herts, EN4",1,0,0
+3250000,4,2,51.516781,-0.195424,"Chepstow Road, Notting Hill, London, W2",0,0,1
+3250000,6,3,51.495651,-0.259489,"South Parade, London, W4",0,1,0
+3250000,4,3,51.477924,-0.170493,"Westbridge Road, London, SW11",0,0,1
+3250000,6,4,51.468768,-0.134655,"Larkhall Rise, London, SW4",0,1,0
+3250000,4,3,51.5347,-0.21851,"Chevening Road, Queen's Park, London, NW6",0,1,0
+3250000,6,2,51.418894,-0.233884,"Wool Road, London, SW20",1,0,0
+3250000,6,6,51.52048,-0.3018,"Kings Road, W5",1,0,0

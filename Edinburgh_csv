@@ -1,0 +1,362 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+360000,4,2,55.924016,-3.124061,"30 Lingerwood Lane, Edinburgh, EH16 4WW",1,0,0
+5000000,8,7,55.947026,-3.246776,"Ellersly Road, Edinburgh, EH12",1,0,0
+5000000,8,7,55.946998,-3.246738,"Innerwick House, Murrayfield, Edinburgh, EH12",1,0,0
+5000000,8,7,55.947337,-3.246812,"Ellersly Road, Edinburgh",1,0,0
+2950000,5,5,55.9465,-3.2561,"Belmont Drive, Edinburgh, EH12",1,0,0
+2800000,6,6,55.922936,-3.225923,"Old Craig, Craighouse, Edinburgh, EH10",1,0,0
+2800000,6,1,55.929884,-3.193615,"4 Oswald Road, Grange, EH9 2HF",1,0,0
+2650000,4,5,55.936039,-3.187564,"Lauder Road, Grange, Edinburgh, EH9",1,0,0
+2600000,8,4,55.960494,-3.218863,"Edgebrook, East Fettes Avenue, Inverleith, Edinburgh, EH4",1,0,0
+2500000,5,3,55.94651,-3.23,"Wester Coates Avenue, Murrayfield",1,0,0
+2450000,5,6,55.94562,-3.240859,"Murrayfield, Edinburgh, Midlothian",0,1,0
+2300000,6,2,55.9085,-3.26511,"Benarty House, Colinton",1,0,0
+2250000,5,3,55.956594,-3.17439,"Carlton Terrace, Edinburgh",0,0,1
+2200000,8,6,55.947771,-3.216542,"Palmerston Place, West End, Edinburgh, EH12",0,0,1
+1900000,5,5,55.9499,-3.2147,"Walker House, Edinburgh, EH3",0,0,1
+1800000,0,0,55.954624,-3.198875,"22 Queen Street, Edinburgh, Midlothian, EH2",0,0,1
+1800000,5,3,55.909219,-3.267955,"Spylaw Bank Road, Colinton, Edinburgh, EH13",1,0,0
+1800000,5,3,55.933935,-3.180661,"Dalrymple Crescent, Grange, Edinburgh, EH9",1,0,0
+1750000,5,5,55.975162,-3.296989,"Brighouse Park Gait, Cramond, Edinburgh, EH4",1,0,0
+1650000,8,3,55.907065,-3.263292,"Gillespie Road, Edinburgh, EH13",1,0,0
+1600000,5,3,55.979491,-3.197243,"Park Road, Edinburgh, EH6",0,0,1
+1475000,5,3,55.91145,-3.21289,"Huntersmoon, 50 Pentland Terrace, EH10 6HE",1,0,0
+1450000,4,3,55.948732,-3.213078,"4 Walker Street, West End, Edinburgh, EH3",0,0,1
+324995,3,1,55.89343,-3.15268,"Eliza Wigham Bow,
+Edinburgh,
+EH17 8WX",0,1,0
+211995,3,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",0,0,1
+1450000,5,4,55.963725,-3.203122,"5 Inverleith Terrace, Edinburgh, EH3",0,0,1
+1400000,5,3,55.96428,-3.307364,"Whitehouse Road, Edinburgh",1,0,0
+1400000,4,3,55.950406,-3.215674,"Chester Street, Edinburgh",0,0,1
+1350000,7,5,55.94675,-3.22312,"Magdala Crescent, West End",0,0,1
+1350000,5,4,55.91321,-3.26158,"Lanark Road, Colinton",1,0,0
+1255000,5,4,55.923245,-3.227424,"WC09 - Craighouse, Craighouse Road, Edinburgh, Midlothian",0,0,1
+1250000,5,4,55.923245,-3.227424,"WC06 - Craighouse, Craighouse Road, Edinburgh, Midlothian",0,0,1
+1250000,4,3,55.9319,-3.1792,"Findhorn Place, Edinburgh, Midlothian, EH9",1,0,0
+1250000,5,2,55.932837,-3.169495,"Cobden Crescent, Newington, Edinburgh, EH9",0,1,0
+1230000,5,1,55.92913,-3.16927,"James Gall Wynd, Edinburgh, 
+EH16 5LZ",0,1,0
+1200000,5,4,55.935861,-3.171921,"Alfred Place, Newington, Edinburgh, EH9",0,1,0
+1200000,5,2,55.94854,-3.234753,"2 Upper Coltbridge Terrace, Murrayfield, Edinburgh, EH12",0,1,0
+1200000,5,2,55.94761,-3.24493,"Murrayfield Drive, Edinburgh, EH12",0,0,1
+1100000,3,2,55.95691,-3.195184,"Mews House 2, Abercromby Place, Edinburgh",0,0,1
+1100000,3,2,55.956901,-3.195168,"Mews House 1, Abercromby Place, Edinburgh",0,0,1
+1000000,5,2,55.908152,-3.261803,"10 Pentland Avenue, Colinton, Edinburgh, EH13",1,0,0
+1000000,7,2,55.972317,-3.30582,"Whitehouse Road, Edinburgh",1,0,0
+995000,6,2,55.934436,-3.166395,"Kilmaurs Terrace, Edinburgh, Midlothian",0,1,0
+975000,5,2,55.945622,-3.225968,"Wester House, 8 Osborne Terrace, EDINBURGH, EH12 5HG",1,0,0
+945000,6,2,55.943091,-3.273736,"Kaimes Road, Edinburgh",0,1,0
+564995,4,1,55.95178,-3.30288,"1 Bradshaw Lane,
+Edinburgh,
+EH12 8FR",1,0,0
+900000,3,3,55.979445,-3.197243,"Park Road, Edinburgh, EH6",1,0,0
+895000,5,2,55.93162,-3.213714,"2 Merchiston Bank Gardens, Merchiston, Edinburgh, EH10 5EB",0,0,1
+885000,5,1,55.92913,-3.16927,"James Gall Wynd, Edinburgh, 
+EH16 5LZ",0,0,1
+875000,3,3,55.979467,-3.197276,"Park Road, Edinburgh, EH6",0,1,0
+850000,5,2,55.9565,-3.245712,"Blinkbonny Crescent, Edinburgh, EH4",0,0,1
+825000,5,2,55.920496,-3.211444,"5 Braidburn Crescent, Morningside, EH10 6EL",0,0,1
+775000,11,7,55.964891,-3.179914,"36 Pilrig Street, EH6 5AL",0,0,1
+775000,4,2,55.913545,-3.211901,"17 Riselaw Terrace, Braids, Edinburgh, EH10",1,0,0
+775000,5,3,55.965707,-3.183366,"27 Rosslyn Crescent, Pilrig, Edinburgh, EH6 5AT",0,0,1
+765000,3,1,55.92913,-3.16927,"James Gall Wynd, Edinburgh, 
+EH16 5LZ",0,0,1
+760000,5,3,55.975656,-3.294625,"Brighouse Park Cross, Edinburgh, Midlothian",0,0,1
+750000,5,1,55.941893,-3.268445,"14 Downie Terrace, Corstorphine, EH12 7AU",0,0,1
+750000,5,2,55.926484,-3.233233,"70 Colinton Road, Colinton, Edinburgh, EH14 1AT",0,0,1
+750000,4,2,55.922142,-3.220714,"4 St Clair Terrace, Edinburgh, EH10 5NW",0,0,1
+740000,4,2,55.925972,-3.232416,4 Lockharton Avenue,0,0,1
+740000,4,3,55.956784,-3.269824,"Hillpark Rise, Edinburgh",1,0,0
+730000,5,3,55.90181,-3.26889,"Torphin Road, Colinton, Edinburgh",1,0,0
+725000,4,2,55.967679,-3.225898,"22 Rocheid Park, Inverleith, Edinburgh, EH4",1,0,0
+725000,4,2,55.956012,-3.263092,"Craigcrook Road, Blackhall, Edinburgh, EH4",1,0,0
+725000,4,1,55.921744,-3.219259,"12 St. Ninian's Terrace, Morningside, Edinburgh, EH10 5NL",0,0,1
+715000,3,2,55.957737,-3.190762,"Albany Street Lane, New Town, Edinburgh, EH1",0,0,1
+706000,5,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+700000,5,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+700000,4,3,55.939461,-3.093958,"Brunstane Home Farm, Brunstane Road South, Edinburgh, EH15",0,0,1
+700000,4,2,55.978445,-3.208434,"23 Lomond Road, Trinity, Edinburgh, EH5 3JN",1,0,0
+699995,5,1,55.95178,-3.30288,"1 Bradshaw Lane,
+Edinburgh,
+EH12 8FR",1,0,0
+695000,5,2,55.948422,-3.091882,"27 Seaview Terrace, Joppa,  Edinburgh, EH15 2HD",0,0,1
+685000,4,2,55.969056,-3.310041,"4 Avon Grove, Cramond, Edinburgh, EH4 6RF",1,0,0
+670000,4,2,55.92334,-3.21966,"Plewlands Avenue,Morningside",1,0,0
+665000,5,4,55.968533,-3.160094,"East Restalrig Terrace, Edinburgh, Midlothian",0,0,1
+650000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+639995,5,1,55.95178,-3.30288,"1 Bradshaw Lane,
+Edinburgh,
+EH12 8FR",1,0,0
+625000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+595000,4,3,55.961273,-3.197118,"Eyre Place Lane, Edinburgh, Midlothian",0,0,1
+589995,4,1,55.95178,-3.30288,"1 Bradshaw Lane,
+Edinburgh,
+EH12 8FR",1,0,0
+575000,3,2,55.945359,-3.101899,"62 Brunstane Road, Portobello, Edinburgh EH15 2QR",0,0,1
+565000,3,2,55.958553,-3.225872,"Flora Cottage, 177 Comely Bank Road, Edinburgh, EH4",1,0,0
+562000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+560000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+550000,4,2,55.972951,-3.213441,"11 Rosebank Gardens, Trinity, Edinburgh, EH5 3QR",0,1,0
+550000,2,2,55.951971,-3.232336,"The Lodge House, 5B Ravelston Dykes, Ravelston, Edinburgh, EH4",1,0,0
+550000,3,2,55.934036,-3.232291,"8 Shandon Crescent, Shandon, Edinburgh, EH11 1QE",0,0,1
+550000,5,2,55.963776,-3.291676,"122 Barnton Park Avenue, Barnton, Edinburgh, EH4 6HE",1,0,0
+540000,4,2,55.944671,-3.289195,"10 Templeland Road, Corstorphine, EH12 8RP",0,1,0
+525000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+515000,3,0,55.972873,-3.301954,"Cramond Park, Edinburgh",1,0,0
+509995,5,3,55.895677,-3.138103,"The Rossie, Edgelaw, Edinburgh, EH17 8SD",1,0,0
+505000,5,3,55.95018,-3.298609,"10 Craigmount Drive, EDINBURGH, EH12 8DB",0,1,0
+500000,5,1,55.89563,-3.1382,"Lasswade Road, Edinburgh, 
+EH17 8SD",1,0,0
+500000,5,2,55.962636,-3.289159,"11 Barnton Park Place, Edinburgh, EH4 6ET",0,1,0
+500000,4,2,55.924355,-3.164924,"7 Old Mill Lane, Edinburgh , EH16",1,0,0
+495000,5,2,55.960592,-3.247107,"Telford Road, Craigleith, Edinburgh, EH4",1,0,0
+485000,4,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+480000,3,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",1,0,0
+475000,3,2,55.968817,-3.282299,"2 Northlawn Terrace, Barnton, Edinburgh, EH4 6SD",0,0,1
+475000,5,0,55.942171,-3.09709,"Daiches Braes, Edinburgh, EH15",1,0,0
+469995,4,3,55.896243,-3.143555,"The Pringle, Highbrae at Langloan, Edinburgh, EH17 8SG",1,0,0
+465000,4,2,55.905152,-3.243951,"35 Redford Avenue, Colinton, Edinburgh, EH13 0BX",0,1,0
+460000,4,1,55.89675,-3.14303,"Off Lang Loan, Edinburgh, EH17 8XF",1,0,0
+452995,4,1,55.89343,-3.15268,"Eliza Wigham Bow,
+Edinburgh,
+EH17 8WX",1,0,0
+450000,3,2,55.958122,-3.279911,"58 Clermiston Road North, Edinburgh, EH4 7BN",0,1,0
+449995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+445000,4,3,55.897908,-3.136547,"28 Fordell Road, Gilmerton, Edinburgh, EH17 8XZ",1,0,0
+436000,3,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",0,1,0
+430000,3,1,55.96212,-3.29036,"38 Barnton Park Avenue, Barnton, Edinburgh, EH4 6ES",0,1,0
+429995,4,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",1,0,0
+426995,5,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+425000,3,1,55.945022,-3.228966,"9 West Catherine Place, West End, Edinburgh, EH12 5HZ",0,0,1
+421995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+420000,3,1,55.932459,-3.226978,"48 Ogilvie Terrace, Edinburgh, EH11 1NP",0,0,1
+419995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+416995,4,1,55.89343,-3.15268,"Eliza Wigham Bow,
+Edinburgh,
+EH17 8WX",1,0,0
+415995,4,1,55.89343,-3.15268,"Eliza Wigham Bow,
+Edinburgh,
+EH17 8WX",1,0,0
+405995,5,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",1,0,0
+400000,5,2,55.905962,-3.173141,"25 Alnwickhill Terrace, Liberton, Edinburgh, EH16 6YD",1,0,0
+399999,4,2,55.935429,-3.114984,"188 Duddingston Park South, Edinburgh, EH15 3EH",1,0,0
+399995,4,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",1,0,0
+399000,3,1,55.91345,-3.171755,"14 Clackmae Road, Liberton, Edinburgh, EH16 6NZ",0,1,0
+397000,3,1,55.94133,-3.31389,"Maybury Road, 
+Maybury, 
+Edinburgh, 
+EH12 8NE",0,1,0
+395000,2,1,55.959463,-3.184255,"Gayfield Place Lane, New Town, Edinburgh, EH1",0,0,1
+389995,4,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+384995,3,1,55.95178,-3.30288,"1 Bradshaw Lane,
+Edinburgh,
+EH12 8FR",0,1,0
+380000,4,3,55.92653,-3.275836,"West Fairbrae Crescent, Edinburgh, EH11 3SX",1,0,0
+379995,3,1,55.89951,-3.16502,"Frogston Road East,
+Edinburgh,
+EH17",0,0,1
+378995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+375000,3,1,55.9238,-3.247237,"4 Lanark Road, Edinburgh, EH14 1TQ",0,1,0
+372000,4,1,55.89563,-3.1382,"Off Gilmerton Station Road, 
+South Gilmerton, Edinburgh
+EH17 8SD",1,0,0
+370000,4,2,55.911115,-3.144298,"265 Guardwell Crescent, Liberton, EDINBURGH, EH17 7SL",1,0,0
+370000,2,1,55.90792,-3.256727,"Spylaw Street, Edinburgh",1,0,0
+275000,3,2,55.902604,-3.126455,"6 Lugton Terrace, Edinburgh, EH17 8GU",0,0,1
+365000,2,1,55.942428,-3.287844,"18 Featherhall Grove, Corstorphine, Edinburgh, EH12 7TH",0,1,0
+365000,3,2,55.90965,-3.159821,"54 Little Road, Edinburgh, EH16 6SQ",0,1,0
+365000,4,2,55.897809,-3.140347,"11 Combe Road, Edinburgh, EH17 8YZ",1,0,0
+362995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+361995,4,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",1,0,0
+360000,4,3,55.982967,-3.193092,"Windrush Drive, Edinburgh, Midlothian",0,0,1
+359995,4,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+358995,3,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",1,0,0
+355995,3,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",1,0,0
+354995,4,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+352995,4,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+350000,2,1,55.932005,-3.239113,"31 Moat Street, Edinburgh, EH14 1PE,",1,0,0
+350000,3,2,55.935656,-3.284393,"84 Ladywell Avenue, Edinburgh, EH12 7LN",0,1,0
+350000,3,1,55.950804,-3.281207,"7 Clerwood Place, Corstorphine, EH12 8PJ",0,1,0
+350000,3,2,55.927066,-3.209874,"Development Opportunity, Jordan Lane, Morningside, Edinburgh",1,0,0
+350000,3,1,55.972847,-3.306666,"31 Fair A Far, Cramond, Edinburgh, EH4 6QB",0,0,1
+345995,4,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",1,0,0
+345000,3,1,55.955353,-3.281774,"71 Fox Covert Avenue, Edinburgh, EH12 6UH",0,1,0
+345000,4,2,55.96388,-3.178885,"18 Spey Street, Edinburgh, EH7 4PY",0,0,1
+339995,4,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",1,0,0
+338995,3,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",0,1,0
+338995,3,1,55.89951,-3.16502,"Frogston Road East,
+Edinburgh,
+EH17",0,0,1
+337995,3,1,55.89563,-3.1382,"Lasswade Road,
+Gilmerton,
+Edinburgh,
+EH17 8SD",0,1,0
+337995,3,1,55.89951,-3.16502,"Frogston Road East,
+Edinburgh,
+EH17",0,0,1
+337995,3,1,55.90027,-3.13178,"Bannerman Cruick,
+Edinburgh,
+EH17 8SH",0,1,0
+335995,4,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",1,0,0
+330000,3,1,55.936098,-3.307377,"8 Gogarloch Syke, EDINBURGH, EH12 9JB",0,1,0
+327995,3,1,55.89343,-3.15268,"Eliza Wigham Bow,
+Edinburgh,
+EH17 8WX",0,1,0
+325000,4,1,55.92994,-3.12992,"Greendykes Road,
+Edinburgh,
+EH16 4JN",0,0,1
+316995,4,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+315000,4,1,55.953582,-3.285687,"Ransome Gardens, Edinburgh, EH4",0,1,0
+309995,3,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",1,0,0
+309000,3,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",1,0,0
+305000,3,2,55.927198,-3.264635,"Armstrong Road, Longstone, Edinburgh, EH14",0,0,1
+300000,4,2,55.925529,-3.120271,"Nealands Road, The Wisp, Edinburgh, EH16",0,1,0
+300000,3,1,55.935299,-3.303875,"290 South Gyle Road, South Gyle, Edinburgh, EH12 9DU",0,1,0
+295000,4,2,55.934614,-3.112756,"Cleekim Drive, Edinburgh, EH15",0,1,0
+295000,3,1,55.89563,-3.1382,"Off Gilmerton Station Road, 
+South Gilmerton, Edinburgh
+EH17 8SD",0,1,0
+295000,5,2,55.963013,-3.240136,"109 Telford Road, Craigleith, Edinburgh EH4 2PX",0,0,1
+290000,3,1,55.931593,-3.239884,"25 Moat Terrace, Edinburgh, EH14",0,1,0
+290000,3,1,55.904774,-3.129212,"13 Candlemaker’s Park, Gilmerton, EH17 8TH",1,0,0
+280000,3,2,55.950096,-3.138612,"Northfield Circus, Edinburgh, EH8",0,1,0
+280000,3,1,55.898673,-3.166155,"4 Greenwell Wynd, Edinburgh, EH17 8GH",0,0,1
+280000,3,1,55.89993,-3.1588,"Greenwelll Wynd, Burdiehouse, Edinburgh, EH17",0,0,1
+279000,3,1,55.955649,-3.131989,"12 Parker Avenue, Craigentinny, Edinburgh",0,1,0
+275000,3,2,55.935112,-3.11283,"Cleekim Drive, Edinburgh, Midlothian, EH15",0,1,0
+275000,4,2,55.941378,-3.111857,"Magdalene Gardens, Edinburgh, Midlothian, EH15",0,1,0
+275000,3,2,55.934647,-3.109967,"3 Blackchapel Close, Newcraighall, Edinburgh, EH15 3SJ",0,1,0
+275000,2,1,55.899799,-3.227318,"130 Swanston Muir, Swanston, EH10 7HY",0,1,0
+270000,3,1,55.901264,-3.166607,"2 Mortonhall Park Terrace, Mortonhall, Edinburgh EH17 8SU",0,1,0
+270000,3,1,55.91017,-3.147886,"76 Ellen's Glen Loan, Liberton, EDINBURGH, EH17 7QN",0,0,1
+270000,2,1,55.935299,-3.303875,"362 South Gyle Road, South Gyle, Edinburgh, EH12 9DU",0,0,1
+269995,3,1,55.90158,-3.12622,"Gilmerton Station Road,
+Edinburgh,
+EH17",0,1,0
+265000,4,1,55.974229,-3.247434,"West Pilton Loan, West Pilton, Edinburgh, EH4",0,1,0
+265000,3,2,55.915937,-3.133928,"39A Craigour Drive, Little France, Edinburgh, EH17 7NU",0,1,0
+265000,3,2,55.915937,-3.133928,"39 Craigour Drive, Little France, Edinburgh, EH17 7NU",0,1,0
+260000,3,1,55.928452,-3.125796,"16 Princess Mary Road, Craigmillar, Edinburgh, EH16 4FU",0,1,0
+255000,3,2,55.932058,-3.157498,"Clearburn Road, Prestonfield, Edinburgh, EH16",0,0,1
+255000,3,1,55.9227,-3.15029,"Hazelwood Grove, The Inch, Edinburgh, EH16",0,0,1
+252995,3,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",0,0,1
+250000,3,2,55.935663,-3.1099,"128 Peacocktail Close, EDINBURGH, EH15 3QT",0,1,0
+250000,2,1,55.93545,-3.292994,"46 Wester Broom Drive, Edinburgh, EH12 7RF",0,1,0
+250000,3,1,55.935088,-3.295752,"194 South Gyle Wynd, South Gyle, Edinburgh, EH12 9HN",0,0,1
+250000,3,2,55.92846,-3.12508,"Egan Terrace, Edinburgh, EH16",0,0,1
+249000,2,1,55.90536,-3.198481,"6 Buckstone Close, Buckstone, Edinburgh",0,0,1
+248000,2,1,55.92994,-3.12992,"Greendykes Road,
+Edinburgh,
+EH16 4JN",0,0,1
+245000,3,2,55.930169,-3.12861,"Tudsbery Avenue, Edinburgh, EH16",0,0,1
+245000,3,2,55.925919,-3.116794,"43 Milligan Road, The Wisp, Edinburgh, EH16 4ZD",0,0,1
+240000,3,1,55.906732,-3.127006,"Candlemaker's Park, Edinburgh, EH17",0,1,0
+240000,2,1,55.90788,-3.131118,"Ferniehill Square, Edinburgh, EH17",0,0,1
+235000,3,2,55.928495,-3.12495,"26 Egan Terrace, Edinburgh, EH16 4FR",0,0,1
+230000,3,1,55.938,-3.111808,"73 Vexhim Park, Duddingston, Edinburgh, EH15 3SD",0,1,0
+225000,3,1,55.903435,-3.143015,"67 Gilmerton Dykes Drive, Edinburgh, EH17",0,1,0
+225000,3,1,55.912888,-3.129424,"83 Fernieside Crescent, Ferniehill, Edinburgh, EH17 7DJ",0,1,0
+225000,2,1,55.954174,-3.297677,"125 Drum Brae North, Edinburgh, EH4 8DB",0,0,1
+220000,2,1,55.935428,-3.126942,"22 Collier Place, Niddrie Edinburgh, EH16 4PZ",1,0,0
+214995,2,1,55.92921,-3.11197,"The Wisp,
+Edinburgh,
+EH16",0,0,1
+210000,2,1,55.918048,-3.135647,"Upper Craigour, Liberton, Edinburgh, EH17",0,1,0
+200000,3,2,55.891922,-3.160107,"4 Shale Road, Edinburgh, EH17 8FA",0,0,1
+200000,2,1,55.90446,-3.227421,"Oxgangs Farm Avenue, Oxgangs, Edinburgh, EH13",0,0,1
+200000,3,1,55.902789,-3.142204,"5 Kilngate Brae, Edinburgh, EH17 8UU",0,1,0
+195000,2,1,55.965044,-3.257932,"125 Wester Drylaw Place, Drylaw, Edinburgh, EH4 2TQ",0,0,1
+190000,2,1,55.900653,-3.140679,"37 East Kilngate Place, Edinburgh, EH17 8UR",0,1,0
+190000,3,1,55.905526,-3.161808,"70 St. Katharine's Crescent, Gracemount, Edinburgh, EH16 6PZ",0,1,0
+190000,3,1,55.928836,-3.282275,"27 Broomhouse Street North, Broomhouse, EH11 3SB",0,0,1
+185000,2,1,55.939714,-3.110153,"Hosie Rigg, Duddingston, Edinburgh, EH15",0,0,1
+185000,2,1,55.962346,-3.252802,"88 Wester Drylaw Drive, Drylaw, Edinburgh, EH4 2ST",0,0,1
+180000,1,1,55.945126,-3.201248,"9 Lauriston Street, Edinburgh, EH3",0,1,0
+180000,2,1,55.974661,-3.248088,"West Pilton Drive, Edinburgh, EH4",0,1,0
+172000,2,1,55.90657,-3.155714,"17 Linden Avenue, Gracemount, Edinburgh, EH16 6FA",0,1,0
