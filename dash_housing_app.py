@@ -27,7 +27,7 @@ city_list = [
     "York",
 ]
 
-app = Dash(__name__, requests_pathname_prefix='/house_prices/', external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = html.Div(
     [
