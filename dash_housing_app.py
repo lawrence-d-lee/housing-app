@@ -3,6 +3,7 @@ from dash import dcc
 from dash import html
 import pandas as pd
 import numpy as np
+import flask
 from dash.dependencies import Output, Input
 import plotly.express as px
 import dash_leaflet as dl
@@ -27,7 +28,8 @@ city_list = [
     "York",
 ]
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = flask.Flask(__name__)
+app = Dash(__name__, server=server, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = html.Div(
     [
@@ -150,5 +152,4 @@ def map_click(
 
 
 if __name__ == "__main__":
-    app.run_server(#mode="inline", 
-                   port=8060)
+    app.run_server(debug=False, host='0.0.0.0', port=8050)
