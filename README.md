@@ -17,5 +17,5 @@ Then, either click on the location given on the terminal or visit http://localho
 ```
 1. cd dash-deployment
 2. python  dash_housing app
-``'
+```
 
