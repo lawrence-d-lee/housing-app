@@ -14,6 +14,6 @@ To run the app, clone the repo to your desktop.
 ### Run the app without Docker
 ```
 1. cd dash-deployment
-2. python  dash_housing app
+2. python dash_housing app
 ```
 Then, either click on the location given on the terminal or visit http://localhost:8050/ to view the app.
