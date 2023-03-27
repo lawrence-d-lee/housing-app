@@ -16,7 +16,7 @@ To run the app, clone the repo to your desktop.
 1. cd dash-deployment
 2. python -m venv venv
 3. venv\Scripts\activate
-4. pip install -requirements.txt
+4. pip install -r requirements.txt
 5. python dash_housing app
 ```
 Then, either click on the location given on the terminal or visit http://localhost:8050/ to view the app.
