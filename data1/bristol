@@ -1,0 +1,784 @@
+Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
+425000,3,1,51.46338,-2.54183,"St George, Bristol",0,0,1
+2250000,6,3,51.47343,-2.627289,Downleaze | Stoke Bishop,0,1,0
+1950000,5,3,51.477801,-2.615141,"Westbury Park, Bristol, BS6",0,1,0
+1850000,7,4,51.456417,-2.61763,"Mortimer Road, Clifton, Bristol, BS8",0,1,0
+1850000,6,6,51.454739,-2.605976,"Berkeley Square, Clifton, Bristol, BS8",0,0,1
+1695000,6,3,51.475917,-2.633293,"Church Road, Sneyd Park, Bristol, BS9",0,1,0
+1695000,5,3,51.457078,-2.615682,"Royal Park, Clifton, Bristol, BS8",0,0,1
+1500000,7,2,51.462645,-2.594028,"Somerset Street, Kingsdown, Bristol, BS2",0,0,1
+1500000,7,2,51.469335,-2.58067,"Cobourg Road, Montpelier, Bristol, BS6",1,0,0
+1350000,5,3,51.4631,-2.6114,"Alma Road, Clifton, Bristol, BS8",0,0,1
+1350000,5,2,51.487686,-2.612467,"Henleaze Nr The Downs & Redmaids, Badminton Schools",1,0,0
+1350000,4,0,51.462619,-2.594113,"Spring Hill, Kingsdown, Bristol, BS2",0,0,1
+1350000,4,2,51.487617,-2.613115,"Grange Court Road, Henleaze, Bristol, BS9",1,0,0
+1350000,5,3,51.485115,-2.637446,"Shirehampton Road, Stoke Bishop",1,0,0
+1325000,13,0,51.47052,-2.60347,Clarendon Road,0,1,0
+1250000,5,1,51.466534,-2.612461,Hurle Road | Clifton,0,1,0
+1250000,6,3,51.464125,-2.59337,"Fremantle Square, Cotham, Bristol, BS6",0,1,0
+1250000,4,2,51.479858,-2.63754,"Old Sneed Avenue, Bristol",1,0,0
+1250000,6,3,51.484454,-2.611881,"Holmes Grove, Henleaze, Bristol, BS9",1,0,0
+1200000,4,2,51.48679,-2.620665,"Great Brockeridge, Westbury On Trym",1,0,0
+405000,3,2,51.479744,-2.509143,Kendall Gardens Staple Hill,0,1,0
+575000,4,2,51.487029,-2.649183,"St. Edyths Road, Bristol",0,0,1
+1200000,4,2,51.46978,-2.617671,"Upper Belgrave Road, Clifton",0,0,1
+1150000,5,3,51.456248,-2.612757,"Gordon Road, Clifton, Bristol, BS8",0,0,1
+1100000,5,2,51.472679,-2.588784,Effingham Road | St Andrews,0,1,0
+1075000,5,3,51.489315,-2.619785,"Falcondale Road, Westbury-on-Trym",1,0,0
+1075000,3,2,51.477926,-2.6357,"Druid Road, Stoke Bishop, Bristol",1,0,0
+1050000,4,2,51.477493,-2.588748,"Sunshine House, Brynland Avenue, Bishopston, Bristol",0,1,0
+1025000,4,2,51.48895,-2.622929,"Downs Cote Drive, Westbury On Trym",1,0,0
+1000000,6,5,51.47252,-2.630308,"Rockleaze Road, Sneyd Park ",0,1,0
+1000000,4,2,51.504877,-2.618671,"Sheepwood Road, Bristol, Somerset, BS10",1,0,0
+1000000,6,2,51.462345,-2.611174,"Alma Road Avenue, Clifton, Bristol, BS8",0,0,1
+999500,4,2,51.44729,-2.618334,Nova Scotia Place | Harbourside,0,0,1
+975000,5,3,51.483635,-2.607172,Springfield Grove | Westbury Park,0,1,0
+950000,0,0,51.469355,-2.596611,"Zetland Road, Redland",1,0,0
+950000,4,2,51.50045,-2.62346,"College Park Drive, Bristol",1,0,0
+950000,4,2,51.469608,-2.59184,Cromwell Road | St Andrews,0,1,0
+925000,4,2,51.487064,-2.610127,"Antrim Road, Henleaze",0,1,0
+900000,5,2,51.474741,-2.598421,"Claremont Avenue, Bristol, BS7",0,0,1
+425000,2,2,51.495416,-2.581026,"Doone Road, Horfield, Bristol",0,0,1
+899950,4,3,51.46035,-2.6016,"St. Michaels Hill, Kingsdown, Bristol, BS2",0,0,1
+875000,4,2,51.498864,-2.618484,"Eastover Close, Bristol, BS9",0,1,0
+875000,4,2,51.466644,-2.607061,"Hampton Road, Redland, BRISTOL, BS6",0,1,0
+875000,4,2,51.495201,-2.641698,"Grove Road, Coombe Dingle.",1,0,0
+850000,4,2,51.4482,-2.591693,Redcliffe Parade East | Harbourside,0,0,1
+850000,4,2,51.479465,-2.609441,"Linden Road, Westbury Park",0,0,1
+850000,4,1,51.473734,-2.61125,"Coldharbour Road, Bristol, BS6",0,1,0
+850000,5,3,51.450655,-2.620782,"Hotwells Road, Bristol, Somerset, BS8",0,0,1
+850000,4,2,51.493972,-2.526242,"The Newlands, Bristol, Gloucestershire, BS16",1,0,0
+835000,3,2,51.443269,-2.605496,"Stackpool Road, Southville, Bristol, BS3",0,0,1
+825000,5,2,51.489334,-2.639801,"Bell Barn Road, Stoke Bishop, Bristol, BS9",0,1,0
+825000,4,1,51.478712,-2.610433,"St. Albans Road, Bristol, BS6",0,0,1
+800000,0,0,51.451306,-2.594167,"Queen Square, Bristol, BS1",0,0,1
+800000,5,3,51.45038,-2.54938,"Highworth Road, Bristol, BS4",1,0,0
+800000,5,3,51.474276,-2.610614,"Coldharbour Road, Redland, Bristol, BS6",0,0,1
+385000,3,1,51.470922,-2.575136,"Mercia Drive, St Werburgh's, Bristol",0,0,1
+799000,5,4,51.51099,-2.62043,"Passage Road, Bristol",1,0,0
+795000,4,2,51.48088,-2.611931,"Northumbria Drive, Henleaze",1,0,0
+795000,3,1,51.482936,-2.613905,"Henleaze Road, Henleaze, Bristol BS9",1,0,0
+785000,3,2,51.447418,-2.596491,"Draycot Place, Merchants Landing, BS1 ",1,0,0
+779995,4,2,51.494834,-2.527298,"Begbrook Park, Frenchay, Bristol, BS16",1,0,0
+775000,3,1,51.474715,-2.593706,"Codrington Road, Bishopston, Bristol, BS7",0,1,0
+775000,3,1,51.490669,-2.635638,"Rayleigh Road, Stoke Bishop",0,1,0
+775000,4,2,51.474011,-2.588987,"Belmont Road, St. Andrews, Bristol",0,1,0
+775000,5,2,51.454104,-2.598965,"Orchard Street, Bristol, BS1",0,0,1
+775000,3,1,51.478078,-2.602529,"Birchall Road, Bristol, BS6",0,1,0
+765000,3,1,51.450757,-2.609904,"Southernhay Avenue, Clifton Wood, Bristol, BS8",0,0,1
+760000,5,3,51.470172,-2.582083,"Fairlawn Road, Montpelier",0,0,1
+760000,5,3,51.481292,-2.585312,"Dongola Road, Bishopston, Bristol",0,0,1
+750000,4,2,51.470592,-2.583549,"Hurlingham Road, Bristol",0,1,0
+750000,4,2,51.49765,-2.643815,"Benville Avenue, Coombe Dingle, Bristol, BS9",1,0,0
+750000,4,2,51.478728,-2.491529,"Charnhill Crescent, Mangotsfield, Bristol, Gloucestershire, BS16",1,0,0
+750000,4,2,51.45411,-2.599115,Orchard Street | City Centre,0,1,0
+750000,4,3,51.488445,-2.586827,"Rosling Road, Horfield, Bristol",0,1,0
+750000,5,2,51.44499,-2.60299,"Osborne Road, Southville, Bristol, BS3",0,1,0
+749000,3,1,51.479281,-2.645851,"Newcombe Drive, Bristol, BS9",0,1,0
+735000,3,2,51.474478,-2.584295,"Sefton Park Road, St Andrews, Bristol, BS7",0,0,1
+730000,8,5,51.500572,-2.699511,"Gloucester Road, Avonmouth",0,1,0
+360000,2,1,51.440143,-2.582923,"Monmouth Street, Victoria Park, Bristol",0,0,1
+730000,6,0,51.418266,-2.560132,"Wells Road, Whitchurch",1,0,0
+725000,3,2,51.485191,-2.627695,"Withey Close West, Westbury-on-Trym",0,1,0
+725000,4,1,51.493884,-2.623125,"Canford Lane, Westbury-on-Trym, Bristol, BS9",0,1,0
+725000,4,3,51.437496,-2.575408,"Rookery Road, Knowle",0,0,1
+725000,4,2,51.494237,-2.604915,"Lake Road, Westbury-On-Trym, Bristol, BS10",0,1,0
+720000,5,2,51.480487,-2.605194,"Coldharbour Road, Westbury Park, Bristol BS6",0,0,1
+715000,4,3,51.476348,-2.581431,"Sefton Park Road, Bishopston",0,0,1
+715000,4,3,51.454909,-2.610391,"Lower Clifton Hill, Clifton, Bristol, BS8",0,0,1
+700000,5,2,51.478896,-2.544992,"Everest Road, Fishponds, Bristol",0,1,0
+700000,4,2,51.494261,-2.621565,"Falcondale Road, Bristol, BS9",0,1,0
+700000,4,2,51.47838,-2.596616,Cornwall Road | Bishopston,0,0,1
+700000,2,1,51.45361,-2.62325,"Princess Victoria Street, Bristol",0,0,1
+700000,4,1,51.478845,-2.554521,"Welsford Avenue, Bristol",1,0,0
+699990,5,4,51.445838,-2.542091,"Harrys Orchard, Searle Court Avenue, Brislington, BS4",1,0,0
+699000,4,2,51.492764,-2.531082,"Sterncourt Road, Frenchay, Bristol, BS16",1,0,0
+695000,4,3,51.450666,-2.61478,"Ambra Vale East, Clifton Wood, Bristol, BS8",0,0,1
+695000,3,1,51.479053,-2.613649,Berkeley Road | Westbury Park,0,0,1
+695000,2,1,51.470331,-2.606724,"Lower Redland Road, Redland, Bristol, BS6",0,1,0
+689995,4,2,51.499332,-2.511124,"Scantleberry Close, Downend, Bristol",1,0,0
+675000,5,3,51.468418,-2.609086,HOUSE | UPDATING | REDLAND,0,0,1
+675000,3,2,51.480258,-2.586542,"Dongola Road, Bishopston, Bristol",0,0,1
+675000,5,3,51.436192,-2.596015,"Cotswold Road, Windmill Hill, Bristol",0,0,1
+675000,4,3,51.441344,-2.605365,"Fairfield Road, Southville, BRISTOL",0,0,1
+660000,6,3,51.441686,-2.574071,"Summer Hill, Bristol, BS4",0,0,1
+660000,4,4,51.452651,-2.516919,"Tree Rise, Hanham",1,0,0
+660000,4,2,51.480525,-2.594535,"Monk Road, Bristol",0,0,1
+654995,5,2,51.441424,-2.627763,"Blackmoors Lane, Bower Ashton, Bristol, BS3",0,1,0
+650000,3,2,51.441049,-2.629569,"Rownham Close, Bower Ashton, BRISTOL, BS3",0,1,0
+650000,5,1,51.481433,-2.511162,"High Street, Staple Hill, Bristol, Gloucestershire, BS16",0,0,1
+650000,4,2,51.476776,-2.589413,"Brynland Avenue, Bishopston",0,1,0
+650000,4,3,51.503131,-2.648897,"Quarry Lane, Kings Weston, Bristol BS11",1,0,0
+650000,4,1,51.44896,-2.52562,"Jeffries Hill Bottom, Hanham, Bristol, BS15 3BE",1,0,0
+650000,3,1,51.482875,-2.608013,"Farne Close, Bristol, BS9",0,1,0
+650000,4,2,51.497695,-2.511504,"Heathfields, Downend, Bristol, BS16",1,0,0
+650000,3,1,51.489645,-2.602391,"Hill Grove, Bristol, BS9",0,1,0
+650000,3,2,51.4375,-2.576419,"Sylvia Avenue, Knowle, Bristol",0,0,1
+650000,6,3,51.420326,-2.61739,"Bishopsworth Road, Bedminster Down, Bristol, BS13",0,1,0
+305000,3,1,51.471957,-2.493285,"Willis Road, Kingswood, Bristol, BS15",0,1,0
+650000,4,4,51.441177,-2.516496,"Tree Rise, Hanham",1,0,0
+645000,3,3,51.455055,-2.581265,"The Square, Old Market",0,0,1
+645000,3,1,51.479245,-2.588583,"Brynland Avenue, Bristol, BS7",0,1,0
+645000,4,2,51.48728,-2.545646,"Brook Lane, Stapleton, Bristol, BS16",0,1,0
+639950,3,1,51.474964,-2.598908,"Claremont Avenue, Bristol",0,1,0
+635000,4,2,51.481708,-2.586074,"Brynland Avenue, Bishopston",0,0,1
+630000,3,1,51.494312,-2.597916,"Cherington Road, Westbury-On-Trym",0,1,0
+625000,3,2,51.473854,-2.639265,Chancel Close | Sneyd Park,1,0,0
+625000,3,1,51.478363,-2.646764,"Sabrina Way, Stoke Bishop",0,1,0
+625000,3,1,51.43541,-2.61265,"Colliter Crescent, Ashton, Bristol",1,0,0
+625000,6,3,51.494293,-2.579192,BLOCK OF FLATS | £50K | BS7,1,0,0
+625000,3,1,51.474849,-2.600517,"Cranbrook Road, Redland, Bristol",0,0,1
+625000,3,3,51.455051,-2.58127,"The Square, Old Market",0,0,1
+625000,3,2,51.423118,-2.624825,"Bridgwater Road, Uplands, Bristol, BS13",1,0,0
+625000,3,1,51.493469,-2.632665,"Sandyleaze, Bristol, BS9",0,1,0
+625000,3,1,51.490577,-2.641525,"Coombe Bridge Avenue, Stoke Bishop, Bristol, BS9",0,1,0
+617500,3,1,51.492678,-2.62079,"Lampeter Road, Westbury On Trym, Bristol",0,1,0
+615000,3,1,51.491722,-2.602396,"Cransley Crescent, Henleaze, Bristol BS9",0,1,0
+615000,4,2,51.467525,-2.560256,"Packers Way, Greenbank, Bristol, BS5",0,0,1
+600000,4,2,51.484812,-2.4986,"Mayflower Court, Staple Hill, Bristol",1,0,0
+600000,3,1,51.489071,-2.641782,Coombe Bridge Avenue | Stoke Bishop,0,1,0
+600000,5,2,51.437854,-2.614928,"Duckmoor Road, Ashton",0,0,1
+600000,4,1,51.493946,-2.600124,"Woodchester Road, Bristol",0,1,0
+600000,5,3,51.452087,-2.518059,"Harolds Way, Bristol",1,0,0
+599995,3,1,51.437458,-2.573173,"Belluton Road, Upper Knowle, Bristol",0,0,1
+599995,4,4,51.404812,-2.551838,"Staunton Lane, Bristol, BS14",0,1,0
+599995,4,2,51.434913,-2.575588,"Stoneleigh Road, Knowle, Bristol",0,0,1
+599950,4,3,51.415916,-2.559137,"Badgers Holt, Bristol, BS14",1,0,0
+595000,3,2,51.46738,-2.58587,"York Road, Montpelier, Bristol",0,0,1
+595000,3,2,51.467525,-2.560256,"Packers Way, Co-Operation Road, Greenbank, Bristol, BS5",0,0,1
+595000,3,2,51.467066,-2.556235,"Packers Way, Greenbank, Bristol, BS5",0,0,1
+595000,5,2,51.435914,-2.553354,"Bath Road, Brislington, BS4",0,1,0
+585000,3,1,51.495652,-2.645664,"Arbutus Drive, Coombe Dingle, Bristol",0,1,0
+585000,3,2,51.494171,-2.611754,"Pinewood Close, Westbury on Trym",0,1,0
+579000,3,1,51.479277,-2.64674,"Roman Way, Bristol, BS9",1,0,0
+575000,4,2,51.49253,-2.60736,BS9 4AT,0,0,1
+575000,4,0,51.49806,-2.52345,"Briggs Road, Frenchay, Bristol, BS16",1,0,0
+575000,4,2,51.441969,-2.6048,"Greville Street, Southville, BS3",0,0,1
+575000,4,2,51.45113,-2.52248,"John Wesley Road, Bristol",0,1,0
+575000,3,3,51.452651,-2.516919,"Tree Rise, Hanham",1,0,0
+575000,3,1,51.436688,-2.616768,"Bower Road, Ashton, BS3",0,1,0
+575000,4,1,51.498402,-2.52341,"Briggs Road, Frenchay, Bristol",1,0,0
+575000,4,2,51.483882,-2.589062,"Ash Road, Horfield, Bristol",0,0,1
+575000,3,1,51.483226,-2.594265,"Maple Road, Bristol, BS7",0,0,1
+565000,3,1,51.481037,-2.611431,"Brean Down Avenue, Henleaze, Bristol, BS9",0,1,0
+565000,3,1,51.49177,-2.61628,"Eastfield Road, Westbury-on-trym, Bristol",0,0,1
+560000,4,2,51.489888,-2.511434,"Cave Drive, Bristol, BS16",1,0,0
+560000,4,2,51.437306,-2.55733,"Bath Road, Brislington, Bristol",0,1,0
+560000,4,2,51.496326,-2.606682,"Lakewood Crescent, Westbury-on-Trym",0,1,0
+559950,4,2,51.466563,-2.554591,"Bruce Cole Lane, Co-Operation Road, Greenbank, Bristol, BS5",0,0,1
+550000,4,2,51.485015,-2.499443,"Chesterfield Road, Downend, Bristol",0,1,0
+550000,3,2,51.44488,-2.60774,"Beauley Road, Bristol",0,1,0
+550000,3,2,51.473209,-2.577198,"Mina Road, Bristol",0,0,1
+550000,4,1,51.4482,-2.49266,"Davis Close, Barrs Court, Bristol",1,0,0
+550000,5,1,51.45097,-2.51788,"Tabernacle Road, Bristol, BS15",0,1,0
+550000,3,1,51.442664,-2.61171,"Lime Road, Southville, BRISTOL, BS3",0,0,1
+550000,5,2,51.490369,-2.674322,"The Ridge, Shirehampton, Bristol",0,1,0
+550000,3,1,51.491215,-2.616886,"Bellevue Cottages, Westbury-on-Trym, Bristol",0,0,1
+550000,3,2,51.437519,-2.611482,"Aubrey Road, Bedminster",0,0,1
+550000,3,0,51.405529,-2.550517,"Manor Farm Barns, Whitchurch Village",0,1,0
+550000,4,2,51.44012,-2.55099,"Wick Crescent, Brislington, Bristol, BS4",0,1,0
+550000,4,2,51.448146,-2.491578,"Causley Drive, Barrs Court, Bristol",1,0,0
+550000,4,2,51.498342,-2.526687,"Alexander Road, Frenchay, Bristol, Gloucestershire, BS16",0,1,0
+550000,4,1,51.450411,-2.54937,"Highworth Road, St Annes, Bristol, BS4",1,0,0
+550000,3,3,51.452651,-2.516919,"Tree Rise, Hanham",1,0,0
+550000,4,3,51.442094,-2.540752,"Guernsey Avenue, Bristol, BS4",1,0,0
+550000,3,2,51.444635,-2.607161,"Beauley Road, Southville, Bristol",0,1,0
+550000,4,1,51.499906,-2.621941,"Westover Road, Bristol, BS9",0,0,1
+550000,4,1,51.46558,-2.584792,"Ashley Road, Montpelier",0,1,0
+549500,5,2,51.421905,-2.628153,"Bridgwater Road, Uplands, Bristol, BS13",0,1,0
+545000,4,2,51.482269,-2.503051,Ducie Road Staple Hill,1,0,0
+545000,4,2,51.498055,-2.526044,"Alexander Road, Bristol, BS16",0,1,0
+540000,4,1,51.489068,-2.646243,"The Crescent, Sea Mills, Bristol",0,1,0
+375000,3,1,51.442874,-2.562282,"Chatsworth Road, Arnos Vale, Bristol",0,0,1
+535000,4,0,51.415309,-2.556623,"Whitecross Avenue, Whitchurch",0,1,0
+535000,3,1,51.496987,-2.602418,"Lake Road, Bristol, BS10",0,1,0
+530000,4,1,51.436871,-2.521067,Hencliffe Way Hanham Bristol,1,0,0
+525000,4,3,51.411621,-2.627441,"Highridge Road, Bishopsworth, Bristol, BS13",1,0,0
+525000,3,1,51.437496,-2.567436,"Beaconsfield Road, Knowle, Bristol",0,0,1
+525000,3,1,51.491192,-2.605256,"Hobhouse Close, Bristol, BS9",0,0,1
+525000,4,2,51.435447,-2.595829,"Bristol South End, Bristol",0,1,0
+525000,4,1,51.48307,-2.53941,"Manor Road,
+Fishponds,
+Bristol,
+BS16 2GX",0,0,1
+525000,4,2,51.437581,-2.60787,"Garnet Street, Bedminster, Bristol",0,0,1
+525000,2,1,51.453749,-2.609121,"Rosebery Terrace, Clifton, Bristol",0,0,1
+525000,4,0,51.48984,-2.51155,"Cave Drive, Downend, Bristol, South Gloucestershire, BS16",1,0,0
+515000,4,2,51.44933,-2.48246,"Gabriel Close, Bristol",1,0,0
+515000,4,2,51.492847,-2.647915,"High Grove, Bristol, BS9",0,1,0
+515000,3,1,51.440996,-2.623298,"Bower Ashton Terrace, Bower Ashton, BRISTOL, BS3",0,0,1
+514000,4,0,51.402336,-2.568196,"Stoneberry Road, Whitchurch",1,0,0
+510000,4,2,51.432628,-2.622115,"Swiss Drive, Ashton Vale, Bristol, BS3",0,0,1
+500000,3,2,51.436603,-2.545805,"Jean Road, Brislington, Bristol, BS4 4JU",0,1,0
+500000,4,2,51.427338,-2.551178,"West Town Park, Brislington, Bristol, BS4",0,1,0
+500000,3,2,51.405963,-2.555981,"Staunton Lane, Whitchurch Village, Bristol",1,0,0
+500000,4,2,51.436295,-2.596188,"Cotswold Road, Bristol",0,0,1
+500000,3,1,51.438514,-2.616971,"Smyth Road, Ashton, Bristol, BS3 2DS",0,1,0
+500000,4,1,51.496676,-2.507198,"Heath Road, Downend, Bristol, Gloucestershire",0,1,0
+500000,3,3,51.50059,-2.52089,"Malmains Drive, Bristol",0,1,0
+500000,4,2,51.446586,-2.522028,"Memorial Road, Hanham, Bristol",0,1,0
+500000,4,2,51.439567,-2.61245,"Smyth Road, Ashton",1,0,0
+500000,3,1,51.443879,-2.580054,"Cambridge Street, Totterdown, BRISTOL, BS3",0,0,1
+500000,2,2,51.495051,-2.60685,"Lakewood Road, Henleaze, Bristol",1,0,0
+500000,4,2,51.451546,-2.511175,"Mount Hill Road, Hanham, Bristol, BS15",1,0,0
+500000,4,1,51.482521,-2.506782,"Victoria Street, Staple Hill, Bristol, BS16 5JP",0,0,1
+500000,3,2,51.438694,-2.607971,"Pearl Street, Bedminster, BRISTOL, BS3",0,0,1
+499995,3,1,51.427474,-2.553499,"West Town Grove, Brislington, Bristol WITH BUILDING PLOT - PLANNING PERMISSION GRANTED!",0,1,0
+499995,4,1,51.49588,-2.52919,"BRISTOL ROAD, 
+FRENCHAY, BRISTOL, 
+BS16 1YA",0,1,0
+499995,3,1,51.49588,-2.52919,"BRISTOL ROAD, 
+FRENCHAY, BRISTOL, 
+BS16 1YA",1,0,0
+499995,3,2,51.427474,-2.553499,"West Town Grove, Brislington, Bristol",0,1,0
+499995,3,1,51.437667,-2.566195,"Hampden Road, Knowle, Bristol",0,0,1
+499995,4,3,51.441982,-2.574542,"Hillside Street, Bristol",0,0,1
+499000,4,1,51.48307,-2.53941,"Manor Road,
+Fishponds,
+Bristol,
+BS16 2GX",0,0,1
+375000,3,1,51.475475,-2.54986,"Ashdene Avenue, Bristol",0,1,0
+495000,4,2,51.442726,-2.54971,"Wick Road, Brislington, Bristol",0,0,1
+495000,2,2,51.443584,-2.614814,"Ashton Gate Road, Southville",0,0,1
+495000,3,1,51.489471,-2.612633,"Grange Close North, Henleaze, Bristol BS9",0,1,0
+495000,6,2,51.414981,-2.560119,SEMI | UPDATING | WHITCHURCH,0,1,0
+490000,4,2,51.432481,-2.624481,"Ashton Drive, Ashton Vale, Bristol",0,0,1
+490000,4,1,51.48331,-2.642174,"St. Laud Close, Stoke Bishop",0,1,0
+489950,3,2,51.467066,-2.556235,"Bruce Cole Lane, Greenbank, Bristol, BS5",0,0,1
+489950,3,2,51.466563,-2.554591,"Bruce Cole Lane, Co-Operation Road, Bristol, BS5",0,0,1
+485000,3,1,51.456322,-2.497787,"Courtney Road, Kingswood, Bristol, BS15",1,0,0
+485000,3,1,51.479202,-2.525921,"Brook Road, Bristol, BS16",0,0,1
+485000,3,1,51.43343,-2.57694,"Melbury Road, Knowle, Bristol, BS4",0,1,0
+485000,3,2,51.4566,-2.498767,"Courtney Road, Kingswood",1,0,0
+485000,4,1,51.437127,-2.60617,"British Road, Bristol, Somerset",0,0,1
+485000,4,0,51.445362,-2.504016,"De Verose Court, Hanham, Bristol, BS15",1,0,0
+485000,3,2,51.465042,-2.591351,"Sydenham Road, Cotham, Bristol, BS6",1,0,0
+485000,3,2,51.498055,-2.526044,"Alexander Road, Frenchay, BS16",0,1,0
+485000,3,1,51.487062,-2.506893,"Downend Road, Downend, Bristol, BS16",0,1,0
+480000,4,2,51.404048,-2.550204,"Maes Knoll Drive, Whitchurch Village, Bristol",1,0,0
+315000,3,2,51.423141,-2.619357,"Wraxall Grove, Bristol, BS13",0,1,0
+475000,3,1,51.44116,-2.61316,"Friezewood Road, Ashton, Bristol, BS3",0,0,1
+475000,4,1,51.451976,-2.487552,"Howes Close, Barrs Court, Bristol, BS30",1,0,0
+475000,3,1,51.435402,-2.606075,"Churchlands Road, Bedminster, BRISTOL, BS3",0,0,1
+475000,3,1,51.482181,-2.51444,"Grace Road, Downend, Bristol",0,1,0
+475000,5,2,51.452479,-2.467983,"Tweeny Lane, Warmley, BS30",0,1,0
+475000,3,1,51.434364,-2.612964,"Winterstoke Road, Ashton, Bristol, BS3",0,1,0
+475000,4,1,51.50632,-2.579521,"Charborough Road, Bristol, BS34",0,0,1
+475000,3,3,51.461203,-2.560457,"Carlton Park, Redfield, Bristol, BS5",0,0,1
+475000,3,1,51.436783,-2.603227,"Argus Road, Bristol",0,0,1
+475000,3,2,51.501441,-2.618825,"Northover Road, Bristol, Somerset, BS9",0,0,1
+475000,3,1,51.443625,-2.601127,"Lydstep Terrace, Southville, BRISTOL, BS3",0,0,1
+475000,4,2,51.418764,-2.559833,"Davids Road, Whitchurch",1,0,0
+475000,3,1,51.48628,-2.63306,"South Dene, Stoke Bishop, BRISTOL",0,0,1
+475000,3,1,51.49256,-2.61889,"Stoke Lane, Westbury-On-Trym, Bristol",0,0,1
+475000,3,1,51.46593,-2.579889,"Badminton Road, St Pauls",0,0,1
+475000,4,1,51.44923,-2.50562,"Preachers Walk, Hanham, Bristol, BS15 3FU",1,0,0
+470000,4,2,51.488238,-2.677737,"Churchleaze, Shirehampton, Bristol",0,1,0
+470000,4,2,51.493977,-2.505194,"Oakdale Court, Downend, Bristol, BS16",1,0,0
+470000,3,1,51.43332,-2.54501,"Glenarm Road, Bristol",0,1,0
+375000,3,1,51.431826,-2.600644,"Somermead, Bedminster, BRISTOL, BS3",0,0,1
+465000,3,2,51.494766,-2.616239,"Trym Road, Bristol, Somerset, BS9",0,1,0
+465000,4,2,51.462059,-2.479539,"Capel Close, Bristol BS15",0,1,0
+465000,3,2,51.442985,-2.583206,"Pylle Hill Crescent, Totterdown, Bristol",0,0,1
+465000,3,1,51.438942,-2.611631,"Ashfield Road, Bristol, BS3",0,0,1
+465000,4,2,51.450733,-2.475516,"Roy King Gardens, Warmley, Bristol",1,0,0
+465000,4,2,51.508617,-2.595327,"Blandamour Way, Bristol",1,0,0
+465000,4,2,51.508039,-2.613579,"Thornfield Road, Bristol",0,1,0
+465000,4,2,51.508117,-2.613236,"Thornfield Road, Bristol, BS10",0,1,0
+460000,3,2,51.423788,-2.60546,"Headley Lane, Headley Park, Bristol, BS13",1,0,0
+459950,3,1,51.47418,-2.501076,"Pool Road, Bristol",1,0,0
+459000,4,2,51.501376,-2.50662,"Queensholm Crescent, Bristol, Gloucestershire, BS16",0,0,1
+459000,4,1,51.44436,-2.563672,Paintworks,0,0,1
+450000,3,2,51.469214,-2.57121,"Saxon Road, St Werburghs, Bristol",0,0,1
+450000,5,2,51.4621,-2.55509,"The Woodbines, Whitehall",0,1,0
+450000,5,2,51.462146,-2.554733,"The Woodbines, Whitehall",0,1,0
+450000,3,1,51.440689,-2.556114,"Repton Road, Brislington, Bristol",0,0,1
+450000,5,2,51.466516,-2.580238,"Ashfield Mews, Ashfield Place, St Pauls, Bristol, BS6",0,0,1
+450000,3,1,51.437716,-2.551511,"Trelawney Park, Bristol, Somerset, BS4",0,0,1
+450000,3,1,51.496543,-2.649212,"Southwood Drive, Bristol",0,1,0
+450000,2,1,51.43675,-2.590696,"Paultow Road, Victoria Park, BRISTOL, BS3",0,0,1
+450000,4,0,51.4665,-2.54353,"Brickworks Close, Bristol, Somerset, BS5",1,0,0
+450000,3,2,51.481197,-2.493371,"Mangotsfield Road, Bristol, Gloucestershire, BS16",0,1,0
+450000,3,1,51.439651,-2.573318,"Wells Road, Knowle, Bristol",1,0,0
+450000,4,2,51.507942,-2.612819,"Thornfield Road, Brentry, Bristol",0,1,0
+450000,3,1,51.425498,-2.560976,"Imperial Road, Knowle, Bristol",0,1,0
+450000,4,3,51.488039,-2.502076,"Buckingham Place, Downend, Bristol",0,0,1
+450000,3,2,51.497351,-2.527107,"Worrell Road, Frenchay, Bristol",0,1,0
+450000,2,1,51.436539,-2.550911,"Grove Park Road, Brislington, Bristol",0,0,1
+450000,3,1,51.43873,-2.606168,"South Street, Bedminster",0,0,1
+450000,3,2,51.436372,-2.558239,"Hampstead Road, Brislington, Bristol",0,0,1
+450000,3,1,51.50012,-2.497553,Fouracre Crescent Downend,0,1,0
+450000,5,2,51.43743,-2.5311,"Capgrave Crescent, Brislington, Bristol",0,0,1
+450000,4,2,51.508039,-2.612756,"Thornfield Road, Bristol, BS10",0,1,0
+450000,3,1,51.435354,-2.610059,"Avonleigh Road, Bristol, BS3",0,0,1
+450000,3,1,51.4683,-2.58084,"Lower Cheltenham Place, Bristol, BS6 5LB",0,0,1
+450000,5,2,51.410146,-2.56269,"Ridgeway Lane, Bristol, BS14",0,1,0
+450000,4,1,51.461818,-2.564408,"Easton Road, Easton, Bristol BS5 0EH",0,0,1
+450000,3,2,51.497348,-2.527107,"Worrell Road, Frenchay, Bristol, BS16 2GA",0,1,0
+450000,4,3,51.48777,-2.493609,"Northcote Road, Downend, Bristol, BS16 6AT",0,1,0
+449995,4,2,51.4141,-2.557718,"The Drive, Whitchurch, Bristol",0,1,0
+449000,4,1,51.48307,-2.53941,"Manor Road,
+Fishponds,
+Bristol,
+BS16 2GX",0,0,1
+445000,4,2,51.50703,-2.60266,"Dunmail Road, Southmead, Bristol",0,1,0
+440000,4,2,51.465408,-2.547217,"Embassy Road, Whitehall, BS5",0,1,0
+440000,4,3,51.44366,-2.5647,"Paintworks, Arnos Vale",0,0,1
+440000,3,2,51.491262,-2.593846,"Bishopthorpe Road, Bristol, BS10",0,1,0
+440000,3,1,51.437732,-2.581544,"Fitzgerald Road, Knowle",0,0,1
+440000,4,2,51.44366,-2.564696,"Paintworks, Arnos Vale, Bristol, Somerset, BS4",0,0,1
+435000,4,1,51.494691,-2.586868,"St Lucia Crescent, Horfield, Bristol",0,0,1
+435000,3,2,51.46371,-2.548905,"Altringham Road, Whitehall",0,0,1
+435000,4,2,51.50703,-2.60266,"Dunmail Road, Southmead, Bristol",0,1,0
+435000,3,2,51.44268,-2.567908,"Bath Road, Arnos Vale",0,0,1
+435000,3,0,51.443958,-2.514706,"Rangers Walk, Hanham, Bristol",1,0,0
+435000,2,1,51.436966,-2.61022,"Ashgrove Road, Bedminster, Bristol, Somerset, BS3",0,0,1
+435000,3,2,51.498045,-2.580533,"Filton Road, Horfield, Bristol, BS7",0,1,0
+435000,3,1,51.475482,-2.564613,"Muller Road, Eastville",0,1,0
+435000,3,1,51.495388,-2.601198,"Francis Road, Westbury-on-Trym, Bristol, BS10",0,0,1
+432500,3,2,51.466655,-2.579529,"Sussex Mews, St Werburghs",0,0,1
+430000,3,1,51.437778,-2.553071,"Winchester Road, Brislington, Bristol",0,0,1
+430000,3,2,51.404,-2.55225,"Farrier Way, Whitchurch, Bristol BS14",1,0,0
+430000,3,2,51.516247,-2.594923,"Siddeley Close, Brentry, Bristol",0,1,0
+430000,3,1,51.48307,-2.53941,"Manor Road,
+Fishponds,
+Bristol,
+BS16 2GX",0,0,1
+430000,4,1,51.44186,-2.551252,"Wick Road, Brislington, Bristol, BS4",0,0,1
+430000,0,0,51.47659,-2.5389,"Fishponds Road, Fishponds, Bristol, Somerset, BS16",0,0,1
+429995,4,2,51.412517,-2.537121,"Bifield Road, Stockwood, Bristol",0,1,0
+425000,3,1,51.420234,-2.616668,"Bishopsworth Road, Bedminster Down, Bristol, BS13",1,0,0
+425000,3,1,51.417572,-2.619972,"Vicarage Road, Bishopsworth, BS13",0,1,0
+425000,3,2,51.48055,-2.511473,"Upper Station Road, Staple Hill",1,0,0
+425000,2,1,51.445291,-2.604908,"Islington Road, Southville, Bristol, BS3",0,0,1
+425000,4,2,51.45354,-2.509807,"Mount Gardens, Hanham",0,1,0
+425000,4,2,51.482401,-2.515725,"Cassell Road, Fishponds, BS16",0,0,1
+425000,4,0,51.44678,-2.46775,"Hardwick Close, Warmley, Bristol, BS30",0,1,0
+425000,3,2,51.490333,-2.6742,"The Ridge, Shirehampton,",0,1,0
+370000,3,1,51.495155,-2.587675,"St. Lucia Close, Horfield, BRISTOL, BS7",0,1,0
+425000,3,1,51.492746,-2.651543,"Westbury Lane, Bristol, BS9",0,1,0
+425000,2,1,51.439879,-2.592186,"Gwilliam Street, Windmill Hill, BRISTOL, BS3",0,0,1
+425000,3,1,51.435893,-2.544764,"Grantson Close, Brislington, Bristol, BS4",0,1,0
+425000,2,1,51.43559,-2.610197,"Elmdale Road, Bedminster, Bristol",0,0,1
+425000,3,0,51.47269,-2.54648,"Stonebridge Park, Bristol, Somerset, BS5",0,1,0
+425000,3,1,51.427257,-2.57105,"Broadfield Road, Bristol",0,1,0
+425000,3,1,51.42294,-2.559429,"Kinsale Road, Whitchurch, Bristol, BS14",0,1,0
+420000,4,2,51.4257,-2.6128,"Lewis Road, Bedminster Down, Bristol",0,1,0
+420000,2,1,51.440113,-2.570704,"Hawthorne Street, Totterdown, Bristol",0,0,1
+420000,3,1,51.444137,-2.54375,"Woodcroft Road, St Annes, Bristol",0,1,0
+420000,3,1,51.426231,-2.569233,"Airport Road, Hengrove, Bristol",0,1,0
+419950,3,1,51.48307,-2.53941,"Manor Road,
+Fishponds,
+Bristol,
+BS16 2GX",0,1,0
+415000,4,2,51.403266,-2.5517,"Bridle Avenue, Whitchurch Village, Bristol",0,0,1
+415000,2,1,51.49035,-2.608956,Eastfield Terrace | Henleaze,0,0,1
+415000,3,1,51.436284,-2.552451,"Wick Road, Brislington, Bristol, BS4 4HB",0,0,1
+415000,2,1,51.437683,-2.593046,"Brendon Road, Windmill Hill, Bristol, BS3 4PJ",0,0,1
+415000,4,2,51.47024,-2.490566,"Willis Road, Kingswood       ",0,1,0
+415000,3,1,51.444816,-2.613276,"Greenbank Road, Southville, BS3",0,0,1
+415000,3,2,51.46323,-2.56883,"Felix Road, Easton",0,0,1
+415000,4,1,51.418697,-2.618682,"Kings Head Lane, Uplands, Bristol, BS13",0,1,0
+412500,3,2,51.443777,-2.515229,"Rangers Walk, Bristol, BS15",0,1,0
+410000,3,1,51.420299,-2.621687,"Alexandra Road, Uplands, Bristol, BS13",0,1,0
+410000,3,0,51.443668,-2.564943,"Paintworks, Arnos Vale, Bristol",0,0,1
+410000,3,1,51.493946,-2.499875,"Sutherland Avenue, Downend, Bristol, BS16 6QL",0,1,0
+410000,2,1,51.467597,-2.58738,"St. Andrews Road, Montpelier, Bristol BS6",0,0,1
+409950,2,1,51.443175,-2.602731,"Morley Road, Southville, Bristol, BS3 1DT",0,0,1
+400000,3,1,51.436065,-2.60824,"Hengaston Street, Bedminster, Bristol, BS3",0,0,1
+400000,3,1,51.485263,-2.514441,"Downend Road, Downend, Bristol, BS16",0,0,1
+400000,3,0,51.47943,-2.52813,"Brook Road, Fishponds, Bristol, Somerset, BS16",0,0,1
+400000,3,1,51.418217,-2.613236,"Hillyfield Road, Headley Park, Bristol",0,1,0
+400000,3,2,51.486502,-2.679742,"Passage Leaze, Bristol, BS11",0,1,0
+400000,3,1,51.463867,-2.554048,"Oakleigh Avenue, Bristol",0,0,1
+400000,3,2,51.434276,-2.578743,"Axbridge Road, Knowle",0,1,0
+400000,3,0,51.487161,-2.49432,"Burley Grove, Bristol, BS16",0,1,0
+400000,3,1,51.435699,-2.54517,"Grantson Close, Brislington, Bristol",0,1,0
+400000,4,1,51.457569,-2.51331,"Counterpool Road, Bristol",1,0,0
+400000,3,2,51.449717,-2.615874,"Bear Yard Mews, Bristol, Somerset, BS8",0,0,1
+400000,3,1,51.43115,-2.62456,"Risdale Road, Bristol, BS3",0,0,1
+400000,3,2,51.4845,-2.556613,"Barkleys Hill, Stapleton, Bristol",1,0,0
+400000,3,2,51.431201,-2.548013,"West Town Lane, Bristol",1,0,0
+400000,2,1,51.465345,-2.560262,"Seaton Road, Bristol",0,0,1
+400000,6,1,51.478332,-2.559929,"Bell Hill, Bristol, BS16",1,0,0
+400000,3,2,51.481324,-2.514972,"High Street, Staple Hill, Bristol, BS16",0,0,1
+400000,3,1,51.465542,-2.579409,"Badminton Road, St. Pauls, Bristol, BS2",0,0,1
+400000,3,1,51.482822,-2.5851,"Ashley Down Road, Bristol, BS7",0,0,1
+400000,2,1,51.473556,-2.572177,"Narroways Road, St Werburghs",0,0,1
+399995,3,1,51.50375,-2.5871,"Southmead Road, Filton, Bristol, Gloucestershire, BS34",1,0,0
+399995,3,1,51.467967,-2.572874,"Horley Road, St Werburghs, Bristol, BS2",0,0,1
+399995,3,2,51.429423,-2.553519,"West Town Avenue, Bristol, BS4",0,1,0
+399950,1,1,51.450786,-2.624479,"Hinton Lane, Clifton, Bristol",0,1,0
+399500,3,1,51.422129,-2.566561,"Dennor Park, Bristol, BS14",0,1,0
+399000,3,2,51.414333,-2.534412,"Chantry View, Stockwood, Bristol, BS14",0,1,0
+395000,3,2,51.443954,-2.564617,"Paintworks, BS4",0,0,1
+395000,3,1,51.483337,-2.675843,"Nibley Road, Shirehampton, Bristol",0,0,1
+395000,3,0,51.407875,-2.579663,"Whitchurch Lane, Whitchurch",0,1,0
+395000,3,1,51.511887,-2.598758,"Briarside Road, Bristol, BS10 6JA",1,0,0
+395000,3,1,51.42892,-2.611768,"Ilchester Crescent, Bedminster Down",0,0,1
+395000,3,1,51.432277,-2.608241,"Willada Close, Bedminster, Bristol, BS3",0,1,0
+395000,3,1,51.465362,-2.559485,"Colwyn Road, Easton",0,0,1
+395000,3,1,51.4332,-2.605393,"Mansfield Street, Bedminster",0,0,1
+395000,3,1,51.426628,-2.612403,"Lewis Road, Bedminster Down",0,0,1
+395000,3,2,51.480383,-2.648467,"Sea Mills Lane, Bristol, BS9",1,0,0
+395000,3,2,51.429935,-2.570225,"8 Preston Walk, Knowle, Bristol",0,1,0
+392000,2,1,51.435997,-2.611329,"Luckwell Road, Bedminster",0,0,1
+390000,3,1,51.437422,-2.548552,"Bankside Road, Brislington, BS4",0,1,0
+390000,3,1,51.47631,-2.565724,"Glenfrome Road, Eastville, Bristol, BS5 6TW",0,0,1
+390000,3,1,51.495786,-2.495093,"Lulworth Crescent, Downend, Bristol",0,1,0
+390000,3,1,51.447984,-2.469117,"Exley Close, Bristol, BS30",0,1,0
+390000,4,3,51.413407,-2.538573,"Stockwood Lane, Bristol, BS14",0,1,0
+390000,3,0,51.424767,-2.613095,"Lewis Road, Bristol",0,1,0
+390000,3,2,51.41075,-2.539246,"Bifield Road, Stockwood, Bristol, BS14",1,0,0
+390000,3,2,51.450878,-2.492173,"Tintern Close, Barrs Court, Bristol",1,0,0
+389999,2,1,51.439441,-2.552922,"Rugby Road, Brislington, BS4",0,0,1
+389995,3,1,51.435077,-2.56161,"Buller Road, Bristol",0,0,1
+387500,3,1,51.49195,-2.646658,"Sylvan Way, Sea Mills",0,1,0
+385000,3,2,51.410163,-2.557571,"Saltwell Avenue , Whitchurch , Bristol, BS14 0PE",0,1,0
+385000,3,1,51.462779,-2.531417,"Whiteway Close, Bristol",0,0,1
+385000,3,1,51.482326,-2.521842,"Downend Road, Fishponds, Bristol, BS16 5AP",0,0,1
+385000,4,1,51.494319,-2.574847,"Filton Avenue, Horfield, Bristol",0,0,1
+385000,3,1,51.442646,-2.562285,"Chatsworth Road, Brislington, Bristol",0,0,1
+385000,3,1,51.501983,-2.582282,"Braemar Crescent, Filton Park, Bristol",0,1,0
+385000,5,1,51.45109,-2.469235,"Poplar Road, Warmley, BS30",0,1,0
+385000,3,3,51.444129,-2.563573,"Paintworks, Arnos Vale",0,0,1
+385000,5,1,51.487366,-2.523715,"Goffenton Drive, Fishponds, Bristol, BS16",0,1,0
+385000,4,2,51.491554,-2.681816,"Beachley Walk, Shirehampton, Bristol",0,1,0
+380000,3,1,51.47964,-2.504058,Teewell Avenue Staple Hill,0,1,0
+380000,2,1,51.46152,-2.55153,"Sloan Street, Bristol, BS5 7AD",0,0,1
+380000,2,1,51.46516,-2.567869,"Woodborough Street, Bristol",0,0,1
+380000,3,1,51.442657,-2.583503,"St. Lukes Crescent, Totterdown, Bristol",0,0,1
+380000,3,1,51.478027,-2.541091,"Thingwall Park, Fishponds, Bristol, BS16",1,0,0
+380000,3,1,51.46853,-2.558355,"Essery Road, Greenbank, BS5",0,0,1
+380000,5,0,51.420864,-2.579599,"Heatherdene, Whitchurch",0,1,0
+380000,3,1,51.437226,-2.593385,"Brendon Road, Bristol, BS3",0,0,1
+380000,3,1,51.41814,-2.61328,"Hillyfield Road, Headley Park, Bristol",0,1,0
+375000,3,1,51.47315,-2.547267,"Park Place, Eastville, BS5",0,1,0
+375000,2,1,51.45871,-2.548565,"Seneca Place, Bristol",0,0,1
+375000,4,2,51.468016,-2.532657,"Whitefield Mews, Bristol",1,0,0
+375000,3,2,51.51329,-2.594958,"Matford Close, Bristol, Somerset, BS10",0,1,0
+375000,5,1,51.422592,-2.606003,"Headley Lane, Headley Park, Bristol, BS13",0,0,1
+375000,4,2,51.48679,-2.51151,"Lincombe Avenue, Downend, Bristol, BS16",0,0,1
+375000,3,2,51.449451,-2.477641,"Tower Road South, Warmley, Bristol",0,1,0
+375000,2,1,51.43737,-2.604904,"South Road, Bedminster, Bristol, BS3",0,0,1
+375000,3,0,51.47548,-2.5648,"Muller Road, Eastville, Bristol, BS5",0,0,1
+375000,3,2,51.476215,-2.534125,"Lodge Causeway, Fishponds",0,0,1
+375000,3,1,51.4015,-2.569891,"Smythe Croft, Whitchurch, Bristol BS14",0,1,0
+375000,2,3,51.455625,-2.540408,"Crews Hole Road, Bristol, Somerset, BS5",0,0,1
+375000,3,1,51.513307,-2.595342,"Matford Close, Bristol",0,1,0
+375000,2,1,51.439216,-2.570898,"Sydenham Road, Knowle",0,0,1
+375000,2,1,51.4589,-2.548345,"Hedwick Avenue, St George",0,0,1
+375000,3,1,51.405368,-2.579574,"Stockton Close, Whitchurch, Bristol",0,1,0
+375000,2,1,51.441547,-2.574486,"Stanley Hill, Totterdown, Bristol",0,0,1
+375000,3,1,51.487859,-2.671239,"St Bernards Road, Shirehampton, Bristol",0,1,0
+375000,2,1,51.460651,-2.558936,"Gerrish Avenue, Whitehall, Bristol, BS5",0,0,1
+375000,3,1,51.437448,-2.593053,"Brendon Road, Windmill Hill, BRISTOL, BS3",0,0,1
+375000,4,1,51.460859,-2.571146,"Durbin Walk, Bristol",0,0,1
+375000,2,1,51.4356,-2.611541,"Luckwell Road, Bedminster, BRISTOL, BS3",0,0,1
+375000,3,2,51.408575,-2.569169,"Evercreech Road, Bristol, BS14",0,1,0
+375000,3,1,51.427217,-2.572776,"Broadfield Road, Knowle, Bristol",0,1,0
+375000,3,1,51.416338,-2.606267,"Durville Road, Bristol, BS13",0,1,0
+375000,3,1,51.42209,-2.572611,"Fanshawe Road, Hengrove, Bristol, BS14 9RY",0,1,0
+375000,3,1,51.460101,-2.534416,"Marling Road, St George, Bristol, BS5",0,0,1
+375000,3,2,51.427993,-2.599386,"Novers Hill, BRISTOL, BS3",0,1,0
+375000,3,2,51.417591,-2.618639,"Manor Road, Bishopsworth, Bristol, BS13",0,1,0
+375000,2,1,51.45022,-2.48232,"Cadbury Heath Road, BRISTOL",0,0,1
+375000,3,1,51.41819,-2.612037,"Hillyfield Road, Headley Park, Bristol, BS13",0,1,0
+375000,3,1,51.427853,-2.571158,"Springleaze, Bristol",0,1,0
+375000,2,1,51.439176,-2.571486,"Sydenham Road, Totterdown, Bristol",0,0,1
+375000,2,1,51.442207,-2.579459,"Stevens Crescent, Totterdown, Bristol",0,0,1
+375000,3,2,51.43434,-2.545854,"Glenarm Walk, Brislington, Bristol, BS4",0,1,0
+375000,3,2,51.468234,-2.533445,"Whitefield Road, Speedwell, Bristol, BS5",1,0,0
+375000,3,1,51.44621,-2.51653,"Bibury Crescent, Hanham, Bristol, BS15 3EX",0,1,0
+375000,3,1,51.427692,-2.57187,"Springleaze, Knowle Park, Bristol",0,1,0
+374995,2,1,51.435484,-2.565402,"Merfield Road, Knowle, Bristol",0,0,1
+370000,3,2,51.40708,-2.56037,"St. Nicholas Road, Whitchurch, Bristol",0,1,0
+370000,2,1,51.44165,-2.617763,"Wells Street, Ashton",0,0,1
+370000,3,1,51.452342,-2.522308,"Windsor Avenue, St George, Bristol, BS5",0,1,0
+370000,3,1,51.487481,-2.645663,"Shirehampton Road, Bristol, BS9",0,1,0
+370000,3,1,51.423103,-2.616448,"Wrington Crescent, Bedminster Down, Bristol",0,1,0
+369950,3,1,51.406914,-2.571611,"Cotford Close, Whitchurch, Bristol",0,1,0
+367000,3,1,51.440021,-2.570707,"Hawthorne Street, Totterdown",0,0,1
+365000,3,2,51.485401,-2.531073,"Oatley Way, Fishponds",0,1,0
+365000,3,1,51.495279,-2.597301,"Kelston Road, Bristol",0,0,1
+365000,3,1,51.482131,-2.547952,"Trendlewood Park, Stapleton",0,0,1
+365000,3,1,51.411342,-2.567481,"Wedgwood Close, Whitchurch, Bristol",1,0,0
+365000,3,1,51.419029,-2.627669,"Highridge Green, Highridge",0,1,0
+365000,3,1,51.43162,-2.59764,"Lynton Road, Bristol",0,0,1
+365000,3,1,51.449394,-2.534956,"Abbey Court, St. Annes Park, Bristol, Somerset, BS4",0,1,0
+365000,3,1,51.46438,-2.546486,"Whitehall Road, Bristol, BS5",0,0,1
+365000,3,1,51.486629,-2.682948,"Portway, Shirehampton, Bristol",0,1,0
+365000,3,1,51.51382,-2.593861,"Charlton Mead Drive, Brentry, Bristol",0,1,0
+365000,4,2,51.415008,-2.534594,"Stockwood Lane, Bristol, BS14",0,1,0
+365000,2,1,51.431595,-2.62306,"Swiss Road, Ashton Vale, Bristol",0,0,1
+365000,3,0,51.424089,-2.613246,"Valley Road, Bedminster Down, BS13",0,1,0
+365000,3,1,51.416847,-2.62905,"Elsbert Drive, Highridge, Bristol, BS13",1,0,0
+365000,2,1,51.460651,-2.558936,"Gerrish Avenue, Whitehall, Bristol, BS5",0,0,1
+365000,4,2,51.438484,-2.557629,"537 Bath Road, Brislington, Bristol BS4 3LB",0,1,0
+365000,3,2,51.409327,-2.56541,"Allerton Crescent, Whitchurch, Bristol",0,1,0
+365000,3,2,51.455669,-2.525046,"Northfield Road, St George, Bristol",0,0,1
+365000,2,2,51.494882,-2.617471,"College Mews, Westbury-on-Trym, Bristol",0,1,0
+365000,4,1,51.45123,-2.53946,"St. Davids Crescent, Bristol",0,1,0
+365000,3,2,51.406341,-2.582795,"Lockemor Road, Whitchurch, Bristol, BS13",0,1,0
+365000,2,1,51.437951,-2.583851,"St. Johns Lane, Bristol, BS3",0,0,1
+365000,3,1,51.499629,-2.595607,"Greenway Drive, Southmead, Bristol",0,1,0
+365000,3,2,51.419049,-2.610732,"Headley Park Road, Headley Park, Bristol",0,1,0
+365000,2,2,51.433706,-2.607373,"Temple Street, Bedminster, BRISTOL, BS3",0,0,1
+365000,2,0,51.438438,-2.551153,"Manworthy Road, Brislington, BS4",0,0,1
+360000,2,1,51.47943,-2.52813,"Brook Road, Fishponds, Bristol, BS16",0,0,1
+360000,3,1,51.439434,-2.549467,"Allison Road, Brislington, Bristol",0,0,1
+360000,3,1,51.417739,-2.620674,"Vicarage Road, Bishopsworth, Bristol",0,1,0
+360000,3,1,51.4605,-2.55843,"George Street, Bristol, BS5",0,0,1
+360000,3,1,51.418462,-2.55553,"Davids Road, Bristol, BS14",0,1,0
+360000,3,0,51.421958,-2.566838,"Dennor Park, Hengrove",0,1,0
+360000,3,2,51.430597,-2.621979,"South Liberty Lane, Bristol, BS3",0,0,1
+360000,3,2,51.433402,-2.588786,"Timsbury Road, Bedminster, Bristol",0,1,0
+360000,2,1,51.441678,-2.618711,"Bath Street, Ashton Gate, Bristol",0,0,1
+360000,2,1,51.442001,-2.582396,"St. Lukes Crescent, Totterdown",0,0,1
+360000,3,1,51.440765,-2.558214,"Belmont Road, Brislington, Bristol",0,0,1
+360000,3,1,51.411106,-2.622881,"King Georges Road, Bishopsworth, Bristol, BS13",0,0,1
+360000,3,1,51.51124,-2.62433,"Vaughan Close, Henbury, Bristol",0,1,0
+360000,3,1,51.489825,-2.674876,"Penpole Avenue, Shirehampton, Bristol",0,0,1
+360000,3,1,51.45757,-2.53047,"Air Balloon Road, Bristol, BS5",0,1,0
+360000,3,0,51.451648,-2.547255,"Woodside Road, Brislington, Bristol, BS4",0,0,1
+360000,3,1,51.454582,-2.522846,"Raeburn Road, St George",0,0,1
+360000,3,0,51.491477,-2.56611,"Shackleton Heights, Crome Road, Lockleaze, Bristol, BS7",0,1,0
+355000,3,1,51.50946,-2.641803,"Royal Close, Bristol",0,1,0
+355000,3,1,51.486568,-2.522605,"Dodisham Walk , Bristol, BS16 2QE",0,0,1
+355000,2,1,51.4706,-2.523309,"Russell Road, Fishponds, Bristol, BS16",0,0,1
+355000,2,2,51.486122,-2.54568,"River View,Bristol,CITY OF BRISTOL,BS16 1DL",0,0,1
+355000,3,1,51.514171,-2.628453,"Meadowland Road, Bristol",0,1,0
+355000,2,1,51.466446,-2.559812,"Tudor Road, Easton, BS5",0,0,1
+355000,3,1,51.514057,-2.629046,"Meadowland Road, BRISTOL, BS10",0,1,0
+355000,2,1,51.470859,-2.523146,"Russell Road, Fishponds, Bristol",0,0,1
+350000,3,0,51.48022,-2.53203,"Courtfield Grove, Bristol, Somerset, BS16",0,1,0
+350000,3,1,51.483936,-2.679571,"Dursley Road, Shirehampton, Bristol",0,0,1
+350000,3,1,51.434091,-2.625762,"Silbury Road, Ashton Vale, BRISTOL",0,1,0
+350000,3,1,51.468592,-2.559093,"Emlyn Road, Bristol, BS5",0,0,1
+350000,4,1,51.468986,-2.498117,"Frys Hill, Kingswood, Bristol",0,0,1
+350000,3,1,51.425178,-2.599564,"Novers Crescent, Bristol, BS4",0,1,0
+350000,3,1,51.424157,-2.612196,"Valley Road, Bristol, BS13",0,1,0
+350000,3,1,51.449581,-2.536149,"Robertson Drive, Bristol",0,1,0
+350000,3,1,51.419223,-2.604687,"Broadleas, Headley Park, Bristol, BS13",0,1,0
+350000,5,1,51.403908,-2.589468,"Lampton Avenue, Bristol, BS13",0,1,0
+350000,3,1,51.416366,-2.608149,"Brookdale Road, Headley Park, Bristol, BS13",0,1,0
+350000,3,1,51.48143,-2.58057,"Ralph Road, Bristol, BS7",0,0,1
+350000,2,1,51.47013,-2.579042,"Milverton Gardens, Montpelier",0,0,1
+350000,3,1,51.466297,-2.561326,"Belle Vue Road, Easton",0,0,1
+350000,2,1,51.442157,-2.5752,"Stanley Hill, Totterdown, BRISTOL, BS4",1,0,0
+350000,3,1,51.48146,-2.53709,"Snowdon Road, Fishponds, Bristol",0,1,0
+350000,3,1,51.4068,-2.56151,"Churchways, Whitchurch, Bristol, BS14",0,1,0
+350000,3,2,51.428421,-2.61402,"Bishopsworth Road, Bedminster Down, Bristol, BS13",0,0,1
+350000,3,1,51.45714,-2.50542,"Court Road, Kingswood, Bristol",0,0,1
+350000,3,1,51.47554,-2.51254,"Uplands Road, Bristol",0,1,0
+350000,3,2,51.468242,-2.539564,"Kenney Lane, Bristol, BS5",0,1,0
+350000,3,1,51.40952,-2.562927,"Ridgeway Lane, Whitchurch, Bristol, BS14",0,1,0
+350000,3,1,51.489313,-2.686599,"Portway, Shirehampton, Bristol",0,1,0
+350000,3,1,51.513008,-2.628952,"Greenlands Way, Henbury",0,1,0
+350000,3,1,51.45325,-2.46883,"Ashcombe Crescent, Bristol",0,1,0
+350000,3,1,51.491854,-2.651184,"High Grove, Bristol, BS9",0,1,0
+350000,3,1,51.441696,-2.554296,"Sandown Road, Brislington, Bristol",0,0,1
+350000,2,2,51.438095,-2.554617,"Repton Road, Brislington, Bristol, BS4",0,0,1
+350000,3,2,51.47629,-2.511888,"The Elms, Staple Hill",0,0,1
+350000,3,1,51.486183,-2.504635,"North Street, Bristol",0,0,1
+350000,4,1,51.48902,-2.53516,"Wytherlies Drive, Bristol",0,1,0
+350000,3,1,51.448444,-2.540788,"Rochester Road, Bristol",0,1,0
+350000,4,0,51.504174,-2.575974,"Gayner Road, Bristol, Gloucestershire, BS7",0,1,0
+350000,2,1,51.461662,-2.532696,"Battenburg Road, St George, Bristol",0,0,1
+350000,2,3,51.493464,-2.578217,"Keys Avenue, Bristol, Somerset, BS7",0,0,1
+350000,3,1,51.473312,-2.533462,"Honiton Road, Bristol",0,1,0
+350000,2,2,51.50703,-2.60266,"Dunmail Road, Southmead, Bristol",0,0,1
+350000,3,2,51.418239,-2.613245,"Hillyfield Road, Headley Park, Bristol",0,1,0
+350000,2,1,51.49059,-2.584646,"Court Road, Horfield, Bristol, BS7",1,0,0
+350000,3,0,51.491477,-2.56611,"Shackleton Heights, Crome Road, Lockleaze, Bristol, BS7",0,1,0
+350000,2,1,51.458,-2.557086,"Verrier Road, Bristol",0,0,1
+350000,3,1,51.42295,-2.606199,"St. Peters Rise, Headley Park, Bristol",0,1,0
+350000,3,1,51.44269,-2.5398,"Jersey Avenue, Brislington, Bristol",0,0,1
+230000,2,1,51.512309,-2.6004,"Redshelf Walk, Bristol, Somerset, BS10",0,1,0
+350000,3,1,51.492519,-2.594817,"Maskelyne Avenue, Horfield",0,1,0
+350000,3,1,51.461583,-2.542753,"Oakland Road, St. George, Bristol, BS5",0,0,1
+350000,3,1,51.419154,-2.630746,"Marlfield Walk, The Uplands, Bristol, BS13",0,1,0
+349995,3,1,51.45359,-2.543215,"Wootton Road, St Annes Park, Bristol",0,1,0
+349995,2,1,51.49588,-2.52919,"Bristol Road,
+Bristol 
+BS16 1SZ",0,0,1
+349950,3,1,51.460011,-2.5534,"Roseberry Park, Redfield",0,0,1
+345000,3,2,51.508102,-2.59585,"Jenny Lane, Bristol",0,0,1
+345000,3,1,51.508114,-2.595798,"Jenny Lane, Bristol, BS10",0,0,1
+345000,3,1,51.45571,-2.52383,"Kingsway, St. George, Bristol",0,0,1
+345000,3,1,51.45695,-2.52787,"Marion Walk, St George, Bristol, BS5 8LL",0,1,0
+345000,3,1,51.489261,-2.686551,"Portway, Shirehampton",0,1,0
+345000,3,1,51.42493,-2.566995,"Hengrove Lane, Hengrove, Bristol",0,1,0
+345000,2,1,51.44206,-2.57705,"County Street, Totterdown",0,0,1
+340000,4,1,51.489898,-2.686245,"Grove Leaze, Bristol, BS11",0,1,0
+340000,3,3,51.488201,-2.683055,"Springfield Avenue, Shirehampton, Bristol",0,1,0
+340000,3,2,51.50719,-2.60713,"Twenty Acres Road, Bristol",1,0,0
+340000,3,1,51.423522,-2.605656,"Headley Lane, Headley Park, Bristol, BS13",0,0,1
+340000,2,1,51.505634,-2.609813,"Charlton Road, Brentry, Bristol, BS10",0,1,0
+340000,3,1,51.43986,-2.540323,"Allison Road, Brislington, Bristol, BS4",0,0,1
+340000,3,2,51.430458,-2.569466,"Greenleaze, Knowle, Bristol",0,1,0
+340000,3,0,51.421257,-2.582458,"Abrahams Close, Filwood Park",0,1,0
+340000,3,1,51.464737,-2.559071,"Bloy Street, Bristol",0,0,1
+340000,3,1,51.4879,-2.5149,"Grange Drive, Downend , Bristol, Bristol, BS16 2QW",1,0,0
+340000,3,1,51.45451,-2.53116,"Nevalan Drive, St George, Bristol, BS5 8UB",0,0,1
+340000,3,1,51.491366,-2.678101,"Broadleaze, Shirehampton, Bristol",0,1,0
+340000,3,1,51.48735,-2.515034,"Grange Drive, Bristol, BS16",1,0,0
+340000,3,2,51.49995,-2.66552,"Kings Weston Lane, Lawrence Weston, 
+BS11 0LD",0,0,1
+340000,3,2,51.50707,-2.59603,"Pen Park Road, Bristol",0,1,0
+339995,3,1,51.409606,-2.569038,"Evercreech Road, Whitchurch, Bristol",0,1,0
+338000,3,1,51.406505,-2.575533,"Court Farm Road, Whitchurch, Bristol",0,1,0
+335000,2,2,51.40538,-2.55441,"Staunton Way, Whitchurch, Bristol",0,1,0
+335000,3,1,51.464355,-2.531745,"Telford Walk, Speedwell, BS5",0,1,0
+335000,3,1,51.494075,-2.677555,"Old Quarry Road, Shirehampton",0,1,0
+335000,2,1,51.468566,-2.544677,"Rose Green Road, Eastville",0,0,1
+335000,3,0,51.410419,-2.56827,"Doulton Way, Whitchurch",0,1,0
+330000,3,1,51.402881,-2.569861,"Kilbirnie Road, Bristol",0,1,0
+330000,2,1,51.466518,-2.562929,"High Street, Easton, Bristol, BS5",0,0,1
+330000,2,1,51.44258,-2.551833,"Upper Sandhurst Road, Brislington, BS4",0,0,1
+330000,3,1,51.406199,-2.577199,"Parkwood Close, Whitchurch, Bristol, BS14",0,1,0
+330000,3,1,51.512338,-2.617079,"Lyppincourt Road, Brentry, Bristol",0,1,0
+330000,3,1,51.452003,-2.481146,"Jeffery Court, Warmley ",0,1,0
+330000,3,2,51.49995,-2.66552,"Kings Weston Lane, Lawrence Weston, 
+BS11 0LD",0,0,1
+330000,3,1,51.488535,-2.542785,"Sheldrake Drive, Stapleton, Bristol, BS16",0,1,0
+330000,3,1,51.45392,-2.52237,"Furber Road, St George, Bristol, BS5 8PT",0,0,1
+330000,3,1,51.448028,-2.515911,"Hunters Road, Hanham, Bristol",0,0,1
+329950,3,1,51.45044,-2.51528,"Lower Hanham Road, Hanham, Bristol, BS15 8SA",0,0,1
+329950,3,0,51.451772,-2.480944,"Jeffery Court, Barrs Court, Bristol, BS30",0,1,0
+326000,3,1,51.5038,-2.65318,"Lawrence Weston,
+Bristol,
+BS11 0SA",0,0,1
+325000,3,1,51.486961,-2.682027,"Grove Leaze, Shirehampton",0,1,0
+325000,2,1,51.431793,-2.602542,"Martock Road, Bedminster, Bristol, BS3 5QN",0,0,1
+325000,3,1,51.414821,-2.618506,"Church Road, Bishopsworth, Bristol, BS13",0,1,0
+325000,3,1,51.46471,-2.508226,"Gilbert Road, Kingswood, Bristol, BS15 1RQ.",0,0,1
+325000,2,2,51.42287,-2.565623,"Petherton Road, Hengrove",0,1,0
+325000,3,1,51.51397,-2.60059,"Chakeshill Drive, BRISTOL",0,0,1
+325000,3,1,51.481765,-2.516955,"Kimberley Road, Fishponds, Bristol",0,1,0
+325000,3,1,51.4147,-2.54651,"Stockwood Road, Bristol, BS14",0,1,0
+325000,3,2,51.467355,-2.542447,"Crofts End Road, Speedwell, BS5",0,0,1
+325000,3,2,51.485839,-2.646845,"Brookleaze, Seamills",0,1,0
+325000,3,1,51.43975,-2.53314,"Wyndham Crescent, Bristol, BS4",0,0,1
+325000,3,1,51.462311,-2.481168,"13 Firework Close, Bristol",0,1,0
+325000,2,1,51.4334,-2.604847,"Mansfield Street, Bedminster, Bristol, BS3",0,0,1
+325000,3,2,51.4956,-2.67107,"Long Cross, Bristol",0,0,1
+325000,3,0,51.48245,-2.51636,"Kimberley Road, Fishponds, Bristol, BS16",0,1,0
+325000,3,1,51.43006,-2.60438,"Hartcliffe Way, Bristol",0,0,1
+325000,3,1,51.4147,-2.54651,"Stockwood Road, Bristol",0,1,0
+325000,3,1,51.429314,-2.588121,"Lisburn Road, Bristol, BS4 1NF",0,1,0
+325000,3,1,51.46754,-2.51317,"Ingleside Close, Bristol",0,0,1
+325000,3,1,51.46008,-2.49034,"Brompton Close, Bristol",0,0,1
+325000,2,1,51.46361,-2.54767,"Chester Road, Bristol, BS5 7AX",0,0,1
+325000,2,1,51.418964,-2.61496,"St Peters Rise, Headley Park, Bristol, BS13",0,0,1
+325000,3,2,51.485838,-2.646846,"Brookleaze, Bristol, BS9",0,1,0
+325000,3,1,51.414318,-2.543551,"Lacey Road, Stockwood, Bristol",0,1,0
+325000,3,1,51.490844,-2.565606,"Crome Road, Bristol, BS7",0,1,0
+325000,3,1,51.414359,-2.542581,"Lacey Road, Bristol",0,1,0
+325000,3,1,51.495179,-2.494918,"Boscombe Crescent, Downend, Bristol",0,0,1
+325000,3,1,51.494743,-2.677898,"Kings Weston Avenue, Bristol",0,1,0
+325000,2,1,51.496177,-2.647311,"Southwood Avenue, Coombe-Dingle",0,0,1
+320000,2,1,51.466442,-2.534121,"Plot 1, Mallard View, St George, Bristol, BS5 7SP.",0,1,0
+320000,3,1,51.403162,-2.574852,"Coulsons Close, Bristol, BS14",0,1,0
+320000,3,0,51.454946,-2.540545,"Pilgrims Wharf, St. Annes Park, Bristol, Somerset, BS4",0,0,1
+320000,4,2,51.472952,-2.55176,"Fishponds Road, Bristol",0,0,1
+320000,2,1,51.431518,-2.603044,"Martock Road, Bedminster, Bristol, BS3",0,0,1
+320000,3,1,51.416999,-2.606163,"Pinhay Road, Headley Park, Bristol, BS13",0,1,0
+320000,3,1,51.508277,-2.634739,"Scandrett Close, Henbury, Bristol",0,0,1
+320000,3,1,51.488378,-2.565151,"Brangwyn Grove, Bristol, BS7",0,1,0
+319995,3,2,51.510879,-2.61008,"Gilslake Avenue, Brentry, Bristol",0,0,1
+319950,2,1,51.432625,-2.602181,"Martock Road, Bristol, BS3",0,0,1
+318500,2,1,51.433958,-2.60509,"Hall Street, Bedminster, Bristol",0,0,1
+315000,3,2,51.417312,-2.56535,"New Fosseway Road, Hengrove, Bristol",0,0,1
+315000,3,1,51.432667,-2.604604,"Hartcliffe Way, Bedminster, Bristol",0,0,1
+315000,2,1,51.471959,-2.528464,"Mayfield Park North, Fishponds, BS16",0,0,1
+315000,2,0,51.422039,-2.58258,"Casey Close, Filwood Park",0,1,0
+315000,2,1,51.466442,-2.534121,"Plot 2, Mallard View, Bristol, BS5 7SP.",0,1,0
+315000,3,1,51.424667,-2.581219,"Bideford Crescent, Knowle, Bristol",0,1,0
+315000,2,1,51.466442,-2.534121,"Plot 3 ""Mallard View"", St George, Bristol, BS5 7SP.",0,1,0
+315000,2,1,51.466442,-2.534121,"Plot 4 ""Mallard View"", St George, Bristol, BS5 7SP.",0,1,0
+315000,3,1,51.5094,-2.59678,"Homeleaze Road, Bristol, Somerset, BS10",0,1,0
+310000,3,1,51.475564,-2.495287,"Station Road, Kingswood, Bristol",0,0,1
+310000,3,1,51.472834,-2.490695,"Station Road, Kingswood, Bristol, BS15",1,0,0
+310000,3,1,51.452792,-2.542464,"Wootton Crescent, Bristol, Somerset, BS4",0,0,1
+310000,2,1,51.4487,-2.52346,"Church Road, Bristol, BS15",0,0,1
+310000,3,1,51.473792,-2.507936,"Soundwell Road, Soundwell, Bristol, BS16",0,0,1
+310000,3,0,51.418018,-2.54291,"Ashwell Close, Stockwood",0,0,1
+310000,4,1,51.4056,-2.60506,"Moxham Drive, Bristol, BS13",0,1,0
+310000,4,2,51.459468,-2.525412,"Queen Street, Kingswood, Bristol, BS15",0,1,0
+307000,3,1,51.50837,-2.632583,"Dundas Close, Bristol, Somerset, BS10",0,0,1
+300000,3,1,51.48679,-2.48948,"Greenside, Mangotsfield",0,0,1
+300000,3,0,51.501598,-2.572,"Northville Road, Bristol, Somerset, BS7",0,1,0
+300000,3,1,51.511263,-2.631429,"Marissal Road, Bristol",0,1,0
+300000,3,1,51.489754,-2.675251,"Penpole Avenue, Bristol",0,0,1
+300000,3,1,51.483795,-2.506013,"North Street, Downend, Bristol, BS16",0,1,0
+300000,1,2,51.462889,-2.524041,"Phipps Barton, Kingswood, Bristol, BS15",1,0,0
+300000,3,1,51.431715,-2.579713,"Daventry Road, Bristol",0,1,0
+300000,2,1,51.452388,-2.513545,"Lower Hanham Road, Hanham, Bristol, BS15",0,0,1
+300000,2,1,51.47121,-2.555663,"Greenbank View, Eastville",0,1,0
+300000,3,1,51.4682,-2.565234,"Berwick Road, Easton, Bristol, BS5 6NG",0,0,1
+300000,3,2,51.48577,-2.64457,"Trym Side, Sea Mills, Bristol",0,0,1
+300000,3,1,51.442661,-2.466154,"High Street, Oldland Common, Bristol",0,1,0
+300000,3,1,51.461258,-2.491895,Hill Street Kingswood Bristol,0,0,1
+300000,3,1,51.476536,-2.518755,"The Rosery, Bristol, Somerset, BS16",0,1,0
+300000,4,2,51.434113,-2.625835,"Silbury Road, Ashton Vale, Bristol, BS3",0,1,0
+300000,3,1,51.42988,-2.588852,"Kenmare Road, Bristol",0,1,0
+300000,3,1,51.464881,-2.545847,"Whitehall Road, Whitehall, Bristol, BS5 7BX",0,0,1
+300000,3,1,51.48073,-2.5185,"Lewington Road, Bristol, BS16",0,0,1
+300000,3,1,51.505018,-2.609469,"Twenty Acres Road, Brentry, Bristol",1,0,0
+300000,4,1,51.457363,-2.574545,"Hassell Drive, Bristol",0,0,1
+300000,3,1,51.446478,-2.474022,"Cheviot Way, Oldland Common, Bristol, BS30",0,0,1
+300000,3,2,51.46265,-2.569954,"Hamilton Road, Easton, Bristol",0,0,1
+300000,3,1,51.45423,-2.51316,"Coberley, Bristol, BS15 8ET",0,0,1
+300000,3,1,51.424668,-2.581234,"Bideford Crescent, Bristol",0,1,0
+300000,4,1,51.418151,-2.575018,"Mile Walk, Bristol",0,0,1
+300000,3,1,51.43885,-2.53428,"Broomhill Road, Bristol",0,1,0
+300000,2,1,51.486972,-2.524919,"Willow Bed Close, Fishponds, Bristol",0,0,1
+300000,5,1,51.453754,-2.510848,"Hanham Road, Hanham, Bristol",0,0,1
+299950,2,1,51.4656,-2.499677,"Alma Road, Bristol",0,0,1
+295000,2,1,51.501732,-2.594102,"Lydney Road, Bristol, BS10",0,1,0
+295000,3,1,51.409158,-2.626371,"Elmtree Drive, BRISTOL, BS13",0,0,1
+295000,3,1,51.427013,-2.564079,"Wells Road, Whitchurch, Bristol, BS14 9AJ",0,1,0
+295000,2,1,51.413128,-2.555078,"Tibbott Walk, Stockwood, Bristol",0,0,1
+290000,2,1,51.418425,-2.614052,"Durleigh Close, Headley Park, Bristol, BS13",0,0,1
+290000,3,1,51.501682,-2.697373,"St. Andrews Road, Avonmouth",0,0,1
+290000,2,1,51.488847,-2.541521,"Kingfisher Drive, Frenchay, Bristol",0,1,0
+290000,3,1,51.47042,-2.49204,"Crispin Way, Bristol, BS15",0,0,1
+290000,2,1,51.47055,-2.508684,"Lansdown Road, Kingswood, Bristol, BS15 1XB",0,0,1
+290000,3,1,51.46701,-2.50985,"Hampton Street, Bristol",0,0,1
+290000,3,1,51.460906,-2.491599,"Hill Street, Kingswood, Bristol, BS15 4EU.",0,0,1
+290000,3,1,51.470006,-2.508762,"Crown Road, Kingswood, Bristol, BS15",0,0,1
+290000,4,1,51.470347,-2.527424,"Linden Close, Fishponds, Bristol, BS16",0,0,1
+290000,2,1,51.492214,-2.535161,"Broadways Drive, Frenchay, Bristol, BS16",0,1,0
+290000,3,1,51.46551,-2.531168,"Meadow Vale, Speedwell, Bristol, BS5",0,1,0
+289995,3,1,51.424156,-2.575501,"Willinton Road, Knowle, Bristol",0,1,0
+289000,3,1,51.493492,-2.681111,"Lower High Street, Shirehampton",0,1,0
+285000,3,1,51.461151,-2.565419,"Tyndall Road, Easton, Bristol, BS5",0,0,1
+285000,4,2,51.40984,-2.541938,"Burfoote Gardens, Bristol, BS14",0,0,1
+285000,3,1,51.413338,-2.609045,"Coleshill Drive, Bristol, BS13",0,1,0
+285000,3,1,51.498246,-2.598231,"Lydney Road, Southmead, Bristol, BS10",0,1,0
+285000,2,1,51.51134,-2.63802,"Hallen Road, Henbury, Bristol",0,0,1
+285000,2,1,51.485006,-2.556237,"Barkleys Hill, Stapleton, Bristol",0,0,1
+285000,3,2,51.408546,-2.600943,"Pavey Road, Bristol, BS13",0,0,1
+284950,2,1,51.513108,-2.600012,"Bracewell Gardens, Brentry, Bristol, BS10",0,0,1
+280000,2,1,51.45962,-2.503032,"Edward Road, Bristol, Avon",0,1,0
+280000,3,1,51.502136,-2.597679,"Westleigh Road, Southmead",0,1,0
+280000,2,1,51.449073,-2.49338,"Forde Close, Barrs Court, Bristol",0,0,1
+280000,2,0,51.456626,-2.508095,"Hanham Road, Kingswood, Bristol, BS15",0,0,1
+280000,2,1,51.485471,-2.48745,"Northcote Road, Mangotsfield, Bristol, Gloucestershire, BS16",0,0,1
+280000,3,1,51.423155,-2.594059,"Wardour Road, Bristol",0,1,0
+280000,3,1,51.4591,-2.51077,"Dragonfly Close, Kingswood, Bristol",0,1,0
+280000,3,3,51.411541,-2.605684,"Azelin Avenue, Bristol, BS13",0,1,0
+280000,3,2,51.464004,-2.543088,"Whitehall Avenue, Whitehall, Bristol",0,0,1
+280000,2,1,51.475185,-2.542042,"Alcove Road, Fishponds",1,0,0
+280000,2,2,51.47617,-2.49239,"Fairlyn Drive, Bristol, BS15",0,1,0
+280000,3,1,51.414286,-2.552158,"Whittock Road, Bristol, BS14",0,0,1
+280000,3,1,51.47122,-2.49377,"Crispin Way, Bristol, Gloucestershire, BS15",0,1,0
+280000,3,1,51.46325,-2.50722,"London Street, Bristol, Gloucestershire, BS15",0,0,1
+280000,2,2,51.418039,-2.559062,"Eva Turner Close, Bristol, BS14",0,1,0
+280000,3,1,51.476834,-2.493013,"Fairlyn Drive, Bristol, BS15",0,1,0
+280000,4,1,51.493709,-2.66759,"Mancroft Avenue, Lawrence Weston",0,0,1
+280000,3,1,51.470789,-2.492636,"Crispin Way, Kingswood, Bristol",0,1,0
+279950,2,1,51.48424,-2.557428,"Little Parr Close, Stapleton, Bristol",0,0,1
+275000,3,1,51.409061,-2.617321,"Elvard Close, Withywood, Bristol, BS13",0,0,1
+275000,3,1,51.403487,-2.597743,"Bishport Avenue, Bristol, BS13",0,0,1

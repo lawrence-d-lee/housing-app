@@ -1,5 +1,5 @@
 Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-Detached,Terraced
-265000,3,1,52.537567,-1.933552,"Farlands Grove, Great Barr, Birmingham",0,1,0
+250000,2,1,52.42583,-1.950549,"Cob Lane, Bournville, Birmingham, B30 1QR",0,1,0
 2850000,7,7,52.4564,-1.949,"St. Marys Road, Harborne, Birmingham, B17",1,0,0
 2550000,5,3,52.4551,-1.9322,"Farquhar Road, Edgbaston, Birmingham, B15",1,0,0
 2550000,5,3,52.455174,-1.932461,"Farquhar Road, Edgbaston",1,0,0
@@ -20,8 +20,7 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 1150000,6,3,52.44328,-1.876944,"Wake Green Road, Moseley, Birmingham, B13",1,0,0
 1150000,6,1,52.47277,-1.966707,"Hagley Road, Edgbaston, Birmingham, West Midlands, B17 8BJ",1,0,0
 1100000,6,5,52.382642,-1.867451,"Lea Green Lane, Wythall, B47 ",1,0,0
-225000,3,1,52.537094,-1.880743,"Warren Road, Kingstanding Birmingham B44 8QL",0,1,0
-300000,3,1,52.469669,-1.803402,"Barrows Lane, Yardley, Birmingham",0,1,0
+350000,4,2,52.382446,-1.987718,"Fairey Street, Cofton Hackett, Birmingham",0,1,0
 1100000,6,3,52.449347,-1.900346,"Russell Road, Moseley, Birmingham, West Midlands, B13",1,0,0
 1100000,6,3,52.47452,-1.946496,"Moorland Road, Edgbaston",1,0,0
 1050000,4,3,52.464108,-1.962187,"Gilmorton Close, Harborne, Birmingham, B17 8QR",1,0,0
@@ -43,7 +42,7 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 895000,7,2,52.446982,-1.890914,"Salisbury Road, Moseley, Birmingham, B13",0,1,0
 875000,4,2,52.462383,-1.964075,"Lordswood Road, Harborne, Birmingham, B17 9BU",1,0,0
 875000,5,2,52.467128,-1.914976,"Crondal Place, Edgbaston",1,0,0
-450000,3,0,52.549365,-1.82768,"Highbridge Road, Sutton Coldfield",1,0,0
+190000,3,1,52.537086,-1.938521,"Freemount Square, Great Barr, Birmingham",0,0,1
 875000,4,1,52.44659,-1.917645,"Eastern Road, Selly Park, Birmingham",1,0,0
 875000,5,5,52.51632,-1.92539,"Handsworth Wood Road, Birmingham",0,1,0
 875000,5,3,52.446869,-1.889686,"Salisbury Road, Moseley, Birmingham, West Midlands, B13",0,1,0
@@ -61,7 +60,6 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 800000,5,1,52.431163,-1.954506,"Swarthmore Road, Bournville Village Trust, Selly Oak, Birmingham, B29",1,0,0
 800000,5,3,52.436317,-1.883007,"Clarence Road, Moseley, Birmingham",1,0,0
 800000,4,2,52.4677,-1.9399,"Yelverton Drive, Edgbaston, B15",1,0,0
-240000,3,1,52.44218,-1.9954,"Clapgate Lane, Birmingham",0,0,1
 795000,4,3,52.464422,-1.904983,"Wellington Road, Edgbaston, Birmingham, B15",0,1,0
 795000,8,1,52.47242,-1.95901,"2 Meadow Road, Harborne, Birmingham, B17 8BU",1,0,0
 795000,4,2,52.468201,-1.93368,"Malcolmson Close, Edgbaston, Birmingham, B15",1,0,0
@@ -80,7 +78,7 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 750000,4,3,52.372236,-1.992757,"Cofton Church Lane, Cofton Hackett, Birmingham, Worcestershire, B45",1,0,0
 740000,6,3,52.443119,-1.892566,"Alcester Road, Moseley",1,0,0
 725000,5,0,52.537399,-1.837739,"Chester Road, Boldmere",1,0,0
-435000,3,1,52.465694,-1.976601,"The Close, Harborne, Birmingham, B17 8TU",1,0,0
+375000,3,1,52.450092,-1.948592,"Harborne Park Road, Birmingham",0,1,0
 719000,5,1,52.442798,-1.886545,"Ascot Road, Moseley",1,0,0
 715000,4,1,52.439649,-1.882379,"Greenhill Road, Moseley, Birmingham, West Midlands, B13",0,1,0
 700000,8,3,52.548725,-1.939013,"Hill Lane, Great Barr, Birmingham",1,0,0
@@ -100,7 +98,6 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 695000,5,4,52.443023,-1.86893,"Mackenzie Road, Sparkhill, Birmingham, B11",1,0,0
 695000,4,1,52.55347,-1.848095,"Monmouth Drive, Sutton Coldfield, B73 6JN",1,0,0
 690000,4,3,52.470699,-1.925003,"Highfield Road, Edgbaston, Birmingham, B15",0,1,0
-190000,2,1,52.4773,-1.77587,"Royal Star Close, Birmingham",0,1,0
 690000,5,3,52.453075,-1.884737,"Trafalgar Road, Moseley",1,0,0
 675000,7,5,52.48366,-1.81221,"Victoria Road, Stechford, Birmingham",1,0,0
 675000,7,4,52.48366,-1.81221,"Victoria Road, Stechford, Birmingham, West Midlands, B33",1,0,0
@@ -112,7 +109,6 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 650000,3,2,52.40989,-1.93557,"Wychall Lane, Birmingham, B38",1,0,0
 640000,5,3,52.54393,-1.94599,"Newton Road, Great Barr",1,0,0
 640000,5,3,52.47849,-1.95726,"Perrott Way, Edgbaston",1,0,0
-299950,3,1,52.439156,-2.010209,"Woodvale Road, Woodgate",1,0,0
 635000,4,2,52.451908,-1.966183,"Wyckham Close, Birmingham",1,0,0
 625000,4,3,52.54059,-1.83113,"The Boulevard, Sutton Coldfield",1,0,0
 610000,4,1,52.54586,-1.849248,"Welford Road, Sutton Coldfield, B73 5DP",1,0,0
@@ -131,7 +127,6 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 600000,5,2,52.49588,-1.81392,"Coleshill Road, Birmingham",1,0,0
 600000,4,2,52.55489,-1.857321,"Darnick Road, Sutton Coldfield, B73 6PG",1,0,0
 600000,6,6,52.44072,-1.9339,"136 Heeley Road, Birmingham, B29",0,0,1
-180000,3,1,52.52767,-1.84872,"Marsh Lane, Birmingham",0,0,1
 599950,4,1,52.440909,-1.886117,"School Road, Moseley, Birmingham, West Midlands, B13",1,0,0
 595000,4,2,52.549084,-1.94784,"Boscobel Road, Great Barr, Birmingham B43 6BB",1,0,0
 595000,5,2,52.550865,-1.833114,"Mayfield Road, Wylde Green, Sutton Coldfield, West Midlands, B73",0,1,0
@@ -148,7 +143,7 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 575000,5,3,52.379082,-1.987269,"Skylark Street, Cofton Hackett, Birmingham, B45 8FP",1,0,0
 575000,3,2,52.550022,-1.83687,"Britwell Road, Sutton Coldfield, B73",1,0,0
 575000,5,2,52.440299,-1.942759,"'The Limes' Frederick Road, Selly Oak, Birmingham",0,1,0
-320000,2,1,52.46569,-1.89736,"Belgrave Village, Birmingham",0,0,1
+255000,3,1,52.52963,-1.92021,"Rocky Lane, Great Barr, Birmingham",0,1,0
 575000,5,3,52.453299,-1.886929,"Alcester Road, Moseley, Birmingham, B13",0,0,1
 575000,3,1,52.430482,-1.954766,"Swarthmore Road, Bournville Village Trust, Selly Oak, Birmingham, B29",0,1,0
 573000,5,3,52.45664,-1.95139,"Margaret Road, Birmingham",0,0,1
@@ -185,6 +180,7 @@ Price_GBP,Num_Bedrooms,Num_Bathrooms,Latitude,Longitude,Address,Detached,Semi-De
 550000,4,1,52.43031,-1.95745,"Swarthmore Road, Birmingham",1,0,0
 550000,6,3,52.52002,-1.84433,"Jaffray Lodge, Wood End Lane, Birmingham, B24",1,0,0
 550000,5,3,52.553798,-1.862096,"Avery Road, Sutton Coldfield",1,0,0
+343000,3,1,52.54303,-1.84263,"St. Michaels Road, Boldmere",0,1,0
 550000,4,2,52.421479,-1.944814,"High Heath Close, Bournville, Birmingham, B30",1,0,0
 549950,4,2,52.464112,-1.974482,"Cockthorpe Close, Harborne",0,0,1
 549950,5,1,52.459106,-1.956443,"Serpentine Road, Harborne, Birmingham",0,0,1
@@ -226,7 +222,7 @@ B28 8SW",1,0,0
 515000,5,2,52.54746,-1.851523,"25 Welford Road, Sutton Coldfield, B73 5DP",0,1,0
 510000,6,3,52.520397,-1.82169,"Holly Lane, Erdington, Birmingham, B24 9LS",1,0,0
 510000,6,3,52.444931,-1.867901,"Woodlands Road, Birmingham",0,1,0
-400000,4,2,52.44513,-1.83915,"Tenchlee Place, Hall Green, Birmingham",0,1,0
+260000,3,1,52.45306,-1.98495,"Overdale Road, Quinton, Birmingham",0,1,0
 510000,6,3,52.44498,-1.86902,"Woodlands Road, Sparkhill, Birmingham, West Midlands, B11",0,1,0
 506995,5,1,52.44171,-1.84063,"Shaftmoor Lane,
 Hall Green,
@@ -271,7 +267,7 @@ B28 8SN",0,1,0
 485000,4,2,52.438796,-2.001042,"Hightree Close, Birmingham",1,0,0
 485000,3,1,52.415847,-1.955589,"Hole Lane, Northfield, Birmingham, B31",0,1,0
 485000,4,2,52.555017,-1.936809,"Ravenhurst Drive, Birmingham, B43",1,0,0
-180000,3,1,52.42762,-2.0101,"Harlech Close, Birmingham",0,0,1
+280000,3,2,52.52511,-1.89826,"Aldridge Square, Perry Barr, Birmingham, B42 2GR",0,0,1
 485000,3,1,52.54356,-1.833599,"New Church Road, Sutton Coldfield, B73 5RP ",0,1,0
 485000,4,2,52.429744,-1.958284,"Abdon Avenue, Bournville Village Trust, Selly Oak, Birmingham, B29",0,1,0
 485000,3,1,52.54356,-1.83363,"New Church Road, Boldmere",0,1,0
@@ -293,7 +289,7 @@ B45 8GX",1,0,0
 475000,4,2,52.52789,-1.81261,"Chester Road, Chester Road",1,0,0
 475000,5,4,52.390758,-1.877126,"Shawhurst Lane, Birmingham, B47",0,1,0
 475000,3,2,52.43754,-1.88154,"Blenheim Road, Birmingham",0,1,0
-215000,3,1,52.543758,-1.928245,"Calshot Road, Great Barr, Birmingham",0,1,0
+185000,2,1,52.43867,-1.96392,"Castle Road, Birmingham, West Midlands, B29",0,1,0
 475000,4,1,52.517448,-1.737608,"New Road, Water Orton, Birmingham",1,0,0
 475000,3,1,52.553419,-1.853959,"Halton Road, Sutton Coldfield, West Midlands, B73",0,1,0
 475000,3,1,52.458312,-1.948001,"South Street, Harborne, Birmingham",0,0,1
@@ -317,7 +313,6 @@ B45 8GX",1,0,0
 B31 5NH
 ",1,0,0
 460000,3,1,52.522106,-1.805337,"Eachelhurst Road, Sutton Coldfield",0,1,0
-195000,3,1,52.54015,-1.92388,"Perry Wood Road, Great Barr",0,1,0
 460000,5,3,52.46151,-2.00393,"Clydesdale Road, Quinton, Birmingham",0,1,0
 460000,2,1,52.48611,-1.91278,"Variety Works, Frederick Street, Jewellery Quarter",0,0,1
 455000,4,3,52.54041,-1.841576,"Woodchurch Grange, Sutton Coldfield, B73 5GA",1,0,0
@@ -335,7 +330,7 @@ B31 5NH
 450000,4,1,52.421162,-1.848706,"Smirrells Road, Hall Green, Birmingham B28 0LA",1,0,0
 450000,4,3,52.49831,-1.81185,"Madison Avenue, Birmingham",0,1,0
 450000,4,1,52.43112,-1.95936,"Bryony Road, Selly Oak, B29",0,1,0
-200000,3,1,52.52962,-1.920195,"Rocky Lane, Great Barr, Birmingham, B42 1QU",0,1,0
+150000,3,1,52.5414,-1.944546,"Linden Avenue, Great Barr, Birmingham",0,0,1
 450000,3,1,52.430106,-1.961246,"Swarthmore Road, Bournville Village Trust, Selly Oak, Birmingham, B29",1,0,0
 450000,3,1,52.546436,-1.956228,"Pear Tree Road, Great Barr, Birmingham",1,0,0
 450000,5,2,52.518184,-1.741415,"Birmingham Road, Water Orton",1,0,0
@@ -349,6 +344,7 @@ B31 5NH
 450000,3,1,52.55473,-1.858953,"Alcester Drive, Sutton Coldfield, B73 6PZ",1,0,0
 450000,3,1,52.539997,-1.830708,"The Boulevard, Sutton Coldfield",0,1,0
 450000,4,2,52.500301,-1.813287,"Bromford Road, Hodge Hill, B36 8EU",0,1,0
+450000,3,0,52.549365,-1.82768,"Highbridge Road, Sutton Coldfield",1,0,0
 449950,5,3,52.516456,-1.920634,"Wood Lane, Handsworth Wood, Birmingham, B20 2AG",1,0,0
 449000,3,1,52.457309,-1.969525,"Harts Green Road, Birmingham",0,1,0
 445000,4,1,52.38231,-1.98688,"East Works Drive,
@@ -357,7 +353,6 @@ B45 8GX",0,1,0
 445000,3,2,52.548253,-1.852155,"College Road, Sutton Coldfield, B73",0,1,0
 440000,3,1,52.55365,-1.854957,"Halton Road, Sutton Coldfield, B73 6NZ",0,1,0
 440000,3,1,52.524597,-1.820892,"Chestnut Drive, Erdington, Birmingham, B24 0DP",1,0,0
-170000,2,1,52.4634,-1.99937,"Hagley Road West, Oldbury",0,0,1
 440000,3,2,52.517128,-1.740063,"Church Avenue,Water Orton ,B46 1QT",0,1,0
 440000,3,0,52.553531,-1.855002,"Halton Road, Sutton Coldfield",0,1,0
 440000,8,3,52.436973,-1.925194,"Warwards Lane, Birmingham",0,1,0
@@ -369,6 +364,7 @@ B45 8GX",0,1,0
 437500,4,2,52.54001,-1.858089,"Marshmont Way, Birmingham, B23 5XY",1,0,0
 435000,4,1,52.55322,-1.86206,"Avery Road, Boldmere",1,0,0
 435000,4,2,52.47454,-1.965902,"Barnsley Road, Birmingham",0,1,0
+435000,3,1,52.465694,-1.976601,"The Close, Harborne, Birmingham, B17 8TU",1,0,0
 435000,5,3,52.494007,-1.967244,"Piddock Road, Smethwick",1,0,0
 435000,5,3,52.43919,-1.92861,Tiverton Road,0,0,1
 435000,2,1,52.462536,-1.951654,"Moor Pool Avenue, Harborne, Birmingham, B17 9HL",0,1,0
@@ -378,7 +374,6 @@ B45 8GX",0,1,0
 430000,4,1,52.493,-1.80834,"Stechford Road, Birmingham, West Midlands, B34",0,1,0
 430000,5,2,52.49041,-1.81689,"Stechford Lane, Birmingham",0,1,0
 430000,4,1,52.44031,-1.8733,"Shelsley Drive, Birmingham, West Midlands, B13",1,0,0
-400000,3,3,52.44513,-1.83915,"Tenchlee Place, Hall Green, Birmingham",0,1,0
 430000,3,1,52.386047,-1.872876,"Cherry Walk, Hollywood, Birmingham",1,0,0
 425000,3,1,52.49678,-1.81068,"Coleshill Road, Birmingham, B36",1,0,0
 425000,5,2,52.50517,-1.91392,"North Drive, Handsworth, Birmingham, B20",0,1,0
@@ -400,7 +395,7 @@ B45 8GX",0,1,0
 425000,3,1,52.429913,-1.95766,"Swarthmore Road, Bournville, Birmingham, B29 4JS",0,1,0
 425000,6,1,52.461582,-1.868489,"Anderton Road, Birmingham, B11",0,0,1
 425000,4,1,52.55371,-1.862192,"Avery Road, Sutton Coldfield",1,0,0
-300000,3,1,52.462387,-1.787763,"Benedon Road, Birmingham",1,0,0
+285000,3,0,52.518436,-1.833737,"Spring Lane, Erdington, Birmingham",0,1,0
 425000,4,3,52.537342,-1.93168,"Hobhouse Close, Great Barr, Birmingham, B42 1HB",1,0,0
 425000,3,1,52.460857,-1.94709,"Clarence Road, Harborne, Birmingham, B17 9LA",0,0,1
 425000,4,2,52.418365,-1.931939,"Watford Road, Cotteridge, Birmingham",0,1,0
@@ -426,7 +421,7 @@ B28 8SW",0,1,0
 420000,5,2,52.457401,-1.95639,"Harborne Park Road, Birmingham",0,0,1
 420000,3,1,52.545794,-1.922976,"Queslett Road, Birmingham, B43",1,0,0
 420000,3,1,52.393692,-2.021984,"Callowbrook Lane, Rednal, Birmingham, B45 9HP",1,0,0
-340000,3,1,52.42813,-1.83598,"Shirley Road, Hall Green",0,1,0
+300000,3,1,52.462387,-1.787763,"Benedon Road, Birmingham",1,0,0
 419950,3,1,52.46825,-1.97169,"Ingham Way, Birmingham, B17",0,1,0
 415000,5,2,52.437815,-1.930065,"281 Heeley Road, Selly Oak, Birmingham",0,0,1
 415000,4,3,52.401699,-1.99552,"Larch Drive, Northfield, Birmingham B31 5HB",1,0,0
@@ -477,7 +472,7 @@ B28 8SW",0,1,0
 400000,3,1,52.441491,-1.847162,"Russell Road, Hall Green, Birmingham, West Midlands, B28",0,0,1
 400000,3,2,52.51525,-1.83875,"Kingsbury Road, Erdington, Birmingham",0,1,0
 400000,5,2,52.399075,-2.020914,"Callowbrook Lane, Rednal, Birmingham, B45 9TR",1,0,0
-325000,3,1,52.441291,-1.865367,"Pickwick Grove, Birmingham",1,0,0
+350000,3,1,52.533112,-1.822627,"Welwyndale Road, Sutton Coldfield, B72 1AW",0,1,0
 400000,4,2,52.517314,-1.735869,"Salisbury Drive, Water Orton",0,1,0
 400000,4,2,52.5454,-1.912261,"Booths Lane, Birmingham, B42",1,0,0
 400000,3,2,52.463386,-1.979073,"The Lindens, Harborne",0,1,0
@@ -485,6 +480,8 @@ B28 8SW",0,1,0
 400000,3,1,52.52655,-1.82013,"Beeches Drive, Birmingham",0,1,0
 400000,3,1,52.434562,-1.940277,"Langleys Road, Birmingham, B29",1,0,0
 400000,5,2,52.439491,-1.81119,"Brookvale Grove, Solihull, B92 7JH",0,1,0
+400000,3,3,52.44513,-1.83915,"Tenchlee Place, Hall Green, Birmingham",0,1,0
+400000,4,2,52.44513,-1.83915,"Tenchlee Place, Hall Green, Birmingham",0,1,0
 400000,3,2,52.55218,-1.91206,"Queslett Road, Birmingham",1,0,0
 400000,5,2,52.48038,-1.96241,"Poplar Avenue, Smethwick",0,0,1
 400000,3,1,52.461388,-1.968386,"Grosvenor Road, Harborne, Birmingham, B17",0,0,1
@@ -499,9 +496,6 @@ B28 8SN",0,1,0
 395000,3,1,52.43317,-1.84022,"Fox Hollies Road, Hall Green, Birmingham",0,1,0
 395000,4,1,52.433071,-1.847354,"Cambrai Drive, Birmingham",0,1,0
 395000,4,1,52.447834,-1.960583,"Quinton Road, Harborne, Birmingham, B17",0,1,0
-329950,3,1,52.38231,-1.98688,"East Works Drive,
-Cofton Hackett,
-B45 8GX",0,1,0
 395000,4,1,52.404317,-1.915834,"Tylers Green, Birmingham",1,0,0
 395000,4,1,52.515671,-1.841161,"Kingsbury Road, Erdington, Birmingham, B24 8QY",0,1,0
 395000,3,2,52.455608,-1.96178,"Victoria Road, Harborne, Birmingham",0,0,1
@@ -544,7 +538,6 @@ B30 2XZ",0,0,1
 375000,3,2,52.437454,-1.935285,"Arkell Way, Selly Oak, Birmingham, B29",0,1,0
 375000,3,1,52.465595,-1.977674,"Minley Avenue, Harborne",0,1,0
 375000,3,2,52.433338,-1.886591,"Institute Road, Kings Heath, Birmingham, B14",0,0,1
-265000,3,1,52.517422,-1.825873,"Kingsbury Road, Erdington Birmingham B24 9NJ",0,1,0
 375000,3,1,52.465566,-1.977673,"Minley Avenue, Harborne, Birmingham, B17",0,1,0
 375000,4,1,52.467098,-1.80525,"Vera Road, Birmingham, West Midlands, B26",0,1,0
 375000,3,2,52.546172,-1.853423,"Chester Gardens, Sutton Coldfield, West Midlands, B73",0,1,0
@@ -566,12 +559,10 @@ B30 2XZ",0,0,1
 375000,3,2,52.55109,-1.836546,"Jockey Road, Sutton Coldfield, B73 5PN ",0,1,0
 375000,3,1,52.54635,-1.92741,"Queslett Road, BIRMINGHAM",0,1,0
 375000,6,3,52.443077,-1.850438,"Shaftmoor Lane, Hall Green",0,1,0
-160000,2,1,52.407532,-1.965543,"Station Road, Birmingham",0,0,1
 375000,4,3,52.513012,-1.848332,"Wheelwright Road, Erdington, Birmingham, B24 8PA",0,1,0
 375000,3,1,52.38231,-1.98688,"East Works Drive,
 Cofton Hackett,
 B45 8GX",0,1,0
-375000,3,1,52.450092,-1.948592,"Harborne Park Road, Birmingham",0,1,0
 370000,3,1,52.40946,-1.99349,"Frankley Beeches Road, Northfield, 
 B31 5NH
 ",1,0,0
@@ -590,7 +581,9 @@ B31 5NH
 365000,4,0,52.44045,-1.93052,Tiverton Road,0,0,1
 365000,4,2,52.395182,-2.032383,"Gunner Lane, Rubery, Rednal, Birmingham, B45",0,1,0
 365000,4,2,52.53403,-1.91489,"Gainsborough Road, Birmingham",0,1,0
-325000,3,2,52.46267,-1.79022,"Willclare Road, BIRMINGHAM",0,1,0
+329950,3,1,52.38231,-1.98688,"East Works Drive,
+Cofton Hackett,
+B45 8GX",0,1,0
 365000,3,2,52.539851,-1.841689,"Woodchurch Grange, Sutton Coldfield, B73",1,0,0
 365000,3,3,52.518005,-1.737399,"The Sidings, Water Orton, Birmingham",0,0,1
 360000,4,2,52.46019,-2.004783,"Wilmington Road, Quinton",0,1,0
@@ -640,18 +633,16 @@ B31 5NH
 350000,2,1,52.45781,-1.94639,"Greenfield Road, Harborne, Birmingham",0,0,1
 350000,3,1,52.535846,-1.825364,"Holifast Road, Sutton Coldfield, B72",0,1,0
 350000,5,2,52.44846,-1.94934,Quinton Road,0,1,0
-350000,3,1,52.533112,-1.822627,"Welwyndale Road, Sutton Coldfield, B72 1AW",0,1,0
 350000,3,1,52.5549,-1.93904,"Highland Road, Great Barr, Birmingham",0,1,0
 350000,3,1,52.460704,-1.987921,"Ridgacre Road, Quinton",1,0,0
 350000,3,1,52.529206,-1.821543,"Windsor Drive, Birmingham, B24",0,1,0
 350000,3,1,52.419401,-1.897296,"Greenwood Close, Birmingham, West Midlands, B14",1,0,0
-350000,4,2,52.382446,-1.987718,"Fairey Street, Cofton Hackett, Birmingham",0,1,0
 350000,2,1,52.460201,-1.94841,"104 Gordon Road, Harborne, Birmingham",0,0,1
 350000,2,1,52.461311,-1.947756,"Gordon Road, Harborne, Birmingham",0,0,1
 350000,4,2,52.405644,-1.928922,"Kings Lodge, Kings Norton, Birmingham, B38",0,1,0
 350000,4,1,52.547107,-1.951662,"Chatsworth Avenue, Birmingham",0,0,1
 350000,3,1,52.38665,-2.014559,"Bilberry Drive, Rednal, Birmingham",0,1,0
-280000,3,1,52.467,-1.79682,"Jephson Drive, Birmingham",0,1,0
+180000,2,1,52.46822,-1.77518,"Admington Road, Birmingham",0,0,1
 350000,3,1,52.380573,-2.00093,"Barnt Green Road, Cofton Hackett, B45",0,1,0
 350000,4,3,52.521217,-1.805416,"Lathe Way, Birmingham, B24 0SD",1,0,0
 349999,3,1,52.53936,-1.836527,"Boldmere Road, Sutton Coldfield, B73",0,1,0
@@ -667,12 +658,13 @@ B24 9LU",1,0,0
 345000,3,1,52.448415,-1.870542,"Croome Close, Sparkhill, Birmingham, West Midlands, B11",0,1,0
 345000,3,1,52.48128,-1.96388,"Willow Avenue, Birmingham",0,1,0
 345000,3,2,52.52042,-1.925723,"Coopers Road, Handsworth Wood, Birmingham, B20 2JT",0,1,0
-343000,3,1,52.54303,-1.84263,"St. Michaels Road, Boldmere",0,1,0
 342500,4,0,52.403949,-1.872573,"Mortimers Close, Nr Hollywood",0,1,0
+340000,3,1,52.42813,-1.83598,"Shirley Road, Hall Green",0,1,0
 340000,3,1,52.481695,-1.811819,"Lyttelton Road, Stechford, Birmingham, B33",0,1,0
 340000,3,1,52.448249,-1.965673,"Weymoor Road, Harborne, Birmingham",0,1,0
 340000,5,3,52.48136,-1.94533,"Hallewell Road, Birmingham, West Midlands, B16",0,1,0
 340000,3,1,52.544536,-1.940429,"Waddington Avenue, Great Barr, Birmingham",1,0,0
+275000,3,1,52.421475,-1.90764,"Harton Way, Birmingham, West Midlands, B14",0,1,0
 340000,7,6,52.468274,-1.775128,"Admington Road, Birmingham, B33",0,1,0
 340000,4,2,52.52214,-1.81912,"Westmead Crescent, Erdington",1,0,0
 340000,4,1,52.52354,-1.923183,"Lloyd Road, Handsworth Wood, Birmingham, B20 2NE",0,1,0
@@ -694,6 +686,7 @@ B24 9LU",1,0,0
 335000,3,1,52.40946,-1.99349,"Frankley Beeches Road, Northfield, 
 B31 5NH
 ",0,1,0
+215000,3,1,52.543758,-1.928245,"Calshot Road, Great Barr, Birmingham",0,1,0
 335000,3,2,52.51416,-1.907815,"5 New Build Homes Rear of 7 Calthorpe Road, Birmingham, B20 3LZ",1,0,0
 335000,3,1,52.421977,-1.850537,"Etwall Road, Hall Green",0,1,0
 335000,3,1,52.459486,-1.976907,"Tennal Lane, Birmingham, B32 2BP",0,1,0
@@ -715,6 +708,7 @@ B31 5NH
 330000,3,1,52.50518,-1.78339,"Chester Road, Castle Bromwich, Birmingham",0,1,0
 330000,3,1,52.444374,-1.907173,"Holders Gardens, Moseley, Birmingham",0,1,0
 330000,4,1,52.541214,-1.945903,"Chudleigh Grove, Great Barr, Birmingham, B43 5HJ",0,1,0
+215000,2,1,52.406993,-1.956888,"Rea Valley Drive, Northfield, Birmingham, B31",0,1,0
 329000,4,1,52.446452,-1.913988,"636 Pershore Road, Selly Park, Birmingham, B29 7HG",0,0,1
 326000,3,1,52.5199,-1.82237,"Holly Lane,
 Erdington,
@@ -735,10 +729,11 @@ B24 9LU",0,1,0
 325000,3,0,52.409685,-1.976825,"Park View Road, Birmingham, West Midlands, B31",0,1,0
 325000,4,2,52.4178,-1.93012,"Rowheath Road, Birmingham",0,0,1
 325000,3,1,52.526517,-1.907541,"Perry Avenue, Birmingham, B42",0,1,0
+325000,3,2,52.46267,-1.79022,"Willclare Road, BIRMINGHAM",0,1,0
 325000,3,1,52.515228,-1.730776,"Coleshill Road, Birmingham, B46 1QD",0,1,0
 325000,3,1,52.53466,-1.8344,"Knipersley Road, Sutton Coldfield",0,1,0
 325000,3,1,52.424446,-1.845571,"Blackburne Road, Hall Green",0,1,0
-230000,3,1,52.552315,-1.940919,"Greenhill Gardens,  Great Barr, Birmingham B43 7TB",0,0,1
+160000,2,1,52.407532,-1.965543,"Station Road, Birmingham",0,0,1
 325000,3,2,52.435501,-1.895686,"Grange Road, Kings Heath, Birmingham",0,0,1
 325000,3,2,52.376922,-1.876358,"Burnham Road, Wythall",0,1,0
 325000,4,2,52.47682,-1.80944,"Manor Gardens, Birmingham",1,0,0
@@ -747,6 +742,7 @@ B24 9LU",0,1,0
 325000,3,1,52.508209,-1.769727,"Water Orton Road, Birmingham",0,1,0
 325000,3,2,52.43343,-1.91288,"Ashbrook Grove, Birmingham, West Midlands, B30",0,1,0
 325000,4,2,52.50851,-1.9475,"Westbourne Road, Handsworth, Birmingham",0,0,1
+325000,3,1,52.441291,-1.865367,"Pickwick Grove, Birmingham",1,0,0
 325000,2,1,52.423419,-1.986893,"Hollyhedge Close, Northfield, Birmingham, B31",1,0,0
 325000,3,1,52.502696,-1.814449,"Twycross Grove, Hodge Hill, Birmingham",0,1,0
 325000,3,1,52.45346,-1.76863,"Sheldonfield Road, Birmingham",0,1,0
@@ -759,6 +755,7 @@ B24 9LU",0,1,0
 325000,3,2,52.521027,-1.81566,"Pype Hayes Road, Birmingham, B24 0LX",1,0,0
 320000,3,2,52.436828,-1.932098,"Meadows Drive, Birmingham",0,1,0
 320000,3,1,52.402584,-1.984376,"Tessall Lane, Northfield, Birmingham",0,1,0
+320000,2,1,52.46569,-1.89736,"Belgrave Village, Birmingham",0,0,1
 320000,3,1,52.46227,-1.89605,"Alexandra Road, Birmingham",0,1,0
 320000,2,1,52.462772,-1.946308,"Gordon Road, Harborne, Birmingham, B17 9HA",0,0,1
 320000,3,1,52.535854,-1.825814,"Holifast Road, Sutton Coldfield",0,1,0
@@ -773,6 +770,7 @@ B24 9LU",0,1,0
 320000,3,1,52.46178,-1.99937,"Whitley Court Road, Quinton, Birmingham",0,1,0
 315000,4,2,52.478848,-1.962316,"Poplar Avenue, Edgbaston, Birmingham, B17",0,0,1
 315000,3,2,52.49948,-1.76412,"Hurst Lane, BIRMINGHAM",0,1,0
+250000,3,1,52.46539,-1.80507,"Moat Lane, Yardley, Birmingham",0,1,0
 315000,3,2,52.50265,-1.82804,"Bromford Way, Birmingham",1,0,0
 315000,3,1,52.56153,-1.90378,"Sutherland Close, Great Barr, Birmingham, B43",0,1,0
 315000,2,1,52.432388,-1.951445,"Witherford Way, Bournville Village Trust, Selly Oak, Birmingham, B29",0,0,1
@@ -794,11 +792,13 @@ B24 9LU",0,1,0
 310000,4,1,52.50307,-1.81051,"The Chattocks, Collingbourne Avenue, Birmingham",0,1,0
 310000,3,1,52.54224,-1.85605,"Potter Close, New Oscott",1,0,0
 310000,3,1,52.524986,-1.796055,"Woodlands Farm Road, Birmingham",0,1,0
+240000,4,1,52.46886,-1.78283,"Frodesley Road, Birmingham",0,1,0
 310000,3,1,52.5475,-1.861583,"Elizabeth Road, Sutton Coldfield, B73 5AT",0,1,0
 310000,3,1,52.427908,-1.889104,"Alfred Street, Birmingham, B14",0,1,0
 310000,5,2,52.516285,-1.851165,"Beaufort Road, Erdington, Birmingham, B23 7NB",0,1,0
 305000,4,1,52.496827,-1.823723,"Bromford Lane, Birmingham, B8",0,1,0
 305000,3,2,52.513644,-1.951398,"Linchmere Road, Birmingham, B21",0,1,0
+300000,3,1,52.469669,-1.803402,"Barrows Lane, Yardley, Birmingham",0,1,0
 300000,2,1,52.456056,-1.963382,"War Lane, Harborne, Birmingham, B17 9RU",0,0,1
 300000,3,1,52.453376,-1.95124,"Leabon Grove, Harborne, Birmingham",0,0,1
 300000,4,1,52.518566,-1.936602,"Woodcroft Avenue, Handsworth Wood, Birmingham, B20 1AS",0,1,0
@@ -813,6 +813,7 @@ B24 9LU",0,1,0
 300000,4,1,52.401115,-1.974329,"Northfield, Birmingham, B31",0,1,0
 300000,3,2,52.537693,-1.933735,"Farlands Grove, Great Barr, Birmingham",1,0,0
 300000,3,2,52.47138,-1.8052,"The Villas, Birmingham",1,0,0
+240000,3,1,52.46447,-1.79109,"Larne Road, Birmingham",0,0,1
 300000,3,1,52.53908,-1.94452,"Claverdon Drive, BIRMINGHAM",1,0,0
 300000,3,1,52.46941,-1.78562,"Garretts Green Lane, Birmingham",0,1,0
 300000,3,1,52.405983,-1.916683,"Walkers Heath Road, Birmingham",1,0,0
@@ -846,6 +847,7 @@ B24 9LU",0,1,0
 299950,3,1,52.401882,-2.011244,"Rubery Lane, Rednal, Birmingham, B45 9AY",0,1,0
 299950,3,1,52.471986,-1.97702,"Galton Road, Bearwood, West Midlands, B67",0,0,1
 299950,3,1,52.543473,-1.889143,"Sandwood Drive , Kingstanding, Birmingham, B44 8SD",0,1,0
+299950,3,1,52.439156,-2.010209,"Woodvale Road, Woodgate",1,0,0
 299500,3,1,52.531236,-1.934295,"The Croftway, Handsworth Wood, Birmingham, B20 1EG",0,1,0
 295000,3,2,52.47453,-1.934,"Stirling Road, Birmingham",0,0,1
 295000,3,1,52.46106,-2.0107,"High Street, Quinton, Birmingham",0,0,1
@@ -856,7 +858,6 @@ B24 9LU",0,1,0
 295000,4,1,52.399938,-1.972162,"Hawkesley Drive, Northfield, Birmingham, B31",0,1,0
 295000,4,1,52.516544,-1.727834,"Watton Lane, Water Orton, Birmingham",0,1,0
 295000,3,1,52.424999,-1.841099,Stratford Road,0,1,0
-180000,2,1,52.518905,-1.803084,"Kingsbury Road, Erdington, Birmingham",0,0,1
 295000,3,2,52.529636,-1.845769,"COMING SOON, Sutton/Erdington Border, B23 6NS",0,1,0
 295000,3,1,52.50321,-1.94589,"Booth Street, Birmingham",0,1,0
 295000,0,1,52.528442,-1.814869,"915 Chester Road, Erdington, Birmingham, West Midlands, B24 0HJ",0,1,0

@@ -45,16 +45,6 @@ app.layout = html.Div(
         ),
         html.P(html.B(children="City", className="header-description",)),
         dcc.Dropdown(city_list, id="location", value="Manchester"),
-        # html.P(
-        #            children="Max Price",
-        #            className="header-description",
-        #        ),
-        # dcc.Input(id="max-price", type="number", value=cleaned_data["Price_GBP"].max()),
-        # html.P(
-        #            children="Min Price",
-        #            className="header-description",
-        #        ),
-        # dcc.Input(id="min-price", type="number", value=0),
         html.P(html.B(children="Number of Bedrooms", className="header-description",)),
         dcc.Input(id="num-bedrooms", type="number", value=2),
         html.P(html.B(children="Number of Bathrooms", className="header-description",)),
@@ -67,7 +57,7 @@ app.layout = html.Div(
         ),
         html.P(html.B(children="Model Type", className="header-description",)),
         dcc.Dropdown(
-            ["Linear Regression", "XGB"], id="model-type", value="Linear Regression"
+            ["Linear Regression", "XGBoost"], id="model-type", value="Linear Regression"
         ),
         html.Div(dash.dash_table.DataTable(id="table"), style={"display": "None"}),
         html.P(children="Now click on the map, and view the model's prediction for that location.", className="header-description",),
@@ -132,10 +122,8 @@ def map_click(
         raise PreventUpdate
     lat, lng = click_lat_lng[0], click_lat_lng[1]
     data = pd.DataFrame(data)
-    if model_type == "Linear Regression":
-        model = LinearRegression()
-    elif model_type == "XGB":
-        model = xgb.XGBRegressor()
+    model_dict = {"Linear Regression": LinearRegression(), "XGBoost": xgb.XGBRegressor()}
+    model = model_dict[model_type]
     prediction = predict(
         data,
         num_bedrooms,

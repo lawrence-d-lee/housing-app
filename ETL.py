@@ -203,7 +203,10 @@ def etl(city_list):
         data = create_table(city)
         cleaned_data = clean_data(data)
         directory = os.getcwd()
-        cleaned_data.to_csv(directory + "\\data\\" + city, index=False)
+        isExist = os.path.exists(directory + "\\data\\")
+        if not isExist:
+            os.makedirs(directory + "\\data\\")
+        cleaned_data.to_csv(directory + "\\data\\" + city.lower(), index=False)
         time.sleep(random.randint(5, 10))
         print(city + " is loaded")    
 
@@ -221,4 +224,4 @@ city_list = [
     "York",
 ]
 
-etl(city_list)
+#etl(city_list)
