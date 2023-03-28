@@ -6,8 +6,12 @@ import urllib
 import time
 import concurrent.futures
 import random
+import os
 
 def get_json(URL):
+    """
+    Takes a URL from a rightmove search and returns the page's corrosponding json file.
+    """ 
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
     relevant_part = soup.find_all("script")
@@ -16,6 +20,9 @@ def get_json(URL):
     return required_json
 
 def json_to_df(json):
+    """
+    Takes a rightmove json and converts the relevant data to a pandas DataFrame. 
+    """ 
     df = pd.DataFrame(
         columns=[
             "Price_GBP",
@@ -40,6 +47,9 @@ def json_to_df(json):
     return df
 
 def get_region_code(location):
+    """
+    Takes a location and finds the corrosponding rightmove code for the location. 
+    """ 
     response = requests.get(
         "https://www.rightmove.co.uk/house-prices/" + location + ".html"
     )
@@ -50,6 +60,9 @@ def get_region_code(location):
     return required_json["searchLocation"]["locationId"]
 
 def create_url(location, min_price ='', max_price = '', min_bedrooms='', max_bedrooms='', min_bathrooms='', max_bathrooms='', radius='', property_type='', index=''):
+    """
+    Takes a variety of housing features and creates the rightmove URL needed to search for houses with the desired features. 
+    """ 
     base_url = "https://www.rightmove.co.uk/property-for-sale/find.html?"
     location_code = get_region_code(location)
     params = {'searchType': 'SALE', 'locationIdentifier': 'REGION^' + location_code, 
@@ -71,6 +84,9 @@ def create_url_list(
     radius="",
     property_type="",
 ):
+    """
+    Takes a variety of housing features and creates a list of all rightmove URLs needed to search for houses with the desired features.
+    """ 
     def get_index(i):
         return create_url(
             location,
@@ -92,6 +108,9 @@ def create_url_list(
     return url_list
 
 def download_jsons(url_list):
+    """
+    Takes a list of rightmove URLs and returns a list of their corrosponding json files.
+    """ 
     threads = min(30, len(url_list))
     json_list=[]
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
@@ -101,6 +120,9 @@ def download_jsons(url_list):
         return json_list  
     
 def create_df(jsons):
+    """
+    Takes a list of rightmove jsons and creates a pandas DataFrame with the desired information.
+    """ 
     df = pd.DataFrame(
         columns=[
             "Price_GBP",
@@ -128,6 +150,9 @@ def create_table(
     radius="",
     property_type="",
 ):
+    """
+    Creates a pandas DataFrame of all rightmove data corrosponding to the input information.
+    """ 
     return create_df(download_jsons(create_url_list(location,
             min_price,
             max_price,
@@ -139,6 +164,11 @@ def create_table(
             property_type)))
 
 def clean_data(data):
+    """
+    Cleans a pandas DataFrame of housing data. Assumes houses with no data on bathrooms has 1 bathroom. 
+    Converts numerical data to integer type. Removes details of properties that aren't detached, semi-detached or terraced.
+    Renames columns to aid readability. 
+    """ 
     data["Num_Bathrooms"] = data["Num_Bathrooms"].fillna(1)
     data["Num_Bathrooms"] = data["Num_Bathrooms"].astype("int")
     data["Num_Bedrooms"] = data["Num_Bedrooms"].astype("int")
@@ -165,12 +195,15 @@ def clean_data(data):
     data = data.rename({'Property_Type_Detached': 'Detached', 'Property_Type_Semi-Detached': 'Semi-Detached', "Property_Type_Terraced": "Terraced"}, axis='columns')
     return data
 
-def ETL(city_list):
+def etl(city_list):
+    """
+    Takes a list of cities, then performs an ETL process to create a pandas DataFrame contaning property data from each city.
+    """ 
     for city in city_list:
         data = create_table(city)
         cleaned_data = clean_data(data)
-        Path = "C:\\Users\\Lawrence\\Desktop\\Housing-Project\\"
-        cleaned_data.to_csv(Path + city + "_csv", index=False)
+        directory = os.getcwd()
+        cleaned_data.to_csv(directory + "\\data\\" + city, index=False)
         time.sleep(random.randint(5, 10))
         print(city + " is loaded")    
 
@@ -188,4 +221,4 @@ city_list = [
     "York",
 ]
 
-#ETL(city_list)
+etl(city_list)

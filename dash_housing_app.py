@@ -11,8 +11,8 @@ from dash import Dash, dcc, html, Input, Output
 from dash.exceptions import PreventUpdate
 import plotly.express as px
 import dash_bootstrap_components as dbc
-from ETL import *
-from Model import *
+from etl import *
+from model import *
 
 city_list = [
     "Birmingham",
@@ -97,7 +97,7 @@ app.layout = html.Div(
 def get_map(location):
     #data = create_table(location)
     #cleaned_data = clean_data(data)
-    cleaned_data = pd.read_csv(location + "_csv")
+    cleaned_data = pd.read_csv("data//" + location)
     print(len(cleaned_data))
     Latitude_Midpoint = (
         cleaned_data["Latitude"].min()
