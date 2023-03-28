@@ -13,7 +13,7 @@ To run the app, clone the repo to your desktop.
 ```
 ### Run the app without Docker
 ```
-1. cd dash-deployment
+1. cd Housing-App
 2. python -m venv venv
 3. venv\Scripts\activate
 4. pip install -r requirements.txt
