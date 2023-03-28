@@ -87,7 +87,7 @@ app.layout = html.Div(
 def get_map(location):
     #data = create_table(location)
     #cleaned_data = clean_data(data)
-    cleaned_data = pd.read_csv("data//" + location)
+    cleaned_data = pd.read_csv("data//" + location.lower())
     print(len(cleaned_data))
     Latitude_Midpoint = (
         cleaned_data["Latitude"].min()

@@ -21,13 +21,13 @@ def fit_model(data, model):
 
 def predict(
     cleaned_data,
-    Num_Bedrooms,
-    Num_Bathrooms,
-    Latitude,
-    Longitude,
-    Detached,
-    Semi_Detached,
-    Terraced,
+    num_Bedrooms,
+    num_Bathrooms,
+    latitude,
+    longitude,
+    detached,
+    semi_detached,
+    terraced,
     model,
 ):
     """
@@ -36,13 +36,13 @@ def predict(
     """
     example = np.array(
         [
-            Num_Bedrooms,
-            Num_Bathrooms,
-            Latitude,
-            Longitude,
-            Detached,
-            Semi_Detached,
-            Terraced,
+            num_Bedrooms,
+            num_Bathrooms,
+            latitude,
+            longitude,
+            detached,
+            semi_detached,
+            terraced,
         ]
     ).reshape(1, -1)
     fitted_model, scaler = fit_model(cleaned_data, model)
