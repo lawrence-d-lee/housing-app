@@ -43,25 +43,59 @@ app.layout = html.Div(
             ],
             className="header",
         ),
-        html.P(html.B(children="City", className="header-description",)),
+        html.P(
+            html.B(
+                children="City",
+                className="header-description",
+            )
+        ),
         dcc.Dropdown(city_list, id="location", value="Manchester"),
-        html.P(html.B(children="Number of Bedrooms", className="header-description",)),
+        html.P(
+            html.B(
+                children="Number of Bedrooms",
+                className="header-description",
+            )
+        ),
         dcc.Input(id="num-bedrooms", type="number", value=2),
-        html.P(html.B(children="Number of Bathrooms", className="header-description",)),
+        html.P(
+            html.B(
+                children="Number of Bathrooms",
+                className="header-description",
+            )
+        ),
         dcc.Input(id="num-bathrooms", type="number", value=1),
-        html.P(html.B(children="Property Type", className="header-description",)),
+        html.P(
+            html.B(
+                children="Property Type",
+                className="header-description",
+            )
+        ),
         dcc.Dropdown(
             ["Terraced", "Semi-Detached", "Detached"],
             id="property-type",
             value="Terraced",
         ),
-        html.P(html.B(children="Model Type", className="header-description",)),
+        html.P(
+            children="""There are three models to choose from, but some are perhaps more helpful that others. 
+                        Can you think why linear regression might not be ideal for predicting house prices by location?""",
+            className="header-description",
+        ),
+        html.P(
+            html.B(
+                children="Model Type",
+                className="header-description",
+            )
+        ),
         dcc.Dropdown(
-            ["Linear Regression", "XGBoost"], id="model-type", value="Linear Regression"
+            ["Linear Regression", "K-Nearest Neighbors", "XGBoost"],
+            id="model-type",
+            value="XGBoost",
         ),
         html.Div(dash.dash_table.DataTable(id="table"), style={"display": "None"}),
-        html.P(children="Now click on the map, and view the model's prediction for that location.", className="header-description",),
-
+        html.P(
+            children="Now click on the map, and view the model's prediction for that location.",
+            className="header-description",
+        ),
         dl.Map(
             [dl.TileLayer(), dl.LayerGroup(id="layer")],
             id="map",
@@ -85,8 +119,8 @@ app.layout = html.Div(
     Input("location", "value"),
 )
 def get_map(location):
-    #data = create_table(location)
-    #cleaned_data = clean_data(data)
+    # data = create_table(location)
+    # cleaned_data = clean_data(data)
     cleaned_data = pd.read_csv("data//" + location.lower())
     print(len(cleaned_data))
     Latitude_Midpoint = (
@@ -122,7 +156,11 @@ def map_click(
         raise PreventUpdate
     lat, lng = click_lat_lng[0], click_lat_lng[1]
     data = pd.DataFrame(data)
-    model_dict = {"Linear Regression": LinearRegression(), "XGBoost": xgb.XGBRegressor()}
+    model_dict = {
+        "Linear Regression": LinearRegression(),
+        "K-Nearest Neighbors": KNeighborsClassifier(n_neighbors=7),
+        "XGBoost": xgb.XGBRegressor(),
+    }
     model = model_dict[model_type]
     prediction = predict(
         data,
@@ -140,4 +178,4 @@ def map_click(
 
 
 if __name__ == "__main__":
-    app.run_server(debug=False, host='0.0.0.0', port=8050)
+    app.run_server(debug=False, host="0.0.0.0", port=8050)
