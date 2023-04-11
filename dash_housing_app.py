@@ -1,8 +1,13 @@
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import StandardScaler
+import xgboost as xgb
+import numpy as np
+import pandas as pd
 import dash
 from dash import dcc
 from dash import html
-import pandas as pd
-import numpy as np
 import flask
 from dash.dependencies import Output, Input
 import plotly.express as px
@@ -11,8 +16,53 @@ from dash import Dash, dcc, html, Input, Output
 from dash.exceptions import PreventUpdate
 import plotly.express as px
 import dash_bootstrap_components as dbc
-from etl import *
-from model import *
+
+
+def fit_model(data, model):
+    """
+    Given a pandas DataFrame of housing data and a scikit-learn model, 
+    this function fits a scaler and then fits the model to the DataFrame. 
+    It returns the model and the scaler.
+    """
+    scaler = StandardScaler()
+    X = data.drop(columns=["Price_GBP", "Address"])
+    X = scaler.fit_transform(X.values)
+    y = data["Price_GBP"]
+    model.fit(X, y)
+    return model, scaler
+
+
+def predict(
+    cleaned_data,
+    num_Bedrooms,
+    num_Bathrooms,
+    latitude,
+    longitude,
+    detached,
+    semi_detached,
+    terraced,
+    model,
+):
+    """
+    Given a pandas DataFrame of cleaned housing data, a scikit-learn model, and an example one wishes to make a prediction on,
+    this function fits the model to the data and returns the predicted price of the example.
+    """
+    example = np.array(
+        [
+            num_Bedrooms,
+            num_Bathrooms,
+            latitude,
+            longitude,
+            detached,
+            semi_detached,
+            terraced,
+        ]
+    ).reshape(1, -1)
+    fitted_model, scaler = fit_model(cleaned_data, model)
+    example = scaler.transform(example)
+    prediction = fitted_model.predict(example)
+    return prediction[0]
+
 
 city_list = [
     "Birmingham",
@@ -119,8 +169,6 @@ app.layout = html.Div(
     Input("location", "value"),
 )
 def get_map(location):
-    # data = create_table(location)
-    # cleaned_data = clean_data(data)
     cleaned_data = pd.read_csv("data//" + location.lower())
     print(len(cleaned_data))
     Latitude_Midpoint = (

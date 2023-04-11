@@ -270,4 +270,4 @@ city_list = [
     "York",
 ]
 
-# etl(city_list)
+etl(city_list)
