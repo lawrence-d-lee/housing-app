@@ -20,3 +20,5 @@ To run the app, clone the repo to your desktop.
 5. python dash_housing_app
 ```
 Then, either click on the location given on the terminal or visit http://localhost:8050/ to view the app.
+
+The app comes with data about UK house prices which has already been obtained. To get current data, you can simply run the etl.py script.
