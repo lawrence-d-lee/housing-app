@@ -1,4 +1,4 @@
-# Housing-App
+# housing-app
 
 This is a dash app which predicts house prices for several UK cities. Simply choose the city you are interested in from the dropdown menu, then select
 the features you'd like to have. Finally, click on the map to see the model's prediction for that location.
