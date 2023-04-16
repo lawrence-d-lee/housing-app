@@ -9,7 +9,7 @@ on:
 
 jobs:
       push-store-image:
-        runs-on: windows-latest
+        runs-on: ubuntu-latest
         steps:
           - name: 'Checkout GitHub Action'
             uses: actions/checkout@main
