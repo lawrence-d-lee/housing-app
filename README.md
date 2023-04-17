@@ -6,8 +6,8 @@ the features you'd like to have. Finally, click on the map to see the model's pr
 ### Run the app using Docker (recommended)
 ```
 1. Check Docker is installed (https://docs.docker.com/engine/install/) and running
-1. docker pull ghcr.io/lawrence-d-lee/text_generator:latest
-2. docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
+2. docker pull ghcr.io/lawrence-d-lee/text_generator:latest
+3. docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
 ```
 ### Run the app without Docker (Linux)
 ```
