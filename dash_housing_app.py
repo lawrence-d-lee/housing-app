@@ -4,13 +4,11 @@ import dash_leaflet as dl
 import flask
 import numpy as np
 import pandas as pd
-import plotly.express as px
 import xgboost as xgb
 from dash import Dash, Input, Output, dcc, html
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 
