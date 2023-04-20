@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python3 dash_housing_app.py
 ```
 ### Run the app without Docker (Windows)
-```
+```Shell
 git clone https://github.com/lawrence-d-lee/housing-app.git
 cd .\housing-app\
 python -m venv housing_venv
