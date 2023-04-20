@@ -15,10 +15,10 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 
 
-def fit_model(data: pd.DataFrame, model)-> pd.DataFrame:
+def fit_model(data: pd.DataFrame, model) -> pd.DataFrame:
     """
-    Given a pandas DataFrame of housing data and a scikit-learn model, 
-    this function fits a scaler and then fits the model to the DataFrame. 
+    Given a pandas DataFrame of housing data and a scikit-learn model,
+    this function fits a scaler and then fits the model to the DataFrame.
     It returns the model and the scaler.
     """
     scaler = StandardScaler()
@@ -39,7 +39,7 @@ def predict(
     semi_detached: int,
     terraced: int,
     model: int,
-)-> float:
+) -> float:
     """
     Given a pandas DataFrame of cleaned housing data, a scikit-learn model, and an example one wishes to make a prediction on,
     this function fits the model to the data and returns the predicted price of the example.
