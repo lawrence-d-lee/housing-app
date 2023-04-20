@@ -10,7 +10,7 @@ docker pull ghcr.io/lawrence-d-lee/text_generator:latest
 docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
 ```
 ### Run the app without Docker (Linux)
-```Bash
+```Shell
 git clone https://github.com/lawrence-d-lee/housing-app.git
 cd housing-app
 python3 -m venv housing_venv
