@@ -1,24 +1,21 @@
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.preprocessing import StandardScaler
-import xgboost as xgb
+import dash
+import dash_bootstrap_components as dbc
+import dash_leaflet as dl
+import flask
 import numpy as np
 import pandas as pd
-import dash
-from dash import dcc
-from dash import html
-import flask
-from dash.dependencies import Output, Input
 import plotly.express as px
-import dash_leaflet as dl
-from dash import Dash, dcc, html, Input, Output
+import xgboost as xgb
+from dash import Dash, Input, Output, dcc, html
+from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
-import plotly.express as px
-import dash_bootstrap_components as dbc
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import StandardScaler
 
 
-def fit_model(data, model):
+def fit_model(data: pd.DataFrame, model)-> pd.DataFrame:
     """
     Given a pandas DataFrame of housing data and a scikit-learn model, 
     this function fits a scaler and then fits the model to the DataFrame. 
@@ -33,16 +30,16 @@ def fit_model(data, model):
 
 
 def predict(
-    cleaned_data,
-    num_Bedrooms,
-    num_Bathrooms,
-    latitude,
-    longitude,
-    detached,
-    semi_detached,
-    terraced,
-    model,
-):
+    cleaned_data: pd.DataFrame,
+    num_Bedrooms: int,
+    num_Bathrooms: int,
+    latitude: float,
+    longitude: float,
+    detached: int,
+    semi_detached: int,
+    terraced: int,
+    model: int,
+)-> float:
     """
     Given a pandas DataFrame of cleaned housing data, a scikit-learn model, and an example one wishes to make a prediction on,
     this function fits the model to the data and returns the predicted price of the example.
@@ -171,15 +168,15 @@ app.layout = html.Div(
 def get_map(location):
     cleaned_data = pd.read_csv("data//" + location.lower())
     print(len(cleaned_data))
-    Latitude_Midpoint = (
+    latitude_midpoint = (
         cleaned_data["Latitude"].min()
         + (cleaned_data["Latitude"].max() - cleaned_data["Latitude"].min()) / 2
     )
-    Longitude_Midpoint = (
+    longitude_midpoint = (
         cleaned_data["Longitude"].min()
         + (cleaned_data["Longitude"].max() - cleaned_data["Longitude"].min()) / 2
     )
-    coord = [Latitude_Midpoint, Longitude_Midpoint]
+    coord = [latitude_midpoint, longitude_midpoint]
     zoom = 12
     return (
         coord,

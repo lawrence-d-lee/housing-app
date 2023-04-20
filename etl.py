@@ -1,19 +1,20 @@
+import concurrent.futures
+import json
+import os
+import random
+import time
+import urllib
+
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-import json
-import pandas as pd
-import urllib
-import time
-import concurrent.futures
-import random
-import os
 
 
-def get_json(URL):
+def get_json(url: str) -> dict:
     """
     Takes a URL from a rightmove search and returns the page's corrosponding json file.
     """
-    page = requests.get(URL)
+    page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     relevant_part = soup.find_all("script")
     json_text = relevant_part[5].text.replace("window.jsonModel = ", "")
@@ -21,7 +22,7 @@ def get_json(URL):
     return required_json
 
 
-def json_to_df(json):
+def json_to_df(json: dict) -> pd.DataFrame:
     """
     Takes a rightmove json and converts the relevant data to a pandas DataFrame.
     """
@@ -49,7 +50,7 @@ def json_to_df(json):
     return df
 
 
-def get_region_code(location):
+def get_region_code(location: str) -> str:
     """
     Takes a location and finds the corrosponding rightmove code for the location.
     """
@@ -64,17 +65,16 @@ def get_region_code(location):
 
 
 def create_url(
-    location,
-    min_price="",
-    max_price="",
-    min_bedrooms="",
-    max_bedrooms="",
-    min_bathrooms="",
-    max_bathrooms="",
-    radius="",
-    property_type="",
-    index="",
-):
+    location: str,
+    min_price: str = "",
+    max_price: str = "",
+    min_bedrooms: str = "",
+    max_bedrooms: str = "",
+    min_bathrooms: str = "",
+    max_bathrooms: str = "",
+    radius: str = "",
+    index: str = "",
+) -> str:
     """
     Takes a variety of housing features and creates the rightmove URL needed to search for houses with the desired features.
     """
@@ -89,7 +89,7 @@ def create_url(
         "minBedrooms": min_bedrooms,
         "maxBedrooms": max_bedrooms,
         "minBathrooms": min_bathrooms,
-        "maxBathrooms": "",
+        "maxBathrooms": max_bathrooms,
         "propertyTypes": "detached,semi-detached,terraced",
         "index": index,
     }
@@ -98,21 +98,23 @@ def create_url(
 
 
 def create_url_list(
-    location,
-    min_price="",
-    max_price="",
-    min_bedrooms="",
-    max_bedrooms="",
-    min_bathrooms="",
-    max_bathrooms="",
-    radius="",
-    property_type="",
-):
+    location: str,
+    min_price: str = "",
+    max_price: str = "",
+    min_bedrooms: str = "",
+    max_bedrooms: str = "",
+    min_bathrooms: str = "",
+    max_bathrooms: str = "",
+    radius: str = "",
+    property_type: str = "",
+) -> list[str]:
     """
     Takes a variety of housing features and creates a list of all rightmove URLs needed to search for houses with the desired features.
     """
 
-    def get_index(i):
+    def get_index(i: int) -> str:
+        # Creates the url for the page number corresponding to the given index.
+        page_number = str(24 * (i - 1))
         return create_url(
             location,
             min_price,
@@ -123,7 +125,7 @@ def create_url_list(
             max_bathrooms,
             radius,
             property_type,
-            index=24 * (i - 1),
+            index=page_number,
         )
 
     url_list = []
@@ -135,7 +137,7 @@ def create_url_list(
     return url_list
 
 
-def download_jsons(url_list):
+def download_jsons(url_list: list[str]) -> list[dict[str, str]]:
     """
     Takes a list of rightmove URLs and returns a list of their corrosponding json files.
     """
@@ -148,7 +150,7 @@ def download_jsons(url_list):
         return json_list
 
 
-def create_df(jsons):
+def create_df(jsons: list[dict[str, str]]) -> pd.DataFrame:
     """
     Takes a list of rightmove jsons and creates a pandas DataFrame with the desired information.
     """
@@ -170,16 +172,16 @@ def create_df(jsons):
 
 
 def create_table(
-    location,
-    min_price="",
-    max_price="",
-    min_bedrooms="",
-    max_bedrooms="",
-    min_bathrooms="",
-    max_bathrooms="",
-    radius="",
-    property_type="",
-):
+    location: str,
+    min_price: str = "",
+    max_price: str = "",
+    min_bedrooms: str = "",
+    max_bedrooms: str = "",
+    min_bathrooms: str = "",
+    max_bathrooms: str = "",
+    radius: str = "",
+    property_type: str = "",
+) -> pd.DataFrame:
     """
     Creates a pandas DataFrame of all rightmove data corrosponding to the input information.
     """
@@ -200,7 +202,7 @@ def create_table(
     )
 
 
-def clean_data(data):
+def clean_data(data: pd.DataFrame) -> pd.DataFrame:
     """
     Cleans a pandas DataFrame of housing data. Assumes houses with no data on bathrooms has 1 bathroom.
     Converts numerical data to integer type. Removes details of properties that aren't detached, semi-detached or terraced.
@@ -240,7 +242,7 @@ def clean_data(data):
     return data
 
 
-def etl(city_list):
+def etl(city_list: list[str]) -> pd.DataFrame:
     """
     Takes a list of cities, then performs an ETL process to create a pandas DataFrame contaning property data from each city.
     """
@@ -248,9 +250,10 @@ def etl(city_list):
         data = create_table(city)
         cleaned_data = clean_data(data)
         directory = os.getcwd()
-        isExist = os.path.exists(directory + "\\data\\")
-        if not isExist:
-            os.makedirs(directory + "\\data\\")
+        os.makedirs(directory + "\\data\\", exist_ok=True)
+        #is_exist = os.path.exists(directory + "\\data\\")
+        #if not is_exist:
+        #    os.makedirs(directory + "\\data\\")
         cleaned_data.to_csv(directory + "\\data\\" + city.lower(), index=False)
         time.sleep(random.randint(5, 10))
         print(city + " is loaded")
