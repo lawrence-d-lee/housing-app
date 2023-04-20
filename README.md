@@ -4,8 +4,8 @@ This is a dash app which predicts house prices for several UK cities. Simply cho
 the features you'd like to have. Finally, click on the map to see the model's prediction for that location.
 
 ### Run the app using Docker (recommended)
-```
 Check Docker is installed (https://docs.docker.com/engine/install/) and running
+```
 docker pull ghcr.io/lawrence-d-lee/text_generator:latest
 docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
 ```
