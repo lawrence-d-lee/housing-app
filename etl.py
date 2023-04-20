@@ -106,6 +106,7 @@ def create_url_list(
     min_bathrooms: str = "",
     max_bathrooms: str = "",
     radius: str = "",
+    property_type: str = ""
 ) -> list[str]:
     """
     Takes a variety of housing features and creates a list of all rightmove URLs needed to search for houses with the desired features.
