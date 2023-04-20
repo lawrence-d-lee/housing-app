@@ -13,18 +13,18 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 
 
-def fit_model(data: pd.DataFrame, model) -> pd.DataFrame:
+def fit_model(data: pd.DataFrame, model):
     """
     Given a pandas DataFrame of housing data and a scikit-learn model,
     this function fits a scaler and then fits the model to the DataFrame.
-    It returns the model and the scaler.
+    It returns the model, scaler features and target.
     """
     scaler = StandardScaler()
-    X = data.drop(columns=["Price_GBP", "Address"])
-    X = scaler.fit_transform(X.values)
-    y = data["Price_GBP"]
-    model.fit(X, y)
-    return model, scaler
+    features = data.drop(columns=["Price_GBP", "Address"])
+    features = scaler.fit_transform(features.values)
+    target = data["Price_GBP"]
+    model.fit(features, target)
+    return model, scaler, features, target
 
 
 def predict(
@@ -53,7 +53,7 @@ def predict(
             terraced,
         ]
     ).reshape(1, -1)
-    fitted_model, scaler = fit_model(cleaned_data, model)
+    fitted_model, scaler = fit_model(cleaned_data, model)[0:2]
     example = scaler.transform(example)
     prediction = fitted_model.predict(example)
     return prediction[0]
