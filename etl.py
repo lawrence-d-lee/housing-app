@@ -106,15 +106,15 @@ def create_url_list(
     min_bathrooms: str = "",
     max_bathrooms: str = "",
     radius: str = "",
-    #property_type: str = ""
 ) -> list[str]:
     """
     Takes a variety of housing features and creates a list of all rightmove URLs needed to search for houses with the desired features.
     """
 
-    def get_index(i: int) -> str:
-        # Creates the url for the page number corresponding to the given index.
-        page_number = str(24 * (i - 1))
+    def get_index(page_number: int) -> str:
+        # Creates the url for the index corresponding to the given page number.
+        results_per_page = 24
+        required_index = str(results_per_page * (page_number - 1))
         return create_url(
             location,
             min_price,
@@ -124,13 +124,14 @@ def create_url_list(
             min_bathrooms,
             max_bathrooms,
             radius,
-            index=page_number,
+            index=required_index,
         )
 
     url_list = []
     threads = 30
+    total_pages = 43
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
-        executor = executor.map(get_index, range(43))
+        executor = executor.map(get_index, range(total_pages))
         for url in executor:
             url_list.append(url)
     return url_list
@@ -179,7 +180,6 @@ def create_table(
     min_bathrooms: str = "",
     max_bathrooms: str = "",
     radius: str = "",
-    #property_type: str = "",
 ) -> pd.DataFrame:
     """
     Creates a pandas DataFrame of all rightmove data corrosponding to the input information.
@@ -195,7 +195,6 @@ def create_table(
                 min_bathrooms,
                 max_bathrooms,
                 radius,
-                #property_type,
             )
         )
     )
@@ -250,9 +249,6 @@ def etl(city_list: list[str]) -> pd.DataFrame:
         cleaned_data = clean_data(data)
         directory = os.getcwd()
         os.makedirs(directory + "\\data\\", exist_ok=True)
-        #is_exist = os.path.exists(directory + "\\data\\")
-        #if not is_exist:
-        #    os.makedirs(directory + "\\data\\")
         cleaned_data.to_csv(directory + "\\data\\" + city.lower(), index=False)
         time.sleep(random.randint(5, 10))
         print(city + " is loaded")
