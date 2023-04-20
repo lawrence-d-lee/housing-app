@@ -10,7 +10,7 @@ the features you'd like to have. Finally, click on the map to see the model's pr
 3. docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
 ```
 ### Run the app without Docker (Linux)
-```
+```Bash
 1. git clone https://github.com/lawrence-d-lee/housing-app.git
 2. cd housing-app
 3. python3 -m venv housing_venv
