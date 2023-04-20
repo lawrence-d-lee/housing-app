@@ -10,7 +10,7 @@ docker pull ghcr.io/lawrence-d-lee/text_generator:latest
 docker run -p 8050:8050 ghcr.io/lawrence-d-lee/text_generator:latest
 ```
 ### Run the app without Docker (Linux)
-```Shell
+```console
 git clone https://github.com/lawrence-d-lee/housing-app.git
 cd housing-app
 python3 -m venv housing_venv
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python3 dash_housing_app.py
 ```
 ### Run the app without Docker (Windows)
-```Shell
+```powershell
 git clone https://github.com/lawrence-d-lee/housing-app.git
 cd .\housing-app\
 python -m venv housing_venv
