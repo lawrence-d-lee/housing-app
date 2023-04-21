@@ -253,8 +253,8 @@ def etl(city_list: list[str]) -> pd.DataFrame:
         time.sleep(random.randint(5, 10))
         print(city + " is loaded")
 
-
-city_list = [
+if __name__ == "__main__":
+    city_list = [
     "Birmingham",
     "Bristol",
     "Cardiff",
@@ -267,5 +267,4 @@ city_list = [
     "Newcastle-upon-Tyne",
     "York",
 ]
-
-etl(city_list)
+    etl(city_list)

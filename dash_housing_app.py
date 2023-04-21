@@ -9,7 +9,8 @@ from dash import Dash, Input, Output, dcc, html
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 from sklearn.linear_model import LinearRegression
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import cross_val_score
+from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import StandardScaler
 
 
@@ -25,6 +26,14 @@ def fit_model(data: pd.DataFrame, model):
     target = data["Price_GBP"]
     model.fit(features, target)
     return model, scaler, features, target
+
+def get_model_score(model, features: pd.DataFrame, target: pd.Series) -> float:
+    """
+    Performs k-fold cross validation on a model with k=5. Returns the mean of the scores.
+    """
+    scores = cross_val_score(model, features, target, cv=5, scoring ='neg_mean_squared_error')
+    avg_score = int(np.sqrt(np.abs(scores.mean())))
+    return avg_score
 
 
 def predict(
@@ -74,7 +83,7 @@ city_list = [
 ]
 
 server = flask.Flask(__name__)
-app = Dash(__name__, server=server, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(__name__, server=server, external_stylesheets=[dbc.themes.SLATE])
 
 app.layout = html.Div(
     [
@@ -121,11 +130,6 @@ app.layout = html.Div(
             value="Terraced",
         ),
         html.P(
-            children="""There are three models to choose from, but some are perhaps more helpful that others. 
-                        Can you think why linear regression might not be ideal for predicting house prices by location?""",
-            className="header-description",
-        ),
-        html.P(
             html.B(
                 children="Model Type",
                 className="header-description",
@@ -141,6 +145,7 @@ app.layout = html.Div(
             children="Now click on the map, and view the model's prediction for that location.",
             className="header-description",
         ),
+        html.Div(id='model-score'),
         dl.Map(
             [dl.TileLayer(), dl.LayerGroup(id="layer")],
             id="map",
@@ -201,7 +206,7 @@ def map_click(
     data = pd.DataFrame(data)
     model_dict = {
         "Linear Regression": LinearRegression(),
-        "K-Nearest Neighbors": KNeighborsClassifier(n_neighbors=7),
+        "K-Nearest Neighbors": KNeighborsRegressor(n_neighbors=7),
         "XGBoost": xgb.XGBRegressor(),
     }
     model = model_dict[model_type]
@@ -218,6 +223,33 @@ def map_click(
     )
     prediction = "£" + "{:.2f}".format(prediction)
     return [dl.Marker(position=click_lat_lng, children=dl.Tooltip(prediction))]
+
+@app.callback(
+    Output("model-score", 'children'),
+    Input("table", "data"),
+    Input("location", "value")
+)
+def model_score(
+    data, location
+):
+    data = pd.DataFrame(data)
+    model_dict = {
+        "Linear Regression": LinearRegression(),
+        "K-Nearest Neighbors": KNeighborsRegressor(n_neighbors=7),
+        "XGBoost": xgb.XGBRegressor(),
+    }
+    score_dict = {}
+    for key in model_dict:
+        fitted_model, scaler, features, target = fit_model(data, model_dict[key])
+        cv_score = get_model_score(fitted_model, features, target)
+        score_dict[key] = cv_score
+    best_score = min(score_dict.values())
+    inverted_score_dict = {v: k for k, v in score_dict.items()}
+    best_model = inverted_score_dict[best_score]
+    model_text_1 = "The model with the best score for " + location + " is " + best_model + " with an average Root Mean Sqared Error (RMSE) of " + str(best_score) + "." 
+    model_text_2  = " This was calulated using 5-fold cross validation."
+    return model_text_1 + model_text_2
+    
 
 
 if __name__ == "__main__":
