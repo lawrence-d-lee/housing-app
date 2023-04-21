@@ -27,11 +27,14 @@ def fit_model(data: pd.DataFrame, model):
     model.fit(features, target)
     return model, scaler, features, target
 
+
 def get_model_score(model, features: pd.DataFrame, target: pd.Series) -> float:
     """
     Performs k-fold cross validation on a model with k=5. Returns the mean of the scores.
     """
-    scores = cross_val_score(model, features, target, cv=5, scoring ='neg_mean_squared_error')
+    scores = cross_val_score(
+        model, features, target, cv=5, scoring="neg_mean_squared_error"
+    )
     avg_score = int(np.sqrt(np.abs(scores.mean())))
     return avg_score
 
@@ -145,7 +148,7 @@ app.layout = html.Div(
             children="Now click on the map, and view the model's prediction for that location.",
             className="header-description",
         ),
-        html.Div(id='model-score'),
+        html.Div(id="model-score"),
         dl.Map(
             [dl.TileLayer(), dl.LayerGroup(id="layer")],
             id="map",
@@ -170,11 +173,10 @@ app.layout = html.Div(
 )
 def get_map(location):
     """
-    Takes the user's chosen location, and returns the Leaflet map of that location. 
+    Takes the user's chosen location, and returns the Leaflet map of that location.
     Also returns the table of housing data for that location (but this is kept hidden).
     """
     cleaned_data = pd.read_csv("data//" + location.lower())
-    print(len(cleaned_data))
     latitude_midpoint = (
         cleaned_data["Latitude"].min()
         + (cleaned_data["Latitude"].max() - cleaned_data["Latitude"].min()) / 2
@@ -205,7 +207,7 @@ def map_click(
     click_lat_lng, data, num_bedrooms, num_bathrooms, property_type, model_type
 ):
     """
-    Takes a user's mouse click on a Leaflet map as input, along with their chosen data about the type of house. 
+    Takes a user's mouse click on a Leaflet map as input, along with their chosen data about the type of house.
     Returns the predicted house price for that location.
     """
     if click_lat_lng is None:
@@ -232,16 +234,15 @@ def map_click(
     prediction = "£" + "{:.2f}".format(prediction)
     return [dl.Marker(position=click_lat_lng, children=dl.Tooltip(prediction))]
 
+
 @app.callback(
-    Output("model-score", 'children'),
+    Output("model-score", "children"),
     Input("table", "data"),
-    Input("location", "value")
+    Input("location", "value"),
 )
-def model_score(
-    data, location
-):
+def model_score(data, location):
     """
-    Takes the user's chosen location and that location's data as input. 
+    Takes the user's chosen location and that location's data as input.
     Returns information about the best scoring model for that location.
     """
     data = pd.DataFrame(data)
@@ -258,10 +259,16 @@ def model_score(
     best_score = min(score_dict.values())
     inverted_score_dict = {v: k for k, v in score_dict.items()}
     best_model = inverted_score_dict[best_score]
-    model_text_1 = "The model with the best score for " + location + " is " + best_model + " with an average Root Mean Sqared Error (RMSE) of " + str(best_score) + "." 
-    model_text_2  = " This was calulated using 5-fold cross validation."
-    return model_text_1 + model_text_2
-    
+    model_text = (
+        "The model with the best score for "
+        + location
+        + " is "
+        + best_model
+        + " with an average Root Mean Sqared Error (RMSE) of "
+        + str(best_score)
+        + ". This was calulated using 5-fold cross validation."
+    )
+    return model_text
 
 
 if __name__ == "__main__":
