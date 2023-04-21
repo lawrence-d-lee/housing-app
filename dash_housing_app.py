@@ -169,6 +169,10 @@ app.layout = html.Div(
     Input("location", "value"),
 )
 def get_map(location):
+    """
+    Takes the user's chosen location, and returns the Leaflet map of that location. 
+    Also returns the table of housing data for that location (but this is kept hidden).
+    """
     cleaned_data = pd.read_csv("data//" + location.lower())
     print(len(cleaned_data))
     latitude_midpoint = (
@@ -200,6 +204,10 @@ def get_map(location):
 def map_click(
     click_lat_lng, data, num_bedrooms, num_bathrooms, property_type, model_type
 ):
+    """
+    Takes a user's mouse click on a Leaflet map as input, along with their chosen data about the type of house. 
+    Returns the predicted house price for that location.
+    """
     if click_lat_lng is None:
         raise PreventUpdate
     lat, lng = click_lat_lng[0], click_lat_lng[1]
@@ -232,6 +240,10 @@ def map_click(
 def model_score(
     data, location
 ):
+    """
+    Takes the user's chosen location and that location's data as input. 
+    Returns information about the best scoring model for that location.
+    """
     data = pd.DataFrame(data)
     model_dict = {
         "Linear Regression": LinearRegression(),
