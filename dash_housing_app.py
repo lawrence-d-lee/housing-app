@@ -8,7 +8,6 @@ import xgboost as xgb
 from dash import Dash, Input, Output, dcc, html
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
-from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import cross_val_score
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import StandardScaler
@@ -18,7 +17,7 @@ def fit_model(data: pd.DataFrame, model):
     """
     Given a pandas DataFrame of housing data and a scikit-learn model,
     this function fits a scaler and then fits the model to the DataFrame.
-    It returns the model, scaler features and target.
+    It returns the model, scaler, features and target.
     """
     scaler = StandardScaler()
     features = data.drop(columns=["Price_GBP", "Address"])
@@ -33,9 +32,9 @@ def get_model_score(model, features: pd.DataFrame, target: pd.Series) -> float:
     Performs k-fold cross validation on a model with k=5. Returns the mean of the scores.
     """
     scores = cross_val_score(
-        model, features, target, cv=5, scoring="neg_mean_squared_error"
+        model, features, target, cv=5, scoring="neg_mean_squared_log_error"
     )
-    avg_score = int(np.sqrt(np.abs(scores.mean())))
+    avg_score = np.sqrt(np.abs(np.mean(scores)))
     return avg_score
 
 
@@ -52,7 +51,7 @@ def predict(
 ) -> float:
     """
     Given a pandas DataFrame of cleaned housing data, a scikit-learn model, and an example one wishes to make a prediction on,
-    this function fits the model to the data and returns the predicted price of the example.
+    this function fits the model to the data and returns the maximum of predicted price of the example.
     """
     example = np.array(
         [
@@ -139,7 +138,7 @@ app.layout = html.Div(
             )
         ),
         dcc.Dropdown(
-            ["Linear Regression", "K-Nearest Neighbors", "XGBoost"],
+            ["K-Nearest Neighbors", "XGBoost"],
             id="model-type",
             value="XGBoost",
         ),
@@ -215,7 +214,6 @@ def map_click(
     lat, lng = click_lat_lng[0], click_lat_lng[1]
     data = pd.DataFrame(data)
     model_dict = {
-        "Linear Regression": LinearRegression(),
         "K-Nearest Neighbors": KNeighborsRegressor(n_neighbors=7),
         "XGBoost": xgb.XGBRegressor(),
     }
@@ -247,7 +245,6 @@ def model_score(data, location):
     """
     data = pd.DataFrame(data)
     model_dict = {
-        "Linear Regression": LinearRegression(),
         "K-Nearest Neighbors": KNeighborsRegressor(n_neighbors=7),
         "XGBoost": xgb.XGBRegressor(),
     }
@@ -258,13 +255,13 @@ def model_score(data, location):
         score_dict[key] = cv_score
     best_score = min(score_dict.values())
     inverted_score_dict = {v: k for k, v in score_dict.items()}
-    best_model = inverted_score_dict[best_score]
+    best_model = inverted_score_dict [best_score]
     model_text = (
         "The model with the best score for "
         + location
         + " is "
         + best_model
-        + " with an average Root Mean Sqared Error (RMSE) of "
+        + " with an average Root Mean Sqared Logaritmic Error (RMSLE) of "
         + str(best_score)
         + ". This was calulated using 5-fold cross validation."
     )
