@@ -2,5 +2,7 @@
 .pytest_cache
 .__pycache__
 __pycache__/
+.housing_venv
+housing_venv/
 .venv
 venv/
