@@ -1,13 +1,14 @@
-import dash_housing_app as dha
+import numpy as np
 import pandas as pd
 import xgboost as xgb
-import numpy as np
 from sklearn.preprocessing import StandardScaler
 
+import dash_housing_app as dha
 
 
 def test_sum():
-    assert sum([1, 2])==3
+    assert sum([1, 2]) == 2
+
 
 def test_fit_model():
     data = pd.read_csv("data//manchester")
