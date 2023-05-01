@@ -6,10 +6,6 @@ from sklearn.preprocessing import StandardScaler
 import dash_housing_app as dha
 
 
-def test_sum():
-    assert sum([1, 2]) == 3
-
-
 def test_fit_model():
     data = pd.read_csv("data//manchester")
     model = xgb.XGBRegressor()
