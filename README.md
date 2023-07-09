@@ -1,6 +1,6 @@
 # Housing App
 
-This is a Plotly Dash app built with Scikit-Learn which predicts house prices for several UK cities. Simply choose the city you are interested in from the dropdown menu, then select the features you'd like the house to have. Finally, click on the map and hover over the dropped blue pin to see the model's prediction for that location.
+This is a Plotly Dash app built with Scikit-Learn which predicts house prices for several UK cities. Simply choose the city you are interested in from the dropdown menu, then select the features you'd like the house to have. Finally choose a model, click on the map and hover over the dropped blue pin to see the model's prediction for that location.
 
 ![Screenshot](screenshot.PNG)
 
