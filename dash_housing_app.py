@@ -91,7 +91,7 @@ app.layout = html.Div(
     [
         html.Div(
             children=[
-                html.H1(children="House Price Analytics", className="header-title"),
+                html.H1(children="Housing App", className="header-title"),
                 html.P(
                     children="Start by choosing the city you are interested in, then choose the key features you'd like the house to have.",
                     className="header-description",
