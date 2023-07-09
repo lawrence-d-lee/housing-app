@@ -35,7 +35,7 @@ def get_model_score(model, features: pd.DataFrame, target: pd.Series) -> float:
         model, features, target, cv=5, scoring="neg_mean_squared_log_error"
     )
     avg_score = np.sqrt(np.abs(np.mean(scores)))
-    return avg_score
+    return float(avg_score)
 
 
 def predict(
@@ -47,7 +47,7 @@ def predict(
     detached: int,
     semi_detached: int,
     terraced: int,
-    model: int,
+    model,
 ) -> float:
     """
     Given a pandas DataFrame of cleaned housing data, a scikit-learn model, and an example one wishes to make a prediction on,
@@ -67,7 +67,7 @@ def predict(
     fitted_model, scaler = fit_model(cleaned_data, model)[0:2]
     example = scaler.transform(example)
     prediction = fitted_model.predict(example)
-    return prediction[0]
+    return float(prediction[0])
 
 
 city_list = [
